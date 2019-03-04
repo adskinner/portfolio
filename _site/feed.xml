@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-04T14:30:52-05:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-04T14:48:19-05:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
 </subtitle><author><name>Allison Skinner</name></author><entry><title type="html">Why I wanted to redesign my portfolio website</title><link href="http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site" rel="alternate" type="text/html" title="Why I wanted to redesign my portfolio website" /><published>2018-12-29T00:00:00-05:00</published><updated>2018-12-29T00:00:00-05:00</updated><id>http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site</id><content type="html" xml:base="http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-29/old-allison-homepage.jpg&quot; alt=&quot;Homepage of 2016 version of Allison Skinner Web Design and Development website&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -32,67 +32,7 @@ By 2018, I wanted to redo my portfolio site because my business had evolved in s
 
 &lt;blockquote&gt;
   &lt;p&gt;After reviewing my goals for my next portfolio site, the path was clear for me — I wanted to build a static site with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and host it on &lt;a href=&quot;https://pages.github.com/&quot;&gt;github pages&lt;/a&gt;. What is Jekyll and why am I using it for my portfolio website? What does it mean to host with github pages? Keep reading in my next post, akldjfalkdjf;alkdjf;alkdjf;laksdjf;lakdjf;lk&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="Portfolio Website" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-29/old-allison-homepage.jpg" /></entry><entry><title type="html">What Makes a Great Real Estate Website BIG CHANGE!</title><link href="http://localhost:4000/writing/what-makes-a-great-real-estate-website" rel="alternate" type="text/html" title="What Makes a Great Real Estate Website BIG CHANGE!" /><published>2018-12-12T00:00:00-05:00</published><updated>2018-12-12T00:00:00-05:00</updated><id>http://localhost:4000/writing/what-makes-a-great-real-estate-website</id><content type="html" xml:base="http://localhost:4000/writing/what-makes-a-great-real-estate-website">&lt;blockquote&gt;
-  &lt;p&gt;In 2018, I launched three real estate websites.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;1. &lt;a href=&quot;/portfolio/winterville-station&quot;&gt;Winterville Station&lt;/a&gt; (launched March 2018)&lt;/strong&gt;
-&lt;img src=&quot;../assets/img/writing/18-12-12/winterville-station.jpg&quot; alt=&quot;Winterville Station&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Niche website for a community in Winterville, Ga. All homes were planned, designed and built by &lt;a href=&quot;https://jwyorkhomes.com&quot;&gt;JW York Homes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. &lt;a href=&quot;/portfolio/georgia-club-real-estate&quot;&gt;The Georgia Club Real Estate Company&lt;/a&gt; (launched October 2018)&lt;/strong&gt;
-&lt;img src=&quot;../assets/img/writing/18-12-12/tgcr.jpg&quot; alt=&quot;Georgia Club Real Estate&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The Georgia Club is a private country club that has many unique neighborhoods. The Georgia Club Real Estate Company has specialized in selling Georgia Club homes for almost twenty years.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. &lt;a href=&quot;/portfolio/jw-york-homes&quot;&gt;JW York Homes&lt;/a&gt; (launched December 2018)&lt;/strong&gt;
-&lt;img src=&quot;../assets/img/writing/18-12-12/jwy.jpg&quot; alt=&quot;JW York Homes&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After I build Winterville Station’s website, JW York Homes recognized their primary website needed a redesign as well. JW York Homes features their spec homes for communities they’ve developed, as well as custom homes they’ve designed and built for clients.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;After designing and building multiple real estate websites, I’ve learned what’s essential for a great real estate website.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;1-advanced-search-feature&quot;&gt;1. Advanced Search feature&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/advanced-search.png&quot; alt=&quot;JW York Homes advanced search&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When building a real estate website, you need to think about the popular features of home searching apps, like &lt;a href=&quot;https://zillow.com&quot;&gt;Zillow&lt;/a&gt;. One main feature is advanced search, which allows users to filter properties based on multiple criteria, such as price, bedrooms, baths, square feet. Prospective home buyers have a lot of deal breaker criteria, so narrowing down the properties to what they want is key to keeping them on your site.
-To achieve this advanced search feature, I used the Advanced Search &amp;amp; Filter Pro plugin.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-available-homes-map&quot;&gt;2. Available Homes Map&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/ah-map.jpg&quot; alt=&quot;Georgia Club Real Estate Available Homes map&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Another feature of popular home searching apps, like &lt;a href=&quot;https://zillow.com&quot;&gt;Zillow&lt;/a&gt;, is the option to view properties in a map view. Location is a top priority for many home buyers, and they don’t want to enter the address of each home into google maps to see which has the best location.&lt;/p&gt;
-
-&lt;h3 id=&quot;3-strategic-design-for-individual-available-home-page&quot;&gt;3. Strategic design for individual ‘available home’ page&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/jwy-available-home3.gif&quot; alt=&quot;JW York Home available home walk through&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A property can have an immense amount of information. Dozens of images, a 200+ word description and an endless amount of details such as bedrooms, bathrooms, square feet, garage, school districts, etc. You don’t want to overwhelm the user with all this information. Rather, you want to organize the page where the user can access the most important information immediately. For the real estate websites I’ve built, I’ve organized the individual ‘available home’ page as follows:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;large image of the exterior&lt;/li&gt;
-  &lt;li&gt;upgraded features&lt;/li&gt;
-  &lt;li&gt;home details&lt;/li&gt;
-  &lt;li&gt;additional images that open to lightbox slideshow gallery&lt;/li&gt;
-  &lt;li&gt;location google map&lt;/li&gt;
-  &lt;li&gt;additional information&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;4-promote-the-quality-and-lifestyle-that-comes-with-your-properties-and-communities&quot;&gt;4. Promote the quality and lifestyle that comes with your properties and communities&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/lifestyle-screenshots.jpg&quot; alt=&quot;JW York Homes sub pages&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If someone has left the larger house listing websites to do further research on your real estate website, it’s likely because the user wants to know who they are buying from and what they are buying into. For most, it’s to learn what makes your home construction and design unique. Do you include environmentally friendly features in your home builds? Do your neighborhoods include nature trails? Do you provide custom design options for your spec homes? These are the kind of details that home buyers want to know about, and you should include this information in your website.&lt;/p&gt;
-
-&lt;p&gt;This can be achieved through adding basic pages to your site that give additional information about your team, process and quality. These basic pages are inexpensive for your website designer/developer to put together for you, but could ultimately be the reason why prospective home owners reach out to you about one of your homes!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I think with these four elements you can have a successful and informative real estate website. I love building real estate websites because they provide the fun challenge of taking a lot of information and displaying it in an attractive and digestible way. Also, real estate is a personal hobby of mine because I’m obsessed with architecture and design.
-Are you in need of web design and development for your real estate business? &lt;a href=&quot;/contact&quot;&gt;Please get in touch with me&lt;/a&gt;!&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="Real Estate" /><summary type="html">In 2018, I launched three real estate websites.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-12/winterville-station.jpg" /></entry><entry><title type="html">What Makes a Great Real Estate Website</title><link href="http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)" rel="alternate" type="text/html" title="What Makes a Great Real Estate Website" /><published>2018-12-12T00:00:00-05:00</published><updated>2018-12-12T00:00:00-05:00</updated><id>http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)</id><content type="html" xml:base="http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)">&lt;blockquote&gt;
+&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="Portfolio Website" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-29/old-allison-homepage.jpg" /></entry><entry><title type="html">What Makes a Great Real Estate Website</title><link href="http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)" rel="alternate" type="text/html" title="What Makes a Great Real Estate Website" /><published>2018-12-12T00:00:00-05:00</published><updated>2018-12-12T00:00:00-05:00</updated><id>http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)</id><content type="html" xml:base="http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)">&lt;blockquote&gt;
   &lt;p&gt;In 2018, I launched three real estate websites.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -726,4 +666,92 @@ For my first few months freelancing, I didn’t do the tax math when providing q
 
 &lt;h2 id=&quot;2-open-svg-icon-in-text-editor&quot;&gt;2. Open SVG icon in text editor&lt;/h2&gt;
 &lt;p&gt;In this tutorial I’m using brackets. Here you can see the code of the icon. Now we’ve got something we can apply some CSS animations to!
-SVG code always looks intimidating, but noticed that all the IDs are the layers we named when we were in Adobe Illustrator.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="CSS animation" /><category term="SVG animation" /><category term="icons" /><summary type="html">One of my favorite things to incorporate into any web project is animation. Particularly CSS &amp;amp; SVG animations because they are lightweight, retina-level crisp &amp;amp; do not require adding complicated javascript libraries to your website. CSS &amp;amp; SVG animations combine the creative elements of design and the technical elements of development. As a designer and developer I love that. Dabbling with CSS &amp;amp; SVG animations as a developer (or designer) is a great introduction to going beyond basic HTML and CSS. Today I’m going to show you how to animate an instagram icon. You can use these same principles to animate any social media icon. This icon animation is featured on trevblake.com , a portfolio site I made for my good friend &amp;amp; hard-working creative, Trevor Blake.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/17-06-29/icon_Cover.gif" /></entry></feed>
+SVG code always looks intimidating, but noticed that all the IDs are the layers we named when we were in Adobe Illustrator.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="CSS animation" /><category term="SVG animation" /><category term="icons" /><summary type="html">One of my favorite things to incorporate into any web project is animation. Particularly CSS &amp;amp; SVG animations because they are lightweight, retina-level crisp &amp;amp; do not require adding complicated javascript libraries to your website. CSS &amp;amp; SVG animations combine the creative elements of design and the technical elements of development. As a designer and developer I love that. Dabbling with CSS &amp;amp; SVG animations as a developer (or designer) is a great introduction to going beyond basic HTML and CSS. Today I’m going to show you how to animate an instagram icon. You can use these same principles to animate any social media icon. This icon animation is featured on trevblake.com , a portfolio site I made for my good friend &amp;amp; hard-working creative, Trevor Blake.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/17-06-29/icon_Cover.gif" /></entry><entry><title type="html">How to Make a Flat Design Animated Button</title><link href="http://localhost:4000/writing/How-To-Make-a-Flat-Design-Animated-Button" rel="alternate" type="text/html" title="How to Make a Flat Design Animated Button" /><published>2017-06-23T00:00:00-04:00</published><updated>2017-06-23T00:00:00-04:00</updated><id>http://localhost:4000/writing/How-To-Make-a-Flat-Design-Animated-Button</id><content type="html" xml:base="http://localhost:4000/writing/How-To-Make-a-Flat-Design-Animated-Button">&lt;blockquote&gt;
+  &lt;p&gt;Flat design has been on trend in the web design world for quite some time. &lt;a href=&quot;https://www.creativebloq.com/graphic-design/what-flat-design-3132112&quot;&gt;Flat design&lt;/a&gt; uses a minimum amount of stylistic elements. There are no gradients, drop shadows or texture. But that doesn’t mean there’s no animation. A flat design button deserves some movement! In this tutorial, I will show you how to animate a flat design 3D button. I’ve seen this particular button on many &lt;a href=&quot;http://www.thingofwonder.com/&quot;&gt;sites&lt;/a&gt; I admire, but I couldn’t find a codepen or jsfiddle replicating it. So I owed it to the internet to make my &lt;a href=&quot;https://codepen.io/adskinner/pen/OgjvJX&quot;&gt;own&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/17-06-23/smash_button.gif&quot; alt=&quot;animated flat design button&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;First let’s style the button. No 3D or hover effects yet…let’s just make a plain ol’ button&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;a {
+/*Button Text Style*/
+font-family:'Inconsolata', 'Helvetica', 'Arial', sans-serif;
+font-size: inherit;
+text-align: center;
+font-weight: bold;
+letter-spacing: 3px;
+text-transform: uppercase;
+text-decoration:none;
+/*Button Color &amp;amp; Border*/
+border: 4px solid #3C14D0 ;
+color: #3C14D0;
+background: #fff;
+outline: none;
+/*Position, Display, Size*/
+position: relative;
+display: inline-block;
+padding: 15px 10px 14px;
+cursor: pointer;
+width: auto;
+}&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Result&lt;/strong&gt;
+&lt;img src=&quot;../assets/img/writing/17-06-23/step1.png&quot; alt=&quot;flat design button&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Let’s make the button look 3D. We’ll achieve this by styling a:after. You can style the :before and :after of any HTML element.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/17-06-23/inspect_button.png&quot; alt=&quot;inspect element of button code&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;a:after {
+/*Make a:after be as big as button*/
+position: absolute;
+width: 100%;
+height: 100%;
+/Give a:after Border &amp;amp; Background color/
+border: 2px solid #3C14D0;
+background-color: #3C14D0;
+/*Decide Location of a:after..this gives a bottom right shadow*/
+left: 4px;
+top: 4px;
+/Place a:after behind button/
+z-index: -1
+content: '';
+/*Animation/Transition Speed*/
+-webkit-transition: all 0.5s;
+-moz-transition: all 0.5s;
+-o-transition: all 0.5s; }&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Result&lt;/strong&gt;
+&lt;img src=&quot;../assets/img/writing/17-06-23/step2.png&quot; alt=&quot;flat design button with 3D edge&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Let’s add the hover animation! We want it to feel like we are pressing the button. Or smashing it.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;a:hover {
+top:2px;
+left:2px;
+}&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;This brings the top part of the button with text a little down and a little to the right because top:2px means 2px away from the top and left: 2px means 2px away from the left. Aka down and right.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;a:hover:after {
+top:-2px;
+left:-2px;
+}&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;This brings the background blue rectangle up and right. If top:2px brings the button down 2px then top: -2px brings the background blue rectangle up 2px. Also, a:hover:after means when you hover on a link, this is what happens to the :after part. It’s micromanaging the hover of a link to a specific part.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Now you’ve got a really cool button.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Result&lt;/strong&gt;
+&lt;img src=&quot;../assets/img/writing/17-06-23/animated_button3.gif&quot; alt=&quot;animated flat design button&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Checkout my &lt;a href=&quot;https://codepen.io/adskinner/pen/OgjvJX&quot;&gt;CodePen&lt;/a&gt; of my flat design 3D button animation.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="CSS animation" /><category term="flat design" /><summary type="html">Flat design has been on trend in the web design world for quite some time. Flat design uses a minimum amount of stylistic elements. There are no gradients, drop shadows or texture. But that doesn’t mean there’s no animation. A flat design button deserves some movement! In this tutorial, I will show you how to animate a flat design 3D button. I’ve seen this particular button on many sites I admire, but I couldn’t find a codepen or jsfiddle replicating it. So I owed it to the internet to make my own.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/17-06-23/smash_button.gif" /></entry></feed>

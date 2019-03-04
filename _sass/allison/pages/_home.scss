@@ -38,12 +38,16 @@
         font-size: 2em;
         background: $mint;
         color: $black;
+        border-bottom: 1px solid $black;
         @media screen and (max-width: $lg) {
          font-size: 1.6em;
         }
       }
       form.contact-form textarea {
         font-size: 2em;
+        background: $mint;
+        color: $black;
+        border-bottom: 1px solid $black;
         @media screen and (max-width: $lg) {
          font-size: 1.6em;
         }
@@ -54,9 +58,28 @@
         text-transform: uppercase;
         letter-spacing: 0.03em;
         border-radius: 5px;
+        border-bottom: none;
+        background: $orange;
+        color: $white;
         @media screen and (max-width: $med) {
           font-size: 1em;
         }
+      }
+      ::-webkit-input-placeholder {
+          color: $black;
+          font-family: 'GT Haptik Bold',sans-serif;
+      }
+      ::-moz-placeholder {
+        color: $black;
+        font-family: 'GT Haptik Bold',sans-serif;
+      }
+      :-ms-input-placeholder {
+        color: $black;
+        font-family: 'GT Haptik Bold',sans-serif;
+      }
+      :-moz-placeholder {
+        color: $black;
+        font-family: 'GT Haptik Bold',sans-serif;
       }
     }
     .writing {
@@ -79,6 +102,9 @@
         padding: 4em 2em;
         max-width: 750px;
         margin: 0 auto;
+        @media screen and (max-width: $sm) {
+          padding: 2em;
+        }
       }
     }
   }
@@ -110,13 +136,13 @@
       @media screen and (max-width: $med) {
         font-size: 1em;
       }
-      @media screen and (max-width: 500px) {
+      @media screen and (max-width: 570px) {
         width: 380px;
       }
-      @media screen and (max-width: 400px) {
+      @media screen and (max-width: 480px) {
         width: 320px;
       }
-      @media screen and (max-width: 340px) {
+      @media screen and (max-width: 380px) {
         width: 300px;
       }
       &:hover {
@@ -136,6 +162,12 @@
       padding: 3em 2em;
       @media screen and (max-width: $med) {
         padding: 2.5em 2em;
+      }
+      input {
+        border-bottom: 1px solid $white;
+      }
+      input[type="submit"] {
+        border-bottom:none;
       }
     }
   }
@@ -317,6 +349,7 @@ ul.portfolio-list {
     text-align:center;
     @media screen and (max-width: $med) {
       width: 100%;
+      padding-bottom: 1em;
     }
 }
   li:nth-child(odd) {
