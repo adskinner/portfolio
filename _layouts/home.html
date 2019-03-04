@@ -1,0 +1,154 @@
+---
+layout: default
+---
+
+{%- include header.html -%}
+
+<section id="intro">
+		<div class="home-intro">
+		  <div class="home-outer-wrap">
+		  <div class="home-inner-wrap">
+					<h3 class="subheading">{{site.title}}</h3>
+					<p class="home-lead">Hi, I'm a web designer and developer that loves making the internet a beautiful place.</p>
+			      <p class="sub-wrap">I design websites that are <span id="home-copy3">creative, bold and digestible</span>. I build websites that are <span id="home-copy4">strong, fast and usable</span>.
+	            I do it for businesses that put in the hard work and expect their website to work hard for them.
+	            I am based in <span id="trigger-2">Athens, Georgia</span> where I work from an <span id="trigger-3">A-Frame</span> with my pugs, <span id="trigger-4">Daisy and Cooper</span>..
+	            <span id="home-copy8">Wanna talk about the website of your dreams? I'd love to.</span></p>
+
+							<div class="image-placeholder-wrap">
+								<div class="image-placeholder"></div>
+							</div>
+							<div class="email-wrap">
+								<a href="/contact">
+									<img src="/assets/img/general/email.png" class="email-icon"/>
+									</a>
+								</div>
+								<a class="mobile container-arrow scroll-to" href="#portfolio">
+  								<span>
+    								<i class="fa fa-angle-down" aria-hidden="true"></i>
+									</span>
+								</a>
+		  </div>
+		</div>
+		</div>
+</section>
+<section id="portfolio">
+			{{ content }}
+      {%- if site.portfolio-examples.size > 0 -%}
+      <ul class="portfolio-list">
+        {%- for portfolio in site.portfolio-examples limit:2 -%}
+				<li style="perspective:500px;">
+					{% if portfolio.image %}
+
+					<a class="" href="{{ portfolio.url | relative_url }}">
+
+						<img data-tilt src="{{ site.baseurl }}/assets/img/{{ portfolio.image }}">
+
+					</a>
+
+					{% endif %}
+						<h3>
+							<a class="post-link" href="{{ portfolio.url | relative_url }}">
+								{{ portfolio.title | escape }}
+							</a>
+						</h3>
+
+				</li>
+          {%- endfor -%}
+        </ul>
+        {%- endif -%}
+</section>
+<section id="portfolio2">
+			{{ content }}
+      {%- if site.portfolio-examples.size > 0 -%}
+      <ul class="portfolio-list">
+        {%- for portfolio in site.portfolio-examples limit:2 offset:2 -%}
+				<li style="perspective:500px;">
+					{% if portfolio.image %}
+
+					<a class="" href="{{ portfolio.url | relative_url }}">
+
+						<img data-tilt src="{{ site.baseurl }}/assets/img/{{ portfolio.image }}">
+
+					</a>
+
+					{% endif %}
+						<h3>
+							<a class="post-link" href="{{ portfolio.url | relative_url }}">
+								{{ portfolio.title | escape }}
+							</a>
+						</h3>
+
+				</li>
+          {%- endfor -%}
+        </ul>
+        {%- endif -%}
+</section>
+<section id="all-work">
+  <div class="wrap">
+    <a href="/work" class="btn-primary">View All Work</a>
+  </div>
+</section>
+
+<section class="desktop" id="contact">
+
+    {%- if site.posts.size > 0 -%}
+		<div class="writing">
+      <ul class="post-list">
+        <h4>Writing</h4>
+        {%- for post in site.posts limit:6 -%}
+        <li>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }} ⚡ {{post.categories | join: ', '}}</span>
+        </li>
+        {%- endfor -%}
+      </ul>
+			</div>
+      {%- endif -%}
+      <div class="contact">
+				<div class="contact-wrap">
+        <h4>Get in Contact</h4>
+        <p>Want to discuss a project? Send me a message! This is the best way to contact me.</p>
+        {%- include contact-form.html -%}
+				</div>
+      </div>
+
+    </section>
+<section class="mobile" id="writing">
+	{%- if site.posts.size > 0 -%}
+	<div class="writing">
+		<ul class="post-list">
+			<h4>Writing</h4>
+			{%- for post in site.posts limit:6 -%}
+			<li>
+				<h3>
+					<a class="post-link" href="{{ post.url | relative_url }}">
+						{{ post.title | escape }}
+					</a>
+				</h3>
+				{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+				<span class="post-meta">{{ post.date | date: date_format }} ⚡ {{post.categories | join: ', '}}</span>
+			</li>
+			{%- endfor -%}
+		</ul>
+		</div>
+		{%- endif -%}
+</section>
+<section class="mobile" id="contact">
+	<div class="contact">
+		<div class="contact-wrap">
+		<h4>Get in Contact</h4>
+		<p>Want to discuss a project? Send me a message! This is the best way to contact me.</p>
+		{%- include contact-form.html -%}
+		</div>
+	</div>
+</section>
+
+    <section id="newsletter">
+        {%- include newsletter.html -%}
+</section>

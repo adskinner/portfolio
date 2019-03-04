@@ -1,0 +1,115 @@
+---
+layout: default
+---
+
+
+<div class="panel-wrap">
+<div class="left-panel">
+  <div class="wrap">
+      {% if page.slug != "categories" or page.slug != "tags" %}
+        <a href="/index.html" class="return" id="home">
+          Return Home
+        </a>
+      {% endif %}
+      {% if page.title == "Categories" or page.title == "Tags" %}
+      <a href="/writing" class="return-black">
+        Return to Writing
+      </a>
+      {% endif %}
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+  {% if page.url == "/about/" %}
+    {% include about-sidePanel.html %}
+  {% endif %}
+  {% if page.url == "/contact/" %}
+    {% include contact-availbility.html %}
+    {% include newsletter.html %}
+  {% endif %}
+  {% if page.url == "/writing/" %}
+    {% include category-list.html %}
+  {% endif %}
+  {% if page.url == "/work/" %}
+    {% include work-sidePanel.html %}
+  {% endif %}
+  {% if page.url == "/process/" %}
+    {% include process-sidebar.html %}
+  {% endif %}
+  {% if page.title == "Categories" %}
+    {% include cat-sidePanel.html %}
+  {% endif %}
+  {% if page.title == "Tags" %}
+    {% include tag-sidePanel.html %}
+  {% endif %}
+
+</div>
+</div>
+<div class="progress-container">
+    <div class="progress-bar" id="myBar"></div>
+</div>
+<main class="page-content" aria-label="Content">
+{%- include header.html -%}
+<div class="wrapper">
+  <article class="">
+<div class="post-content">
+      {{ content }}
+      {% if page.url == "/writing/" %}
+        <ul class="post-list">
+          {%- for post in site.posts -%}
+            <li>
+              {% if post.image %}
+                <a href="{{ post.url | relative_url }}">
+                  <img src="{{ site.baseurl }}/assets/img/{{ post.image }}">
+                </a>
+              {% endif %}
+
+                <h3>
+                  <a class="post-link" href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                  </a>
+                </h3>
+                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                <span class="post-meta">{{ post.date | date: date_format }} ⚡ {{post.categories | join: ', '}}</span>
+            </li>
+            {%- endfor -%}
+          </ul>
+      {% endif %}
+      {% if page.url == "/work/" %}
+        <ul class="portfolio-list">
+          {%- for portfolio in site.portfolio-examples -%}
+            <li style="perspective:200px;">
+              {% if portfolio.image %}
+
+              <a class="" href="{{ portfolio.url | relative_url }}">
+
+                <img data-tilt src="{{ site.baseurl }}/assets/img/{{ portfolio.image }}">
+
+              </a>
+
+              {% endif %}
+                <h3>
+                  <a class="post-link" href="{{ portfolio.url | relative_url }}">
+                    {{ portfolio.title | escape }}
+                  </a>
+                </h3>
+
+            </li>
+            {%- endfor -%}
+          </ul>
+      {% endif %}
+      {% if page.url == "/contact/" %}
+        {% include contact-form.html %}
+      {% endif %}
+    </div>
+
+  </article>
+  </div>
+
+</main>
+{% if page.url == "/contact/" %}
+<section id="newsletter">
+    {%- include newsletter.html -%}
+</section>
+{% endif %}
+</div>

@@ -1,0 +1,39 @@
+.thank-you {
+  background: $white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  .return-black {
+    margin: 20px 0;
+  }
+}
+.thank-you-box {
+  background: $mint;
+  color:$black;
+  max-width: 700px;
+  padding: 2.5em;
+  border-radius: 5px;
+  text-align:center;
+  h1 {
+    margin-bottom: 0;
+  }
+  .lead {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom:1em;
+  }
+  .signature {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 0.1em;
+  }
+
+}
+#particles-js {
+  position: absolute;
+  height: 100vh;
+  z-index: -1;
+  width: 100%;
+}

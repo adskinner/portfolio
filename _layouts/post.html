@@ -1,0 +1,82 @@
+---
+layout: default
+---
+<div class="panel-wrap">
+<div class="left-panel">
+  <div class="wrap">
+  <a class="return" href="/writing">Return to Writing</a>
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%} ⚡ <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{% if page.author == "Allison Skinner" %}<a href="/about">{% endif %}{{ page.author }}{% if page.author == "Allison Skinner" %}</a>{% endif %}</span></span>
+      {%- endif -%}  <span class="post-categories"> ⚡
+        {% if post %}
+          {% assign categories = post.categories %}
+        {% else %}
+          {% assign categories = page.categories %}
+        {% endif %}
+        {% for category in categories %}
+        <a href="{{site.baseurl}}/writing/category#{{category|slugize}}">{{category}}</a>
+        {% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      </span>
+    </p>
+</header>
+<span class="post-tags">
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/writing/tag#{{ tag_name }}"><nobr>{{ tag_name }}</nobr></a>&nbsp;-&nbsp;
+  {% endfor %}
+</span>
+{% include social-share.html %}
+  <div class="PageNavigation">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  {% endif %}
+</div>
+</div>
+</div>
+<div class="progress-container">
+    <div class="progress-bar" id="myBar"></div>
+</div>
+<main class="page-content" aria-label="Content">
+{%- include header.html -%}
+<div class="wrapper">
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+
+
+  <div class="post-content e-content" itemprop="articleBody">
+
+    {{ content }}
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
+</div>
+</main>
+<div class="mb-blog-footer">
+  <div class="wrap">
+  {% include social-share.html %}
+    <div class="PageNavigation">
+    {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+  </div>
+</div>
+</div>
+</div>

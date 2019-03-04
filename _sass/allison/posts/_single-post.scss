@@ -1,0 +1,196 @@
+.post {
+  .left-panel {
+    background:$pink;
+    @media screen and (max-width: $lg) {
+      padding-bottom: 20px;
+      /*border-bottom: 6px solid $orange;*/
+    }
+    .post-categories a {
+      text-decoration:underline;
+      text-decoration-color: $turquoise;
+    }
+
+    .post-tags a {
+      font-style:italic;
+      text-decoration:underline;
+      text-decoration-color: $turquoise;
+      font-size: 1.1em;
+    }
+    .post-categories a:hover, .post-tags a:hover, .post-categories a:focus, .post-tags a:focus {
+      text-decoration-color: $orange;
+    }
+    h1 {
+      margin: 0 0 0.5em 0;
+    }
+    a.breadcrumb {
+      text-decoration:underline;
+      text-decoration-color: $orange;
+      font-weight: bold;
+    }
+    a.breadcrumb:hover {
+      text-decoration-color: $turquoise;
+    }
+    #share-bar {
+      @media screen and (max-width: $lg) {
+        display:none;
+      }
+    }
+    .PageNavigation {
+      @media screen and (max-width: $lg) {
+        display:none;
+      }
+    }
+
+
+  }
+  .progress-container {
+      background: $orange;
+      .progress-bar {
+        background: $turquoise;
+  }
+  }
+}
+.post-header {
+  margin-bottom: $spacing-unit;
+  margin-top:25px;
+  width: calc(100% - 80px);
+  @media screen and (max-width: $lg) {
+    width: calc(100% - 65px);
+    }
+
+  .post-title {
+    font-size: 3.5em;
+    letter-spacing: 0;
+    line-height: 1.1;
+    @media screen and (max-width: $lg) {
+      font-size: 3.1em;
+    }
+    @media screen and (max-width: $sm) {
+      font-size: 2.6em;
+    }
+}
+}
+.share-buttons {
+  .fa-2x {
+    font-size: 0.9em;
+  }
+  a {
+    &:hover {
+      text-decoration:none;
+    }
+  }
+  #facebook {
+    color: $purple;
+    &:hover {
+      color: $orange;
+      text-decoration: none;
+    }
+  }
+  #twitter {
+    color: $turquoise;
+    &:hover {
+      color: $red;
+      text-decoration: none;
+    }
+  }
+  #linkedin {
+    color: $orange;
+    &:hover {
+      color: $purple;
+      text-decoration: none;
+    }
+  }
+  #email {
+    color: $red;
+    &:hover {
+      color: $turquoise;
+      text-decoration: none;
+    }
+  }
+  #instagram {
+    color: $purple;
+    &:hover {
+      color: $orange;
+      text-decoration: none;
+    }
+  }
+}
+#share-bar {
+  padding: 2em 0;
+  @media screen and (max-width: $lg) {
+    padding: 1.3em 0;
+  }
+  h4 {
+    margin-bottom: 0.5em;
+  }
+}
+.post p img {
+  margin-bottom: 5px;
+  margin-top: 1em;
+}
+
+.PageNavigation a {
+  font-weight:700;
+  text-decoration:underline;
+  text-decoration-color:$orange;
+}
+.PageNavigation a:hover {
+  text-decoration-color: $turquoise;
+}
+
+.post-content a {
+
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(70%,transparent),color-stop(70%,rgba(255,255,0,.8)));
+    background-image: linear-gradient(180deg,transparent 70%,rgba(255,255,0,.8) 0);
+  &:hover {
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(70%,transparent),color-stop(70%,rgba(255,219,255,.8)));
+  background-image: linear-gradient(180deg,transparent 70%,rgba(255,219,255,.8) 0);
+    text-decoration:none;
+  }
+}
+
+.mb-blog-footer {
+  display:none;
+  background: $pink;
+  width: 100%;
+    @media screen and (max-width: $lg) {
+    display:block;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    }
+  .wrap {
+    padding: 1em 2em 4em;
+    @media screen and (max-width: $sm) {
+      padding: 1em 1em 4em 1em;
+    }
+  }
+}
+
+.post .post-content {
+  p {
+    margin-bottom: 1.5em;
+  }
+  h2 {
+    margin-top: 2em;
+  }
+  h3 {
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+}
+.post {
+  a.return {
+  color:#000;
+  &:hover {
+    border-bottom: 1px solid #000;
+  }
+  &:before {
+    content: url(/assets/img/general/return-black.svg);
+    display: inline-block;
+    position: absolute;
+    margin-left: -40px;
+    margin-top: -5px;
+  }
+}
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+  <script>
+  $(document).ready(function(){
+     $('#nav-icon3').click(function(){
+  $(this).toggleClass('open');
+ });
+});
+</script>
+
+  <body {% if page.slug or page.layout %} class="{{ page.slug }} {{ page.layout }}"{% endif %} {% if page.url == "/process/" or page.url == "/services" %} data-spy="scroll" data-target="#myScrollspy" data-offset="15" {% endif %} >
+
+        {{ content }}
+
+    <!--{%- include footer.html -%}-->
+    <script>
+// When the user scrolls the page, execute myFunction
+window.onscroll = function() {myFunction()};
+
+function myFunction() {
+  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  var scrolled = (winScroll / height) * 100;
+  document.getElementById("myBar").style.height = scrolled + "%";
+}
+</script>
+  <script src="/assets/js/tilt.jquery.js"></script>
+
+
+{% include slider_scripts.html %}
+
+  </body>
+
+</html>

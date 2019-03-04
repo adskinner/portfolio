@@ -1,0 +1,18 @@
+{% assign rawcats = "" %}
+{% for post in site.posts %}
+  {% assign ccats = post.categories | join:'|' | append:'|' %}
+  {% assign rawcats = rawcats | append:ccats %}
+{% endfor %}
+{% assign rawcats = rawcats | split:'|' | sort %}
+
+{% assign site.categories = "" %}
+{% for cat in rawcats %}
+  {% if cat != "" %}
+    {% if categories == "" %}
+      {% assign categories = cat | split:'|' %}
+    {% endif %}
+    {% unless categories contains cat %}
+      {% assign categories = categories | join:'|' | append:'|' | append:cat | split:'|' %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,163 @@
+.contact {
+  .progress-container {
+    background: $pink;
+  }
+  a.return {
+  color:#000;
+  &:hover {
+    border-bottom: 1px solid #000;
+  }
+  &:before {
+    content: url(/assets/img/general/return-black.svg);
+    display: inline-block;
+    position: absolute;
+    margin-left: -40px;
+    margin-top: -5px;
+  }
+}
+  .left-panel {
+    background: $mint;
+    header.post-header {
+
+    }
+    .avail {
+    }
+  }
+  form.contact-form {
+    label {
+      font-family: 'GT Haptik Bold', sans-serif;
+      font-weight:500;
+      font-size: 2em;
+    }
+    input {
+      background-color: $purple;
+      color: #fff;
+      width: 100%;
+      border-right: none;
+      border-top: none;
+      border-left: none;
+      border-bottom: 1px solid $white;
+      margin-bottom: 1em;
+      font-size:2em;
+      padding: 10px 0 0 0;
+      font-family: 'GT Haptik Bold',sans-serif;
+    }
+    textarea {
+      background-color: $purple;
+      color: $white;
+      width: 100%;
+      border-right: none;
+      border-top: none;
+      border-left: none;
+      border-bottom: 1px solid $white;
+      margin-bottom: 1em;
+      font-size:2em;
+      padding: 10px 0 0 0;
+      font-family: 'GT Haptik Bold',sans-serif;
+    }
+    input[type="submit"] {
+      background:$orange;
+      color:$white;
+      border-bottom:none;
+      padding:20px;
+      font-size:1.8em;
+      border-radius: 5px;
+    }
+    input[type="submit"]:hover, input[type="submit"]:focus {
+      cursor:pointer;
+      background:$turquoise;
+
+    }
+    ::-webkit-input-placeholder {
+        color: $white;
+        font-family: 'GT Haptik Bold',sans-serif;
+    }
+    ::-moz-placeholder {
+      color: $white;
+      font-family: 'GT Haptik Bold',sans-serif;
+    }
+    :-ms-input-placeholder {
+      color: $white;
+      font-family: 'GT Haptik Bold',sans-serif;
+    }
+    :-moz-placeholder {
+      color: $white;
+      font-family: 'GT Haptik Bold',sans-serif;
+    }
+  }
+}
+
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
+  background-color: $pink!important;
+}
+:focus {
+  outline: -webkit-focus-ring-color auto 5px;
+}
+
+.newsletter{
+  padding: 2em 0em;
+  form {
+    .mc-field-group {
+      margin: 0.5em 0 1em;
+    }
+    label {
+      font-family: 'GT Haptik Bold',sans-serif;
+      text-transform: lowercase;
+      font-weight: 300;
+      font-size: 1.6em;
+    }
+    input {
+      width: 100%;
+      border-bottom: 1px solid #000;
+      border-right: none;
+      border-left: none;
+      border-top: none;
+      background: transparent;
+      padding: 0.35em 0 0 0;
+      font-style: italic;
+      font-family: 'GT Haptik Bold';
+      font-size: 1.3em;
+      }
+      input[type="submit"] {
+        background: $turquoise;
+        border: 1px solid $turquoise;
+        color: $white;
+        font-family: 'GT Haptik Bold', sans-serif;
+        font-size: 1.2em;
+        padding: 1.05em;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+        border-radius: 5px;
+        font-style:normal;
+        @media screen and (max-width: $med) {
+          font-size: 1em;
+        }
+      }
+      input[type="submit"]:hover, input[type="submit"]:focus {
+        background: $pink;
+        border: 1px solid $pink;
+        cursor:pointer;
+        color: $black;
+      }
+    }
+  }
+  .contact .left-panel .newsletter {
+    display:block;
+    @media screen and (max-width: $lg) {
+      display:none;
+    }
+  }
+    .contact .newsletter {
+      display:none;
+      @media screen and (max-width: $lg) {
+        display:block;
+      }
+    }
+.contact main {
+  position: fixed;
+  height: 100%;
+  background: $purple;
+  @media screen and (max-width: $lg) {
+    position: relative;
+  }
+}

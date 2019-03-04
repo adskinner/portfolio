@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-03T18:02:07-05:00</updated><id>http://localhost:4000/</id><title type="html">Web Design Athens, GA | Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
+</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">Why I wanted to redesign my portfolio website</title><link href="http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site" rel="alternate" type="text/html" title="Why I wanted to redesign my portfolio website" /><published>2018-12-29T00:00:00-05:00</published><updated>2018-12-29T00:00:00-05:00</updated><id>http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site</id><content type="html" xml:base="http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-29/old-allison-homepage.jpg&quot; alt=&quot;Homepage of 2016 version of Allison Skinner Web Design and Development website&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In August 2016, I launched &lt;a href=&quot;https://allisondskinner.com&quot;&gt;allisondskinner.com&lt;/a&gt;. At the time, I thought it was going to be a basic portfolio site that would garner a few freelance clients to supplement my full-time job income. However, two days after launching my portfolio site, I didn’t have a full-time job anymore and now my portfolio website represented my full-time business.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(If you want to learn more about my origin story, &lt;a href=&quot;/writing/One-Year-Full-Time-Freelancing-What-Ive-Learned-Pt-1&quot;&gt;keep reading here&lt;/a&gt;.) I’m proud of my 2016 portfolio because it brought me solid, recurring business for over two years, but there were some flaws with the site.
+By 2018, I wanted to redo my portfolio site because my business had evolved in so many ways and because the site was such a pain to update.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The following were the main issues I had with my 2016 portfolio website:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;1-i-bought-a-premium-html-theme-for-my-portfolio-website&quot;&gt;1. I bought a premium HTML theme for my portfolio website&lt;/h3&gt;
+&lt;p&gt;Which means, I didn’t truly design my portfolio website and I didn’t write all the code. Here’s the &lt;a href=&quot;https://themeforest.net/item/sartre-creative-multipurpose-html-template/13912008&quot;&gt;theme&lt;/a&gt; I bought, if you’re interested! This was the best choice for my skill level at the time, but two years later it was an internal embarrassment. I design and build custom themes for all my clients, so my portfolio should reflect that level of craftsmanship.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-being-a-raw-html-website-there-was-nothing-dynamic-about-the-website-and-it-was-tedious-to-manage-a-blog&quot;&gt;2. Being a raw HTML website, there was nothing dynamic about the website and it was tedious to manage a blog.&lt;/h3&gt;
+&lt;p&gt;If I wanted to publish a blog post, not only did I have to hand code the post, but then I had to hand code it into my blog feed, the mini blog feed on my homepage and on the ‘recent posts’ sidebar on every past blog post. With a little PHP (or liquid or twig) that could all be done dynamically.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-i-cater-to-everyone-in-how-i-market-and-describe-my-business&quot;&gt;3. I cater to everyone in how I market and describe my business&lt;/h3&gt;
+&lt;p&gt;When I launched my business, I was available and interested in any web project — any budget, any industry, any deadline. This is a good business plan if you need a lot of business asap, but it’s not very good if you want to become an expert in any niche type of website design or development. Now, I want my portfolio website to appeal to my dream clients – which are creative, hard-working businesses that need a website to work hard for them!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My main goals for my new 2019 portfolio site are the following&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;1-a-unique-experimental-design-that-i-usually-dont-have-the-opportunity-to-designbuild-for-a-client&quot;&gt;1. A unique, experimental design that I usually don’t have the opportunity to design/build for a client&lt;/h3&gt;
+&lt;p&gt;My 2016 portfolio design is mostly based off the HTML theme I purchased, for my new 2019 portfolio website I wanted it to be 100% Allison through and through. Bright colors, split page navigation, bold typography. I wanted my portfolio website to appeal to creative businesses that don’t want a cookie-cutter website.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-an-easier-way-to-write-and-share-blog-posts&quot;&gt;2. An easier way to write and share blog posts&lt;/h3&gt;
+&lt;p&gt;When writing for my old portfolio site, it was so tedious to publish anything — think raw html, copying and pasting the same blocks of code over and over again from page to page. For my new portfolio website, I didn’t want a bloated CMS but I knew I had to have some kind of platform that I could manage a blog easily from.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-keep-my-high-seo-rankings-and-fast-page-load-times&quot;&gt;3. Keep my high SEO rankings and fast page load times.&lt;/h3&gt;
+&lt;p&gt;The two big things that worked on my portfolio website was that it ranked well on google search results and that it loaded really fast. I can attribute this to having a raw HTML website with no heavy CMS or database to load. It was clean, lean code and google rewarded me for it. And I want to keep it that way!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;After reviewing my goals for my next portfolio site, the path was clear for me — I wanted to build a static site with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and host it on &lt;a href=&quot;https://pages.github.com/&quot;&gt;github pages&lt;/a&gt;. What is Jekyll and why am I using it for my portfolio website? What does it mean to host with github pages? Keep reading in my next post, akldjfalkdjf;alkdjf;alkdjf;laksdjf;lakdjf;lk&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="Portfolio Website" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-29/old-allison-homepage.jpg" /></entry><entry><title type="html">What Makes a Great Real Estate Website BIG CHANGE!</title><link href="http://localhost:4000/writing/what-makes-a-great-real-estate-website" rel="alternate" type="text/html" title="What Makes a Great Real Estate Website BIG CHANGE!" /><published>2018-12-12T00:00:00-05:00</published><updated>2018-12-12T00:00:00-05:00</updated><id>http://localhost:4000/writing/what-makes-a-great-real-estate-website</id><content type="html" xml:base="http://localhost:4000/writing/what-makes-a-great-real-estate-website">&lt;blockquote&gt;
+  &lt;p&gt;In 2018, I launched three real estate websites.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;1. &lt;a href=&quot;/portfolio/winterville-station&quot;&gt;Winterville Station&lt;/a&gt; (launched March 2018)&lt;/strong&gt;
+&lt;img src=&quot;../assets/img/writing/18-12-12/winterville-station.jpg&quot; alt=&quot;Winterville Station&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Niche website for a community in Winterville, Ga. All homes were planned, designed and built by &lt;a href=&quot;https://jwyorkhomes.com&quot;&gt;JW York Homes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. &lt;a href=&quot;/portfolio/georgia-club-real-estate&quot;&gt;The Georgia Club Real Estate Company&lt;/a&gt; (launched October 2018)&lt;/strong&gt;
+&lt;img src=&quot;../assets/img/writing/18-12-12/tgcr.jpg&quot; alt=&quot;Georgia Club Real Estate&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Georgia Club is a private country club that has many unique neighborhoods. The Georgia Club Real Estate Company has specialized in selling Georgia Club homes for almost twenty years.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. &lt;a href=&quot;/portfolio/jw-york-homes&quot;&gt;JW York Homes&lt;/a&gt; (launched December 2018)&lt;/strong&gt;
+&lt;img src=&quot;../assets/img/writing/18-12-12/jwy.jpg&quot; alt=&quot;JW York Homes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After I build Winterville Station’s website, JW York Homes recognized their primary website needed a redesign as well. JW York Homes features their spec homes for communities they’ve developed, as well as custom homes they’ve designed and built for clients.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;After designing and building multiple real estate websites, I’ve learned what’s essential for a great real estate website.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;1-advanced-search-feature&quot;&gt;1. Advanced Search feature&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/advanced-search.png&quot; alt=&quot;JW York Homes advanced search&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When building a real estate website, you need to think about the popular features of home searching apps, like &lt;a href=&quot;https://zillow.com&quot;&gt;Zillow&lt;/a&gt;. One main feature is advanced search, which allows users to filter properties based on multiple criteria, such as price, bedrooms, baths, square feet. Prospective home buyers have a lot of deal breaker criteria, so narrowing down the properties to what they want is key to keeping them on your site.
+To achieve this advanced search feature, I used the Advanced Search &amp;amp; Filter Pro plugin.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-available-homes-map&quot;&gt;2. Available Homes Map&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/ah-map.jpg&quot; alt=&quot;Georgia Club Real Estate Available Homes map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another feature of popular home searching apps, like &lt;a href=&quot;https://zillow.com&quot;&gt;Zillow&lt;/a&gt;, is the option to view properties in a map view. Location is a top priority for many home buyers, and they don’t want to enter the address of each home into google maps to see which has the best location.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-strategic-design-for-individual-available-home-page&quot;&gt;3. Strategic design for individual ‘available home’ page&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/jwy-available-home3.gif&quot; alt=&quot;JW York Home available home walk through&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A property can have an immense amount of information. Dozens of images, a 200+ word description and an endless amount of details such as bedrooms, bathrooms, square feet, garage, school districts, etc. You don’t want to overwhelm the user with all this information. Rather, you want to organize the page where the user can access the most important information immediately. For the real estate websites I’ve built, I’ve organized the individual ‘available home’ page as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;large image of the exterior&lt;/li&gt;
+  &lt;li&gt;upgraded features&lt;/li&gt;
+  &lt;li&gt;home details&lt;/li&gt;
+  &lt;li&gt;additional images that open to lightbox slideshow gallery&lt;/li&gt;
+  &lt;li&gt;location google map&lt;/li&gt;
+  &lt;li&gt;additional information&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;4-promote-the-quality-and-lifestyle-that-comes-with-your-properties-and-communities&quot;&gt;4. Promote the quality and lifestyle that comes with your properties and communities&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/lifestyle-screenshots.jpg&quot; alt=&quot;JW York Homes sub pages&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If someone has left the larger house listing websites to do further research on your real estate website, it’s likely because the user wants to know who they are buying from and what they are buying into. For most, it’s to learn what makes your home construction and design unique. Do you include environmentally friendly features in your home builds? Do your neighborhoods include nature trails? Do you provide custom design options for your spec homes? These are the kind of details that home buyers want to know about, and you should include this information in your website.&lt;/p&gt;
+
+&lt;p&gt;This can be achieved through adding basic pages to your site that give additional information about your team, process and quality. These basic pages are inexpensive for your website designer/developer to put together for you, but could ultimately be the reason why prospective home owners reach out to you about one of your homes!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I think with these four elements you can have a successful and informative real estate website. I love building real estate websites because they provide the fun challenge of taking a lot of information and displaying it in an attractive and digestible way. Also, real estate is a personal hobby of mine because I’m obsessed with architecture and design.
+Are you in need of web design and development for your real estate business? &lt;a href=&quot;/contact&quot;&gt;Please get in touch with me&lt;/a&gt;!&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="Real Estate" /><summary type="html">In 2018, I launched three real estate websites.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-12/winterville-station.jpg" /></entry><entry><title type="html">What Makes a Great Real Estate Website</title><link href="http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)" rel="alternate" type="text/html" title="What Makes a Great Real Estate Website" /><published>2018-12-12T00:00:00-05:00</published><updated>2018-12-12T00:00:00-05:00</updated><id>http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)</id><content type="html" xml:base="http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)">&lt;blockquote&gt;
+  &lt;p&gt;In 2018, I launched three real estate websites.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;1. &lt;a href=&quot;/portfolio/winterville-station&quot;&gt;Winterville Station&lt;/a&gt; (launched March 2018)&lt;/strong&gt;
+&lt;img src=&quot;../assets/img/writing/18-12-12/winterville-station.jpg&quot; alt=&quot;Winterville Station&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Niche website for a community in Winterville, Ga. All homes were planned, designed and built by &lt;a href=&quot;https://jwyorkhomes.com&quot;&gt;JW York Homes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. &lt;a href=&quot;/portfolio/georgia-club-real-estate&quot;&gt;The Georgia Club Real Estate Company&lt;/a&gt; (launched October 2018)&lt;/strong&gt;
+&lt;img src=&quot;../assets/img/writing/18-12-12/tgcr.jpg&quot; alt=&quot;Georgia Club Real Estate&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Georgia Club is a private country club that has many unique neighborhoods. The Georgia Club Real Estate Company has specialized in selling Georgia Club homes for almost twenty years.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. &lt;a href=&quot;/portfolio/jw-york-homes&quot;&gt;JW York Homes&lt;/a&gt; (launched December 2018)&lt;/strong&gt;
+&lt;img src=&quot;../assets/img/writing/18-12-12/jwy.jpg&quot; alt=&quot;JW York Homes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After I build Winterville Station’s website, JW York Homes recognized their primary website needed a redesign as well. JW York Homes features their spec homes for communities they’ve developed, as well as custom homes they’ve designed and built for clients.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;After designing and building multiple real estate websites, I’ve learned what’s essential for a great real estate website.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;1-advanced-search-feature&quot;&gt;1. Advanced Search feature&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/advanced-search.png&quot; alt=&quot;JW York Homes advanced search&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When building a real estate website, you need to think about the popular features of home searching apps, like &lt;a href=&quot;https://zillow.com&quot;&gt;Zillow&lt;/a&gt;. One main feature is advanced search, which allows users to filter properties based on multiple criteria, such as price, bedrooms, baths, square feet. Prospective home buyers have a lot of deal breaker criteria, so narrowing down the properties to what they want is key to keeping them on your site.
+To achieve this advanced search feature, I used the Advanced Search &amp;amp; Filter Pro plugin.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-available-homes-map&quot;&gt;2. Available Homes Map&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/ah-map.jpg&quot; alt=&quot;Georgia Club Real Estate Available Homes map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another feature of popular home searching apps, like &lt;a href=&quot;https://zillow.com&quot;&gt;Zillow&lt;/a&gt;, is the option to view properties in a map view. Location is a top priority for many home buyers, and they don’t want to enter the address of each home into google maps to see which has the best location.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-strategic-design-for-individual-available-home-page&quot;&gt;3. Strategic design for individual ‘available home’ page&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/jwy-available-home3.gif&quot; alt=&quot;JW York Home available home walk through&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A property can have an immense amount of information. Dozens of images, a 200+ word description and an endless amount of details such as bedrooms, bathrooms, square feet, garage, school districts, etc. You don’t want to overwhelm the user with all this information. Rather, you want to organize the page where the user can access the most important information immediately. For the real estate websites I’ve built, I’ve organized the individual ‘available home’ page as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;large image of the exterior&lt;/li&gt;
+  &lt;li&gt;upgraded features&lt;/li&gt;
+  &lt;li&gt;home details&lt;/li&gt;
+  &lt;li&gt;additional images that open to lightbox slideshow gallery&lt;/li&gt;
+  &lt;li&gt;location google map&lt;/li&gt;
+  &lt;li&gt;additional information&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;4-promote-the-quality-and-lifestyle-that-comes-with-your-properties-and-communities&quot;&gt;4. Promote the quality and lifestyle that comes with your properties and communities&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/lifestyle-screenshots.jpg&quot; alt=&quot;JW York Homes sub pages&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If someone has left the larger house listing websites to do further research on your real estate website, it’s likely because the user wants to know who they are buying from and what they are buying into. For most, it’s to learn what makes your home construction and design unique. Do you include environmentally friendly features in your home builds? Do your neighborhoods include nature trails? Do you provide custom design options for your spec homes? These are the kind of details that home buyers want to know about, and you should include this information in your website.&lt;/p&gt;
+
+&lt;p&gt;This can be achieved through adding basic pages to your site that give additional information about your team, process and quality. These basic pages are inexpensive for your website designer/developer to put together for you, but could ultimately be the reason why prospective home owners reach out to you about one of your homes!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I think with these four elements you can have a successful and informative real estate website. I love building real estate websites because they provide the fun challenge of taking a lot of information and displaying it in an attractive and digestible way. Also, real estate is a personal hobby of mine because I’m obsessed with architecture and design.
+Are you in need of web design and development for your real estate business? &lt;a href=&quot;/contact&quot;&gt;Please get in touch with me&lt;/a&gt;!&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="Real Estate" /><summary type="html">In 2018, I launched three real estate websites.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-12/winterville-station.jpg" /></entry><entry><title type="html">2019: What’s to Come</title><link href="http://localhost:4000/writing/whats-to-come" rel="alternate" type="text/html" title="2019: What's to Come" /><published>2018-12-10T00:00:00-05:00</published><updated>2018-12-10T00:00:00-05:00</updated><id>http://localhost:4000/writing/whats-to-come</id><content type="html" xml:base="http://localhost:4000/writing/whats-to-come">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-10/share.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;2019-whats-to-come&quot;&gt;2019 What’s to Come&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;t’s December 2018 and it’s cold and wet in Georgia, which is as close as it’ll ever get to a wintry wonderland. With the year winding down, I’m thinking of what’s ahead.
+My only short term goal is to finish what I can and then relax with friends and family. After thanksgiving, I don’t take on new work. My only goal is to finish it!
+The best thing about a new year is that it’s a chance to start fresh. You can look back on what you did and didn’t accomplish in 2018 and then make new goals for 2019. &lt;a href=&quot;/writing/2018-A-Year-In-Review&quot;&gt;Check out my 2018 Year in Review post here&lt;/a&gt;.
+Here’s what you’ll be seeing from Allison Skinner Web Design &amp;amp; Development in 2019.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bizness-goals&quot;&gt;Bizness goals&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Share my work more&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I haven’t shared new work since November 2017. Which is right about the time I got overbooked for a full year and decided my portfolio site was too outdated to even update. I’m thankful that I still get business without updating my portfolio, but I wonder what business I &lt;em&gt;could&lt;/em&gt; be getting if I did update it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Share and write more about myself and my business&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The freelancers &amp;amp; studios that I connect with the most are the ones that, unsurprisingly, share the most. I want potential clients that are unsure about getting a website redesign to follow me, get to know me and maybe a few months later…bite the bullet and contact me about their website! I also want people in the industry, especially those starting out, to follow my writing for motivation and advice.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Expand my client base to Atlanta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Athens, GA is my home, I love it here. and I’m grateful to say that most of clients live and work here as well! Athens is a small town, that’s bustling with creative &amp;amp; entrepreneurial activity — and I get to make the websites that showcase it. I want to expand to more Atlanta clients because it means bigger clients and bigger projects, and even creative projects with healthy budgets 🙂&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Spend time to improve workflows&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When you work alone, it’s easy to find a way that works and stick with that…forever. Even if there’s a faster, better way to do it. I want to make time to try out new workflows and approaches. It’ll be more time intensive on the frontend, but could lead to great improvements.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Spend time experimenting and playing with design and code&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I want to play! Like a kid in sandbox; trying out new effects, languages and designs. I think I’m in a creative rut. I know how to make an attractive, well-functioning website but sometimes I feel like my work creatively bleeds together, re-using the same tricks and designs from website to website. Most of my clients don’t want the weird stuff, but that doesn’t mean it can’t play around with it!&lt;/p&gt;
+
+&lt;h2 id=&quot;personal-goals&quot;&gt;Personal goals&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Lose 26 lbs (after already losing 10 lb since Nov 1, 2018)&lt;/strong&gt; Okay I know this is the most stereotypical New Years Resolution ever, but I weighed myself for the first time in 4 years in November 2018, and it turns out I had gained 36 lbs! So that’s what I want to lose. I already got a good start in 2018 by doing bootcamp classes at my gym 2-3x a week and then I added 2-3 hot yoga classes a week to the mix. (I also know weight is just a number, and your well-being isn’t determined by it. I have very positive body image 🙂 )&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Travel More&lt;/strong&gt; I want to go to the west coast and abroad in 2019. I’ve never been to the west coast…I don’t think I’ve even seen the Pacific Ocean! So that’s high on the list. I also want to travel abroad, haven’t been out of the country since my study abroad to Argentina in 2014. My mom and I really want to go to England and Scotland to tour ALL the castles, we are BBC fanatics.
+Already have a trip to Asheville in Febuary planned with the fam. Spending two nights at the Grove Park Inn with Jeff for spa &amp;amp; relaxation, then heading to downtown Asheville for two nights with our family for lots of beer and food.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Grow an Incredible Vegetable Garden&lt;/strong&gt; Last year, I tried out gardening for the first time with two raised vegetable beds and I had a lot of success (with a few failures). I want to take full advantage of Georgia’s blessedly long growing seasons and expand my gardening. My dream is to possibly stop spending a fortune at the grocery store because I grow so much on my own! The biggest revelation I had about gardening is that you can buy an 80 cent pack of salad green seeds and have overflowing amounts of salad greens for months. Whereas at the grocery store you can spend $4 on a handful of greens!&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Allison Skinner</name></author><category term="2019" /><category term="goals" /><summary type="html">2019 What’s to Come t’s December 2018 and it’s cold and wet in Georgia, which is as close as it’ll ever get to a wintry wonderland. With the year winding down, I’m thinking of what’s ahead. My only short term goal is to finish what I can and then relax with friends and family. After thanksgiving, I don’t take on new work. My only goal is to finish it! The best thing about a new year is that it’s a chance to start fresh. You can look back on what you did and didn’t accomplish in 2018 and then make new goals for 2019. Check out my 2018 Year in Review post here. Here’s what you’ll be seeing from Allison Skinner Web Design &amp;amp; Development in 2019.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-10/2019.jpg" /></entry><entry><title type="html">2018: A Year in Review</title><link href="http://localhost:4000/writing/2018-A-Year-In-Review" rel="alternate" type="text/html" title="2018: A Year in Review" /><published>2018-12-08T00:00:00-05:00</published><updated>2018-12-08T00:00:00-05:00</updated><id>http://localhost:4000/writing/2018-A-Year-In-Review</id><content type="html" xml:base="http://localhost:4000/writing/2018-A-Year-In-Review">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/2018-review.jpg&quot; alt=&quot;2018 Year in Review&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;2018-a-year-in-review&quot;&gt;2018: A Year in review&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;2018 marks the year where I really got used to running a business. I’m now 2.5 years in, and it feels normal. I wake up, make coffee, walk the dogs and then sit down at my desk to start work. When I started my business, everything felt novel — working in my pajamas, having no boss, walking over to my couch for an afternoon nap. It felt like I was breaking the rules at a real career. Now, a few years later and still making it, this is what I do and it feels right. I’m not going anywhere!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;january&quot;&gt;January&lt;/h2&gt;
+
+&lt;p&gt;My year begin at full-speed. I had a client list as long as my arm and everyone wanted their website built and launched yesterday. Five months earlier I overbooked myself and I still wasn’t caught up.&lt;/p&gt;
+
+&lt;h3 id=&quot;launched-botanologos-school-of-herbal-studies-at-wildhealingherbscom&quot;&gt;Launched Botanologos School of Herbal Studies at &lt;a href=&quot;https://wildhealingherbs.com&quot;&gt;wildhealingherbs.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/portfolio/botanologos/botano-home.jpg&quot; alt=&quot;Botanologos School of Herbal Studies&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Botanologos School of Herbal Studies is an  herbalism program located in the Appalachian Mountains. The launch of the website celebrates their 25th year in operation. The new website features an interactive calendar, online shop and resources for herbal students.&lt;/p&gt;
+
+&lt;h3 id=&quot;launched-wow-fitness-at-wowfitnessandwellnesscom&quot;&gt;Launched WOW Fitness at &lt;a href=&quot;http://wowfitnessandwellness.com&quot;&gt;wowfitnessandwellness.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/wow-fitness.png&quot; alt=&quot;Wow Fitness and Wellness&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kevin Bailey became the new owner of WOW Fitness and wanted an updated website. This website features a calendar and online registration for the bootcamp.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What I Read:
+&lt;a href=&quot;https://www.avidbookshop.com/book/9780375703867&quot;&gt;White Teeth by Zadie Smith&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;feburary&quot;&gt;Feburary&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Did I even lift up my head for breath this month? I don’t think so. I launched FIVE websites this month. I never want to do that again lol.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;02012018---my-25th-birthday&quot;&gt;02/01/2018 - My 25th Birthday!&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/birthday.jpeg&quot; alt=&quot;Allison and friends enjoying birthday drinks at Seabear&quot; /&gt;
+&lt;em&gt;Birthday drinks with friends at Seabear in Athens, GA&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Also on my birthday led a lunch &amp;amp; learn with Jordan Burke on Website Fundamentals for the &lt;a href=&quot;http://downtownathensga.org/&quot;&gt;Athens Downtown Development Authority&lt;/a&gt;. After the lunch &amp;amp; learn I had celebratory cocktails at Seabear with friends (pictured above).&lt;/p&gt;
+
+&lt;h3 id=&quot;launched-lamar-dodd-school-art-at-artugaedu&quot;&gt;Launched Lamar Dodd School Art at &lt;a href=&quot;https://art.uga.edu&quot;&gt;art.uga.edu&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/lamar-dodd.jpg&quot; alt=&quot;Lamar Dodd School of Art&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This goes down as my biggest launch to date. We started the conversation of re-doing the School of Art’s website back in August 2015 and two years later we launched it. Does it take me two years to build a website? No. Can it take that long for the wheels of bureaucracy to allow it? Yes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/nmi-dbb.jpeg&quot; alt=&quot;Thank you notes after NMI's DBB class&quot; /&gt;
+&lt;em&gt;Thank you notes after speaking NMI’s Digital Brown Bag class&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;02112018---spoke-to-new-media-institutes-digital-brown-bag-class-on-freelancing&quot;&gt;02/11/2018 - Spoke to New Media Institute’s Digital Brown Bag class on freelancing!&lt;/h3&gt;
+&lt;p&gt;This was so much fun. Got to tell a theater of students that freelancing is a real career path and that I love it. Met a lot of talented students from this talk. Still get messages from students today about it!&lt;/p&gt;
+
+&lt;h3 id=&quot;launched-greeline-rates-at-greenlineratescom&quot;&gt;Launched Greeline Rates at &lt;a href=&quot;https://greenlinerates.com&quot;&gt;greenlinerates.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/portfolio/greenline/homepage.jpg&quot; alt=&quot;Greenline Rates&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Building and launching this website was smooth sailing. The client loved the design, got me content quickly and, before I knew it, we launched the site! If only every launch could go like this one.&lt;/p&gt;
+
+&lt;h3 id=&quot;launched-inkwood-books-at-inkwoodbookscom-and-inkwoodbooksnjcom&quot;&gt;Launched Inkwood Books at &lt;a href=&quot;https://inkwoodbooks.com&quot;&gt;inkwoodbooks.com&lt;/a&gt; and &lt;a href=&quot;https://inkwoodbooksnj.com&quot;&gt;inkwoodbooksnj.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/inkwood-books.jpg&quot; alt=&quot;Inkwood Books&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I love that bookstore websites have become my niche. Inkwood Books has a location in Tampa, Florida and Haddonfield, New Jersey and they are run by two sisters! It was great working with them.&lt;/p&gt;
+
+&lt;h3 id=&quot;launched-velveteen-pink-at-velveteen-pinkcom&quot;&gt;Launched Velveteen Pink at &lt;a href=&quot;http://velveteen-pink.com&quot;&gt;velveteen-pink.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/vp.jpg&quot; alt=&quot;Velveteen Pink&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This website is different and weird. I loved making this site for one of my favorite Athens bands.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What I read: &lt;a href=&quot;https://www.avidbookshop.com/book/9780345803788&quot;&gt;Crazy Rich Asians by Kevin Kwan&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;march&quot;&gt;March&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;I thought I was going to finally catch up and get a break this month LOL&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;launched-winterville-station-at-wintervillestationcom&quot;&gt;Launched Winterville Station at &lt;a href=&quot;https://wintervillestation.com&quot;&gt;wintervillestation.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/winterville-station.jpg&quot; alt=&quot;Winterville Station&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This got me started on real estate websites, which I love making because it combines my hobby of house hunting and website building together. I really admire the genius of JW York Homes for seeing the potential for incredible, fairly priced homes in Winterville, GA.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joined the gym and started a 2x a week bootcamp class. We lived at my parents for half of 2017 during house renovations and a wonderfully stocked fridge took it’s toll!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Planted my first vegetable garden (with lots of help from my Grandma!)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d2mxuefqeaa7sj.cloudfront.net/s_44E17ACDC3F9B94235E168640DCF1C03353A6BC6F07E6E6534DE13C246498A63_1544247140874_2018-04-09+13.59.59-1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;The first seedlings coming up in my raised vegetable garden&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9780399184529&quot;&gt;The Mothers by Brit Bennett&lt;/a&gt;, &lt;a href=&quot;https://www.avidbookshop.com/book/9780307455925&quot;&gt;Americanah by Chimamanda Ngozi Adichie&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;april&quot;&gt;April&lt;/h2&gt;
+
+&lt;h3 id=&quot;launched-athentic-brewing-company-at-athenticbrewingcom&quot;&gt;Launched Athentic Brewing Company at &lt;a href=&quot;https://athenticbrewing.com&quot;&gt;athenticbrewing.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/athentic.jpg&quot; alt=&quot;Athentic Brewing Company&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My dad and his business partner Mark are opening a brewery (expected opening June 2019) and of course I made the website because I’m the kid that makes websites in the family. I loved being able to do something for my dad after everything he’s done for me growing up!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9781101970348&quot;&gt;The Nix by Nathan Hill&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;may&quot;&gt;May&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Fired my first client.&lt;/strong&gt; This was a big learning experience for me. I really liked my client as a person, loved her business and admired her as a business owner. However, the work environment was toxic and stressful with no end in sight. The money was good, but my days were horrible. When I got the website launched, I ended work with that client.&lt;/p&gt;
+
+&lt;p&gt;Trip to New York City with 8 women in my family 😮 that’s a lot of us, I know, but we had so much fun.
+&lt;img src=&quot;../assets/img/writing/18-12-08/nyc.jpeg&quot; alt=&quot;New York City trip&quot; /&gt;
+&lt;em&gt;In New York City with my mother, May 2018&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;launched-uga-performing-arts-center-website-at-pacugaedu&quot;&gt;Launched UGA Performing Arts Center website at &lt;a href=&quot;https://pac.uga.edu&quot;&gt;pac.uga.edu&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/pac.jpeg&quot; alt=&quot;UGA Performing Art's Center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This was my second UGA website and my second biggest launch (which I did while I was in NYC with my family!) When I was approached for this website, I immediately knew how I wanted it to look and feel. It all came together and I’m really proud of this site.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9780143111641&quot;&gt;Swing Time by Zadie Smith&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;june&quot;&gt;June&lt;/h2&gt;
+
+&lt;h3 id=&quot;launched-saturn-booksellers-at-saturnbooksellerscom&quot;&gt;Launched Saturn Booksellers at &lt;a href=&quot;https://saturnbooksellers.com&quot;&gt;saturnbooksellers.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/saturn.jpg&quot; alt=&quot;Saturn Booksellers&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Saturn Booksellers, located in Gaylord, MI, won a small business contest and received funding for them to use as they wished — and they wanted a new website! After seeing my work with &lt;a href=&quot;https://avidbookshop.com&quot;&gt;Avid Bookshop&lt;/a&gt; and &lt;a href=&quot;https://inkwoodbooks.com&quot;&gt;Inkwood Books&lt;/a&gt;, they contacted me to update their site.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Went to Charleston for five days with my best friend Dani to dogsit my brother’s dog. I will drop anything at anytime to dogsit in Charleston — who wouldn’t??&lt;/strong&gt;
+&lt;img src=&quot;../assets/img/writing/18-12-08/charleston.jpg&quot; alt=&quot;Charleston trip with Dani&quot; /&gt;
+&lt;em&gt;In Charleston with my friend Dani. My brother’s dog Georgia on the right&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;july&quot;&gt;July&lt;/h2&gt;
+
+&lt;h3 id=&quot;finally-finally-caught-up-with-work-and-no-longer-overbooked&quot;&gt;Finally FINALLY caught up with work and no longer overbooked.&lt;/h3&gt;
+&lt;p&gt;I got overbooked in early August 2017 and it took an entire year of full-throttle working to get everything done. I made good money but I didn’t have the quality of life I wanted. I found that my whole thinking brain was consumed by work. July marked the beginning of my second half of 2018 — where I slowed things down, relaxed and was mindful to not get overbooked again.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Added a second pug to our family, Cooper, a 3 year old pug from the Rescue Ranch.&lt;/strong&gt;
+&lt;img src=&quot;../assets/img/writing/18-12-08/cooper.jpg&quot; alt=&quot;Cooper the pug&quot; /&gt;
+&lt;em&gt;Look at this cute pug named cooper!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;His original owners wanted to use him as a stud for breeding, but when that didn’t work out they surrendered him. Jeff and I are so lucky Cooper is in our lives. We love him (and Daisy!) so so much.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9780345803313&quot;&gt;The People in the Trees by Hanya Yanagihara&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;august&quot;&gt;August&lt;/h2&gt;
+
+&lt;p&gt;Started my new portfolio site. I finally had time to work on this!&lt;/p&gt;
+
+&lt;p&gt;Went to Iowa with my family for the Iowa State Fair. Brought my boyfriend Jeff along! Introduced him to the farmer life.
+&lt;img src=&quot;../assets/img/writing/18-12-08/iowa.jpg&quot; alt=&quot;Iowa trip with family&quot; /&gt;
+&lt;em&gt;Jeff and I at the Iowa State fair eating meat on a stick. Also Jeff and I touring my family’s corn farms.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9780735224292&quot;&gt;Little Fires Everywhere by Celeste Ng&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;september&quot;&gt;September&lt;/h2&gt;
+
+&lt;p&gt;Worked picked back up this month by signing on two new clients — Demmie Hicks and the World of Pearl (websites launching soon!). I also started a new Drupal 8 redesign of the &lt;a href=&quot;https://art.uga.edu&quot;&gt;Lamar Dodd website&lt;/a&gt;. Yes, I the site launched only six months prior but I’ve always got new ideas for Lamar Dodd.&lt;/p&gt;
+
+&lt;p&gt;Started an 8 week pottery wheel class. I wanted to start a hobby that was far from the computer. Turns out I’m pretty terrible at pottery, but I’m glad I took the class!
+&lt;img src=&quot;../assets/img/writing/18-12-08/pottery.jpeg&quot; alt=&quot;pottery class&quot; /&gt;
+&lt;em&gt;I made this in pottery class!!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9781501126079&quot;&gt;Sing Unburied Sing, by Jesamyn Ward&lt;/a&gt;, &lt;a href=&quot;https://www.avidbookshop.com/book/9781328745538&quot;&gt;The Wangs vs. The World by Jade Chang&lt;/a&gt;, &lt;a href=&quot;https://www.avidbookshop.com/book/9781101971062&quot;&gt;Homegoing by Yaa Gyasi&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;october&quot;&gt;October&lt;/h2&gt;
+
+&lt;h3 id=&quot;launched-the-georgia-club-real-estate-company-at-georgiclubrealestatecom&quot;&gt;Launched the Georgia Club Real Estate Company at &lt;a href=&quot;georgiclubrealestate.com&quot;&gt;georgiclubrealestate.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/tgcr.jpg&quot; alt=&quot;Georgia Club Real Estate&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Georgia Club Real Estate Company has been operating for years through The Georgia Club, but  2018 marked the year they stepped out on their own. They needed an elegant website for their elegant homes, and that’s what I made for them!&lt;/p&gt;
+
+&lt;h2 id=&quot;november&quot;&gt;November&lt;/h2&gt;
+
+&lt;p&gt;Started hot yoga again after not going for 3 years. Began to combine 2-3 bootcamp classes a week with 2-3 yoga classes. Health has become a new focus of 2018.
+&lt;img src=&quot;../assets/img/writing/18-12-08/health.jpeg&quot; alt=&quot;Allison post-workout&quot; /&gt;
+&lt;em&gt;Proof of workout&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9780679745587&quot;&gt;In Cold Blood by Truman Capote&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;december&quot;&gt;December&lt;/h2&gt;
+
+&lt;h3 id=&quot;launched-jw-york-homes-at-jwyorkhomescom&quot;&gt;Launched JW York Homes at &lt;a href=&quot;https://jwyorkhomes.com&quot;&gt;jwyorkhomes.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/jwy.jpg&quot; alt=&quot;JW York Homes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I built this website back in June, but it took awhile for all the content to come together for the site’s launch. By December, we were determined to launch the site, so we wrapped up the final tweaks and launched it!&lt;/p&gt;
+
+&lt;h3 id=&quot;launched-the-world-of-pearl-at-theworldofpearlcom&quot;&gt;Launched The World of Pearl at &lt;a href=&quot;https://theworldpofpearl.com&quot;&gt;theworldofpearl.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/wop.jpg&quot; alt=&quot;World of Pearl&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The World of Pearl is a niche website that focuses on the international pearl travels of India Rows, The Pearl Girls founder &amp;amp; CEO. It’s been really interesting to learn more about pearls and how India started a successful online pearl jewelry business. My work on The World of Pearl led to work on their main ecommerce site &lt;a href=&quot;https://thepearlgirls.com&quot;&gt;The Pearl Girls&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9781594634482&quot;&gt;Fates &amp;amp; Furies by Lauren Groff&lt;/a&gt;, &lt;a href=&quot;https://www.avidbookshop.com/book/9781451621174&quot;&gt;Catch-22 by Joseph Heller&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2018-had-two-distinct-halves&quot;&gt;2018 had two distinct halves.&lt;/h2&gt;
+&lt;p&gt;The first half was a flurry of work and site launches. I got an incredible amount of work done and I’m really proud of myself. However, the consequence was I got burnt out and needed a complete reset.
+The second half of my 2018 has been marked by mindful work balance and growth. I’ve kept going with work, but I have time to make dinner, see friends, work out. I can take my dogs on a walk and think about absolutely nothing — mind clear. I’m in a really good place!&lt;/p&gt;
+
+&lt;h3 id=&quot;other-things-im-really-proud-of-in-2018&quot;&gt;Other things I’m really proud of in 2018.&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Focusing on my health, something I’ve never done before!&lt;/strong&gt; This is the first time in my life that I’ve kept up with a workout routine for longer than six months (bootcamp classes at &lt;a href=&quot;http://totaltrainingcenter.com/&quot;&gt;Total Training Center&lt;/a&gt;). I’ve also started hot yoga again at &lt;a href=&quot;http://www.fuelhotyoga.com/&quot;&gt;Fuel Hot Yoga&lt;/a&gt; after a 3 year hiatus. My body is sore all the time — it feels like I’m achingly growing a new body.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Learning new ways to cook in a kitchen I love.&lt;/strong&gt; After renovating the a-frame, we have an incredible kitchen and it’s been so much fun tackling new recipes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Becoming more environmentally friendly.&lt;/strong&gt; This year I really started to notice the waste around me, and how I contribute to it. Once you really see it, it’s shocking. I’ve become a lot better at using reusable cups and bags. I try to make most of my food from whole, bulk ingredients instead of food that comes in disposable packaging. Less meat or meat that’s local/ethically produced. And more…continuing to learn a lot more on how I can reduce my impact.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Allison Skinner</name></author><category term="2018" /><category term="Review" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-08/2018-review.jpg" /></entry><entry><title type="html">Do you need a website? Here’s how to prepare for it.</title><link href="http://localhost:4000/writing/when-is-it-time-to-get-a-website" rel="alternate" type="text/html" title="Do you need a website? Here's how to prepare for it." /><published>2017-08-01T00:00:00-04:00</published><updated>2017-08-01T00:00:00-04:00</updated><id>http://localhost:4000/writing/when-is-it-time-to-get-a-website</id><content type="html" xml:base="http://localhost:4000/writing/when-is-it-time-to-get-a-website">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/17-09-01/website_cover.jpg&quot; alt=&quot;graphic for 'When is it time to get a website?'&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;There are two questions you may be asking yourself: When is it a good time to get a website for my business? or I have a website, but it’s outdated. When should I get a website redesign?
+My answer to both of those questions is: &lt;strong&gt;Now&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To be a legitimate business you don’t need a storefront or employees (I have neither), but you do need a website. A website makes you credible. A website proves that you’ve got it together.&lt;/p&gt;
+
+&lt;p&gt;Also, when you have a website you are opening your business to the world, not just your nearby community. You will have more opportunity to gain customers, clients, fans, etc. when you put yourself online.&lt;/p&gt;
+
+&lt;p&gt;In my Freelancing Series , I talked about the &lt;a href=&quot;https://kk.org/thetechnium/1000-true-fans/&quot;&gt;1,000 True Fans theory&lt;/a&gt;. Essentially, you can make a decent living if you have 1,000 people who will always buy your products because they love what you do.&lt;/p&gt;
+
+&lt;p&gt;Will it be harder to get those true fans within a 15 mile radius or a 25,000 mile radius? (That’s the size of the Earth btw).
+Also, social media and search engines are truly the vehicles of success today. If you don’t have a website, less people will find you with a google search. You can make a business profile on social media, but you have limited to no control over the SEO, design and functionality. Not having a website for your business caps off your opportunity for success.&lt;/p&gt;
+
+&lt;p&gt;So, now we are all agreed. You need a website. What’s Next?
+If you have someone specific in mind to make your website, give that person or team a heads up that you are putting a website plan together.&lt;/p&gt;
+
+&lt;p&gt;I am typically booking projects 1-3 months in advance, so if you give me a heads up that you are wanting a website in the near future, I can likely save you spot on the list. Sometimes, I get phone calls from people that need someone to start on their website right now, and I’m just too busy to take it on.&lt;/p&gt;
+
+&lt;p&gt;Freelancers and small teams can quickly get booked up, so start communication early!&lt;/p&gt;
+&lt;h2 id=&quot;now-its-time-to-start-putting-together-your-website-plan&quot;&gt;Now, it’s time to start putting together your website plan.&lt;/h2&gt;
+&lt;p&gt;A designer/developer can’t provide a quote for your website unless you have a basic plan for your website. There’s been countless times that someone has contacted me about a website, and then I ask them a few standard questions, and within minutes they realize that they don’t even know what they want for their website, or maybe they don’t even know what they want out of their business.&lt;/p&gt;
+
+&lt;p&gt;It’s important to have a clear idea of what you want for your website, before you contact a designer/developer or an agency for the job. When you have a clear idea of what you want, we can provide a quote to you. If you just want something that’s “simple, not too many pages, but looks modern and clean” that could mean something different to each person. I think a small website is no more than four pages. Others might think a small website is no more than ten pages.&lt;/p&gt;
+
+&lt;h2 id=&quot;heres-your-homework-before-you-start-a-website&quot;&gt;Here’s your homework before you start a website:&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Do you have the domain or hosting for your website?&lt;/li&gt;
+  &lt;li&gt;How many pages will your website have?&lt;/li&gt;
+  &lt;li&gt;How many of those pages will have static content and how many pages will have regularly updated content? I.e: blog posts, events, products for sale, staff members, etc.&lt;/li&gt;
+  &lt;li&gt;Do you have a desired deadline?&lt;/li&gt;
+  &lt;li&gt;Do you know your competition? Who, out of your competition, has a great website?&lt;/li&gt;
+  &lt;li&gt;What is the purpose of people visiting your site? What action do you want them to take? I.e. contact you for a quote or buy a product.&lt;/li&gt;
+  &lt;li&gt;Have you considered SEO (search engine optimization)? What are some keywords that you’d like your website to rank for?&lt;/li&gt;
+  &lt;li&gt;Do you have images and/or videography for your website?&lt;/li&gt;
+  &lt;li&gt;Do you have a logo?&lt;/li&gt;
+  &lt;li&gt;Do you have copy for website? I.e. about page, staff bios, etc.
+Once you’ve done your homework, now it’s time to reconnect with the person or team that you first contacted about a website and ask for a quote.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you have a website plan, it’s easier for me to provide a quote and it’s easier for me to start work on the website.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion:&lt;/h2&gt;
+&lt;p&gt;Making a website is work, not only for me, but also for you, the client. When you hire someone to make your website, you’re not completely off the hook. No one knows your business better than you do, so you want to be involved! A website forces you to get all your ducks in a row — photography, copy, contact information, products ready to be sold.
+It proves that you are capable and credible to run a business—to yourself and the world.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="websites" /><category term="website redesign" /><summary type="html">There are two questions you may be asking yourself: When is it a good time to get a website for my business? or I have a website, but it’s outdated. When should I get a website redesign? My answer to both of those questions is: Now.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/17-09-01/website_cover.jpg" /></entry><entry><title type="html">3 Key Benefits of Being a Designer and Developer</title><link href="http://localhost:4000/writing/3-key-benefits-of-being-a-designer-and-developer" rel="alternate" type="text/html" title="3 Key Benefits of Being a Designer and Developer" /><published>2017-07-19T00:00:00-04:00</published><updated>2017-07-19T00:00:00-04:00</updated><id>http://localhost:4000/writing/3-key-benefits-of-being-a-designer-and-developer</id><content type="html" xml:base="http://localhost:4000/writing/3-key-benefits-of-being-a-designer-and-developer">&lt;p&gt;&lt;img src=&quot;../assets/img/post1/develop_cover.jpg&quot; alt=&quot;graphic for 3 Key Benefits of Being Designer and Developer&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;It’s not common for someone to be a designer &lt;em&gt;and&lt;/em&gt; a developer. Typically there is a designer and developer for each project. Two separate people with two separate roles.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A designer is someone who decides what a website will look like — color, fonts, layout—while a developer is someone who builds the website &amp;amp; makes it actually function. A designer creates mockups for a website and then the developer builds the interactive website based on those mockups.&lt;/p&gt;
+
+&lt;p&gt;I’ve always been a designer and developer, even before I knew what the distinction meant. When I graduated college, I thought people who “made websites” designed them and then built them. And at my first agency job that’s exactly what I did. I made the mockups for the website and then I built that website. It wasn’t until I went full-time freelancing that people started asking me if I was a designer or a developer. I felt like I had to choose between the two because almost everyone in the industry does.&lt;/p&gt;
+
+&lt;p&gt;I asked myself, would I rather design websites or build them? I slept on it and still couldn’t come up with a decision. I loved design and I loved to code, and I didn’t want that to change. Deciding to be a designer and developer made sense to me, and I think it also makes sense for many businesses that need help with a website.&lt;/p&gt;
+
+&lt;p&gt;Businesses typically either hire an agency that has in-house designers and developers or a business hires a freelance designer and a freelance developer to work together and create a website. However, hiring someone who’s a designer &lt;em&gt;and&lt;/em&gt; developer provides benefits beyond only having to hire one person for the job.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-designing-with-code-in-mind&quot;&gt;1. Designing with Code in Mind&lt;/h2&gt;
+&lt;p&gt;When I design mockups for a website, I know exactly how I will build it. Sometimes developers are handed the mockups to websites that were designed to look good but won’t, in reality, function well.&lt;/p&gt;
+
+&lt;p&gt;Factors such as page load times, flexibility of device-widths and cross-browser support are sometimes overlooked in design but need to be considered during development.&lt;/p&gt;
+
+&lt;p&gt;Then the developer has a challenging tightrope to walk. The developer wants to honor the mockups provided by the designer, but also knows some of the design decisions will affect the website’s performance.&lt;/p&gt;
+
+&lt;p&gt;The time it takes for a developer and designer to work through these issues of design vs. performance can eat up a lot of time.&lt;/p&gt;
+
+&lt;p&gt;When I design websites I’m thinking 10 steps ahead. I’m thinking about the unique challenges my design will create when I’m building the website.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Will a client be able to easily update this?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How will this feature look on Internet Explorer?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Will this page load quickly?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How will this absolute positioned SVG shape look when the device-width changes?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Many skilled designers these days learn enough about code and CMS frameworks to be able to make design decisions that look and function well. On some projects, I’m solely the developer and a project is always more enjoyable when I work with a designer that at least understands how a website comes together — from the website’s framework to it’s performance.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-integration-of-interaction-and-animation&quot;&gt;2. Integration of interaction and animation&lt;/h2&gt;
+&lt;p&gt;Design mockups are typically created using static tools — Adobe Photoshop and Sketch — and it makes it difficult for animation, movement &amp;amp; interactivity to be considered and then communicated. Many times mockups only include animation notes for hyperlinks, buttons and menu items.&lt;/p&gt;
+
+&lt;p&gt;Prototyping tools like &lt;a href=&quot;https://www.invisionapp.com/&quot;&gt;InVision&lt;/a&gt; allow designers to design complex animations, but I still think having experience as a developer helps when it comes to interactivity.&lt;/p&gt;
+
+&lt;p&gt;As a designer and developer, I design with interactivity in the forefront of my mind. I love to build animations with code and therefore I include it in my designs. I see a website with stunning animations, and it becomes a personal challenge to know how it was made. When a designer creates mockups with static tools it’s challenging to think critically and creatively about how the website will move. As a developer, you know interaction and animation intimately because you build it everyday.&lt;/p&gt;
+
+&lt;p&gt;I believe interaction is the perfect marriage of design and development. It’s best when it’s creative and functions well.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-making-a-custom-website-that-a-client-can-maintain&quot;&gt;3. Making a custom website that a client can maintain&lt;/h2&gt;
+&lt;p&gt;Today, a website not only has to look good and function well, many times it also needs to be easily managed &amp;amp; updated by clients.&lt;/p&gt;
+
+&lt;p&gt;For example, a publication site like Man Repeller needs to have a framework that allows any person in the office to easily post an article, gallery or blog post. And when any person hits publish, the finished product should look good every time.&lt;/p&gt;
+
+&lt;p&gt;Making a durable, flexible and attractive framework is a challenge, and it’s a challenge best suited for someone who has the mind of a designer and developer.&lt;/p&gt;
+
+&lt;p&gt;I approach these types of websites development first.&lt;/p&gt;
+
+&lt;p&gt;I first construct a framework that I know will work. All custom functionality needs to be tucked in the backend and the CMS should remain user-friendly. No HTML markup in the text editor.&lt;/p&gt;
+
+&lt;p&gt;The framework needs to be flexible. The design should look good if the article title is one word or ten words, or if the article has no images or twenty images.&lt;/p&gt;
+
+&lt;p&gt;Once you have a user-friendly and flexible framework, then you can add design details that make the website look more unique than an out-of-the-box Wordpress blog. These custom details should not intrude on any user-friendly features.&lt;/p&gt;
+
+&lt;p&gt;Being a designer and developer is an indispensable advantage when creating websites that need hands-off maintenance from the clients. I can make a custom, beautiful website that can be updated by any intern.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;Being a designer and developer was an easy decision for me because it’s all I know. I have a natural eye for design, while loving the technical challenge of development. At first, I decided to be designer and developer because it felt natural to me, but I soon came to learn that it provides a unique advantage for my clients. My clients also benefit from someone who’s considering functionality, maintenance, performance and interaction from the beginning.&lt;/p&gt;
+
+&lt;p&gt;I design with a developer’s critical eye for functionality and I develop with a designer’s attention to beauty. I wouldn’t have it any other way.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="freelancing" /><category term="web designer" /><category term="web developer" /><category term="devsigner" /><summary type="html">It’s not common for someone to be a designer and a developer. Typically there is a designer and developer for each project. Two separate people with two separate roles.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/post1/develop_cover.jpg" /></entry><entry><title type="html">One Year Full-time Freelancing: What I’ve Learned Pt. 2</title><link href="http://localhost:4000/writing/One-Year-Full-time-Freelancing-What-Ive-Learned-Pt-2" rel="alternate" type="text/html" title="One Year Full-time Freelancing: What I've Learned Pt. 2" /><published>2017-07-11T00:00:00-04:00</published><updated>2017-07-11T00:00:00-04:00</updated><id>http://localhost:4000/writing/One-Year-Full-time-Freelancing-What-Ive-Learned-Pt-2</id><content type="html" xml:base="http://localhost:4000/writing/One-Year-Full-time-Freelancing-What-Ive-Learned-Pt-2">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/17-07-11/ft_freelance2_cover.jpg&quot; alt=&quot;graphic for One Year Full-Time Freelancing: What I've Learned Pt. 2&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Read part one here to learn how I started full-time freelancing and got through the early obstacles of getting clients and managing a cashflow with no steady paycheck.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;months-6-12-ive-got-plenty-of-work-now-what&quot;&gt;Months 6-12: I’ve got plenty of work. Now what?&lt;/h2&gt;
+&lt;p&gt;By Feburary 2017, the model of my business shifted. Prospective clients found me and wanted help with their businesses. I didn’t find them and show up on their doorstep.&lt;/p&gt;
+
+&lt;p&gt;My inbox was full of businesses who needed websites! Woohoo.&lt;/p&gt;
+
+&lt;p&gt;I jumped at every opportunity because I finally had the chance to make steady money. I started to buy groceries regularly and I paid off almost all of my debt.&lt;/p&gt;
+
+&lt;p&gt;However, once I got steady work and steady clients, I realized that a one-woman business can only take on so much work. There are only so many hours in a day! Also, I learned that not every client and every project is ideal for my business. I decided it was time to focus my business goals.&lt;/p&gt;
+
+&lt;p&gt;I want to make amazing websites for dream clients, get a following, meet people in the industry, learn a whole lot and travel abroad for at least one month.&lt;/p&gt;
+
+&lt;h2 id=&quot;going-forward-goals-for-full-time-freelancing&quot;&gt;Going Forward: Goals for Full-Time Freelancing&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Amazing Websites for Dream Clients&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Every freelancer should know exactly what types of businesses are their dream clients. Even better, a freelancer should have a list of specific businesses that fit this criteria.&lt;/p&gt;
+
+&lt;p&gt;My Dream Client Is:&lt;/p&gt;
+
+&lt;p&gt;A business that wants a creative &amp;amp; innovative website.
+A business that knows a unique &amp;amp; well-functioning website is an investment and is willing to pay for that type of investment.
+A business that is run by good, genuine people.
+Does the above sound like you? Cool! &lt;a href=&quot;/contact&quot;&gt;Let’s talk&lt;/a&gt; :)&lt;/p&gt;
+
+&lt;p&gt;I want to devote my limited time to clients that I am passionate about. I want to create dynamic, innovative websites that push the boundaries in design and development. Many businesses want a simple, no-frills website to get their information online. That makes sense for many businesses starting out. I want to be the designer and developer for businesses that want the website of their dreams.&lt;/p&gt;
+
+&lt;h2 id=&quot;1000-true-fans&quot;&gt;1,000 True Fans&lt;/h2&gt;
+&lt;p&gt;The &lt;a href=&quot;https://kk.org/thetechnium/1000-true-fans/&quot;&gt;1,000 True Fans theory&lt;/a&gt;, proposed by &lt;a href=&quot;https://kk.org/&quot;&gt;Kevin Kelly&lt;/a&gt; in his popular 2008 article “1,000 True Fans”, is the idea that you really only need 1,000 true fans, or “super fans”, to be successful.&lt;/p&gt;
+
+&lt;p&gt;A true fan, by Kevin Kelly’s definition, is someone who will buy any product of yours. They will buy your book in hardback and audio, they will travel a hundred miles to see you speak or perform, they will fund your kickstarter campaign.&lt;/p&gt;
+
+&lt;p&gt;If you had 1,000 true fans that would spend $100 on your products/services in a year, then you could make $100,000 just off your true fans. That’s a more than livable income!&lt;/p&gt;
+
+&lt;p&gt;For every true fan, it’s typical to have a two or three regular fans. A regular fan follows your work, but may only occasionally buy a product of yours. Let’s say you have 1,000 true fans and 2,000 regular fans. A true fan spends $100 on your products each year, but a regular fan only spends $30. With 2,000 regular fans spending $30 per year, you’d make $60,000 in addition to the $100,000 from your true fans. Making $160,000 is an achievable goal and gives you a good quality of life.&lt;/p&gt;
+
+&lt;p&gt;My goal for the next year is to work towards gaining my 1,000 true fans. I don’t have any products for sale yet, I only provide my services as a web designer and developer. I want to sell a product, or products, in the future, either through my web design and development skills or possibly through a side business. But I don’t want to sell anything until I grow my fan base.&lt;/p&gt;
+
+&lt;p&gt;The 1,000 true fans goal may sound a bit profit &amp;amp; numbers focused, but that’s not the main drive for me. The main drive for me is that I want to use my business and brand to connect with people. I am a true fan of many entrepreneurs, freelancers &amp;amp; creators. My relationship with their work, products, and them personally is more important than my relationship with any corporation. When I buy deodorant from CVS it’s not a true fan moment. When you buy a product as a true fan, it’s so much more than exchanging money for goods. You feel like you’re a part of something, you feel connected to that creator! You want to personally thank the creator for making such a great product and then tell everyone about it. I want that for my business.&lt;/p&gt;
+
+&lt;h2 id=&quot;meet-people-in-the-industry-irl&quot;&gt;Meet People in the industry IRL&lt;/h2&gt;
+&lt;p&gt;I went to my first &lt;a href=&quot;https://www.fourathens.com/&quot;&gt;Four Athens&lt;/a&gt; tech industry Happy Hour last week. I’ve been freelancing as a designer and developer for a whole year, and only last week did I go to a tech happy hour in my hometown. It was a five minute walk from my apartment! And everyone was super nice! Why did it take me so long??&lt;/p&gt;
+
+&lt;p&gt;I’m so glad I went because I actually got to meet and talk with people in real life. As someone who works from home (#wfh life) and runs an online business, it’s become hard for me to leave my house. Going to the post office once a week becomes this looming event that I keep pushing off til the next day.&lt;/p&gt;
+
+&lt;p&gt;I realized two things when I went to my first tech meetup.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;The true way to gain fans &amp;amp; grow a network is through personal, real-life connections&lt;/strong&gt;
+I can tweet all day. I can like &amp;amp; favorite people’s posts. But the way to really gain a presence in the tech industry is to actually be physically present.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I want to start small &amp;amp; local through Four Athens.
+Then branch into Atlanta tech meetups.
+And then start going to at least one or two tech conferences each year.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Don’t let imposter syndrome stop you&lt;/strong&gt;
+I have imposter syndrome, and I want to be more comfortable about it. Imposter syndrome is when you work in an industry but feel like you don’t belong because you don’t think you are as talented as everyone else.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I’m a female journalism major that took a few coding classes in college. I’m a front end developer from a small town in the south. I’m 24 years old.&lt;/p&gt;
+
+&lt;p&gt;These are all things that make me feel teeny tiny compared to the tech bros that have CS majors and have worked for major tech companies on the west coast. Imposter syndrome makes me not want to attend meetups because I’m afraid someone will ask me a question about programming and I won’t know what they are talking about. Then it’ll be obvious that I don’t belong there.&lt;/p&gt;
+
+&lt;p&gt;Thankfully, imposter syndrome is now recognized as a real issue in the tech industry. Experienced developers and designers that I look up to are speaking about their own issues with imposter syndrome (example 1, 2 ,3). They are making a point to make everyone feel like they belong.&lt;/p&gt;
+
+&lt;p&gt;I clutch to these kind, inspiring words when I enter networking events now. &lt;em&gt;I do belong in this industry. I am talented. It’s okay to feel uncomfortable. It’s okay that I don’t know everything.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;youve-still-have-got-a-lot-to-learn-so-put-real-time-towards-towards-learning-things-deeply&quot;&gt;You’ve still have got a lot to learn. So put real time towards towards learning things deeply.&lt;/h2&gt;
+&lt;p&gt;Last January, I bought a &lt;a href=&quot;http://eloquentjavascript.net/&quot;&gt;textbook&lt;/a&gt; on JavaScript. One of my top New Year’s Resolutions was ‘learn JavaScript deeply’.&lt;/p&gt;
+
+&lt;p&gt;The textbook has sat, untouched, on my desk for almost seven months. I use custom JavaScript &amp;amp; jQuery on many projects. I write successful code through a myriad of Stack Overflow forums, JSfiddles &amp;amp; tutorials. What I have in the end works, but I wouldn’t say I deeply understand JavaScript &amp;amp; jQuery.&lt;/p&gt;
+
+&lt;p&gt;In the last year, I’ve learned that freelancing is not just full-time billable hours of deep work. You also have to run a business (finances &amp;amp; communication) and you have to market your business (blogging &amp;amp; social media). The fourth component that I’m realizing needs dedicated time is education. I need to continue learning to improve my work. Improving my work improves my credibility, which improves my marketing.&lt;/p&gt;
+
+&lt;p&gt;I learn everyday on the job. Fixing problems &amp;amp; finding solutions is the crux of a developer’s job.&lt;/p&gt;
+
+&lt;p&gt;However, I’m having a challenging time learning on-the-go when it involves a programming language that I don’t have deep knowledge or experience in. That’s where I want to take a step back and really learn. It’s fascinating how I’ve gone through 20 years of schooling, I have a college degree, and I’ve only scratched the surface on what I will learn.&lt;/p&gt;
+
+&lt;h2 id=&quot;travel-and-work-abroad-for-at-least-one-month&quot;&gt;Travel and work abroad for at least one month&lt;/h2&gt;
+&lt;p&gt;One of the main reasons why I decided to go full-time freelancing is because of the flexibility it provides for vacation time and working remotely. Some freelancers are “digital nomads” that live and work abroad year-round.&lt;/p&gt;
+
+&lt;p&gt;I don’t plan to work abroad full-time, but I’d like to at least go abroad for a month, possibly two months in 2018. I haven’t had many opportunities to travel in the past year because initially I couldn’t afford to travel and lately I’ve been focused on paying off debt.&lt;/p&gt;
+
+&lt;p&gt;This month, July 2017, will be the first month I start regularly saving money (!!!), so I hope working abroad will be achievable in the upcoming year.&lt;/p&gt;
+
+&lt;p&gt;Right now, I’m hoping to live and work in Barcelona — I’ve never been to Europe and I’d love to put my Spanish minor to use :) .&lt;/p&gt;
+
+&lt;p&gt;I’m planning on getting a two bedroom Airbnb for my stay there, so hopefully friends and family can come visit.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;This concludes my series on “My First Year Full-Tim Freelancing”. This year has been emotional, challenging and rewarding. I thought fulltime freelancing was only possible for professionals that had many years of experience and a large network. I didn’t think it was possible for a 23 year old journalism graduate living in a small southern town to bootstrap her way to running a successful web design and development business. I had no money or clients starting out, but tenacity and the desire to deliver excellent work.&lt;/p&gt;
+
+&lt;p&gt;Do you have a passion that you wish would replace your “real” job? Do you want to freelance, but are scared of not having a steady paycheck?&lt;/p&gt;
+
+&lt;p&gt;Freelancing may not be for everyone, but I believe it’s an opportunity that is well-suited for those that want ownership of their lives.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions on freelancing or running an online business, don’t hesitate to email me. I’d love to hear from you!&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="freelancing" /><category term="goals" /><summary type="html">Read part one here to learn how I started full-time freelancing and got through the early obstacles of getting clients and managing a cashflow with no steady paycheck.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/17-07-11/ft_freelance2_cover.jpg" /></entry><entry><title type="html">One Year Full-time Freelancing: What I’ve Learned Pt. 1</title><link href="http://localhost:4000/writing/One-Year-Full-Time-Freelancing-What-Ive-Learned-Pt-1" rel="alternate" type="text/html" title="One Year Full-time Freelancing: What I've Learned Pt. 1" /><published>2017-07-11T00:00:00-04:00</published><updated>2017-07-11T00:00:00-04:00</updated><id>http://localhost:4000/writing/One-Year-Full-Time-Freelancing-What-Ive-Learned-Pt-1</id><content type="html" xml:base="http://localhost:4000/writing/One-Year-Full-Time-Freelancing-What-Ive-Learned-Pt-1">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/17-07-05/fulltime_freelanceCover.png&quot; alt=&quot;graphic for One Year Full-Time Freelancing: What I've Learned Pt. 1&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;how-it-all-started&quot;&gt;How it All started&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;I didn’t want to be a full-time freelancer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I had a full-time agency job working as a designer &amp;amp; developer. I made websites everyday, and I loved it. It felt powerful to find what I loved to do.&lt;/p&gt;
+
+&lt;p&gt;Although I was only 23 years old, everyone at the office respected the work I did and &lt;em&gt;wanted to know what I thought about things&lt;/em&gt;. In my first year after college, at my first job, I made over a dozen websites, from design to development.&lt;/p&gt;
+
+&lt;p&gt;However, I didn’t have a portfolio site, a blog or a twitter account. I kept my head low and churned out the work.&lt;/p&gt;
+
+&lt;p&gt;I saved up money little by little, and one year into my job I decided it was time to buy a car. I needed to buy a car. My old car couldn’t drive more than four miles without stalling out.&lt;/p&gt;
+
+&lt;p&gt;I took all the money out of my savings and checking account and bought a used Toyota Camry. It wasn’t much, but it took my year of saving down to $4 in my checking account.&lt;/p&gt;
+
+&lt;p&gt;I saw how little money I had, and thought “time to do freelancing &lt;em&gt;on the side&lt;/em&gt;”.&lt;/p&gt;
+
+&lt;p&gt;Where I worked, I was technically paid as a contractor (not as an employee) which saved tax money for the owner. This meant I could pursue freelancing while keeping my full-time (contract) job.&lt;/p&gt;
+
+&lt;p&gt;I put together a portfolio website and told the world I was available for freelance. My plan was to do a few freelancing projects to replenish my savings, but I didn’t think I had the skills or the network to go full-time freelancing.&lt;/p&gt;
+
+&lt;p&gt;Two days after I went live with my portfolio website, I lost my job. I’m not going to go into details about losing my job here, but I was devastated and shocked.&lt;/p&gt;
+
+&lt;p&gt;My first thought was, “I need to get a new job”. That’s the typical thought someone has after they lose their job. I need someone to hire me. I updated my LinkedIn. I drafted a new resume.&lt;/p&gt;
+
+&lt;p&gt;I gave my resume to my dad to proofread, and he said, “Why do you need me to read your resume? You already have a job.”&lt;/p&gt;
+
+&lt;p&gt;“Dad, I don’t have a job anymore,” I said. “I lost it.”&lt;/p&gt;
+
+&lt;p&gt;“No,” my dad said, “your freelancing is your job now. It’s your business.”&lt;/p&gt;
+
+&lt;p&gt;“I only meant to do freelancing on the side. It can’t be my full-time job.”&lt;/p&gt;
+
+&lt;p&gt;“Why not?” my dad replied. “You don’t have much money, but you also don’t have much debt. You don’t have kids. Your expenses are low. Also you have a good skill. Do you really want to work for the man again? Do you really want to work for a man again?”&lt;/p&gt;
+
+&lt;p&gt;And in that moment I began my full-time freelance business. I had $4 to my name and no clients.&lt;/p&gt;
+&lt;h2 id=&quot;the-first-month-door-to-door-website-saleswoman&quot;&gt;The First Month: Door to Door Website Saleswoman&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The first month of full-time freelancing was scary. A roller coaster of emotions. I needed to pay rent and buy food. There was no paycheck coming.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;get-your-name-online&quot;&gt;Get Your Name Online&lt;/h3&gt;
+&lt;p&gt;I created a profile for my business on every social media platform imaginable. &lt;a href=&quot;https://www.facebook.com/allisonskinnerwebdesign/&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/skinner_design&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://www.instagram.com/a.l.l.is.on/&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.behance.net/adskinner&quot;&gt;Behance&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/adskinner/&quot;&gt;Linkedin&lt;/a&gt;, &lt;a href=&quot;https://github.com/adskinner&quot;&gt;Github&lt;/a&gt; and &lt;a href=&quot;https://medium.com/@askinner&quot;&gt;Medium&lt;/a&gt;. I added my business to &lt;a href=&quot;https://www.google.com/maps/dir//allison+skinner/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f66d24792cd9d1:0x323d2788031bbace?sa=X&amp;amp;ved=2ahUKEwim3c_plKfdAhVK3VMKHacaAJQQ9RcwEnoECAwQEw&quot;&gt;Google Maps&lt;/a&gt;. I started a &lt;a href=&quot;/writing&quot;&gt;blog&lt;/a&gt;. People needed to know that I made websites and I was available for hire.&lt;/p&gt;
+
+&lt;h3 id=&quot;get-clients-now&quot;&gt;Get Clients Now&lt;/h3&gt;
+&lt;p&gt;I had no real experience getting clients. When I was working at an agency, I was the girl making websites behind the scenes.&lt;/p&gt;
+
+&lt;p&gt;To start, I made a list of every business in Athens &amp;amp; Oconee County that either didn’t have a website or their website needed to be updated.&lt;/p&gt;
+
+&lt;p&gt;Then I literally went door to door, to each business, and tried to win clients. I was a door to door website saleswoman. Being out of my comfort zone was an understatement.&lt;/p&gt;
+
+&lt;p&gt;Most people took my business card and wished me luck. A few wouldn’t even shake my hand and glowered at me until I left their store.&lt;/p&gt;
+
+&lt;p&gt;But then I walked into &lt;a href=&quot;https://www.avidbookshop.com/&quot;&gt;Avid Bookshop&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When I said I made websites, they immediately responded: “We need a new one.”&lt;/p&gt;
+
+&lt;p&gt;They were my first client as a full-time freelancer, and still a cherished client today.&lt;/p&gt;
+
+&lt;h2 id=&quot;months-2-6-hardly-making-it&quot;&gt;Months 2-6: (Hardly) Making it&lt;/h2&gt;
+&lt;p&gt;For the next five months, I made it. In the sense that I didn’t go homeless or starve. And here’s how I did it.&lt;/p&gt;
+
+&lt;p&gt;Live Lean&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;I paid the minimum on all my credit cards&lt;/li&gt;
+  &lt;li&gt;I ate egg sandwiches and pbjs.&lt;/li&gt;
+  &lt;li&gt;I stopped going out.&lt;/li&gt;
+  &lt;li&gt;I didn’t buy a single article of clothing.&lt;/li&gt;
+  &lt;li&gt;I cancelled all superfluous subscriptions or memberships&lt;/li&gt;
+  &lt;li&gt;I didn’t travel.&lt;/li&gt;
+  &lt;li&gt;I didn’t get haircuts, buy makeup or hair products.
+Live tenaciously for your business.
+My business was my every waking thought. My desire to dress well, go out or be cool was replaced by my desire to see my business succeed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My goal was to deliver excellent work to the few clients I had, in hopes of getting more work through referrals. It worked. Slowly but surely.&lt;/p&gt;
+
+&lt;h3 id=&quot;take-30-out-of-every-check-for-taxes-and-raise-your-rates-to-accommodate-that&quot;&gt;Take 30% out of Every Check for Taxes. And raise your rates to accommodate that.&lt;/h3&gt;
+&lt;p&gt;When a freelancer gets paid it’s not a paycheck. No taxes are taken out. It is your responsibility to save for taxes. And as a freelancer you pay, on average, 10% more than your employed friends in taxes. It sucks but at least you are your own boss!&lt;/p&gt;
+
+&lt;p&gt;That $1000 check is really $700.
+That $1500 check is really $1050.
+That $500 check is really $350
+For my first few months freelancing, I didn’t do the tax math when providing quotes to clients and it hurt me. When I finally got paid for my work, I needed every penny for rent, bills, etc. And then 30% would be taken out. That made getting by only tougher. I had to raise my rates to a point where even with 30% taken out, I could support myself and have a quality life.&lt;/p&gt;
+
+&lt;h3 id=&quot;as-a-freelancer-you-will-work-longer--harder-than-you-ever-did-at-a-regular-job-but-its-worth-it&quot;&gt;As a freelancer, you will work longer &amp;amp; harder than you ever did at a regular job (but it’s worth it)&lt;/h3&gt;
+&lt;p&gt;I was surprised by how running my solo-business took over my life. It changed my core personality.&lt;/p&gt;
+
+&lt;p&gt;At 23, working an agency job, I went out on weekends. I was concerned about who and what was cool. I’d leave my job and not think about work until I returned the next morning.&lt;/p&gt;
+
+&lt;p&gt;At 24, running my own business, I stopped going out because a) I initially couldn’t afford it and b) there were more important things to do — work.&lt;/p&gt;
+
+&lt;p&gt;The business-side of being a freelancer was the unexpected part-time job I added to my full-time job of website design &amp;amp; development. As a freelancer you are in charge of sending proposals and invoices, creating contracts, emailing clients &amp;amp; marketing yourself to get future work. That takes up a good part of your day-to-day operations.&lt;/p&gt;
+
+&lt;p&gt;Why is the hard work worth it?&lt;/p&gt;
+
+&lt;p&gt;Because you are in charge of your life. There is no boss that decides your salary, and then won’t consider giving you a raise for another year, maybe two years, maybe three years. I asked for a raise three times, and I got shot down every time.&lt;/p&gt;
+
+&lt;p&gt;After freelancing for a year, I am making 4.5x times the hourly rate I made at my last agency job. The hard work is also worth it because you own your schedule because you own your life. My typical day is working from 8am - 2pm and then 9pm - 12am because those are the times I’m most productive. I can’t be productive from 9 to 5, and I don’t think many people can.&lt;/p&gt;
+
+&lt;p&gt;I take breaks and vacation when I want because opportunities to be with family and friends are always worth it.&lt;/p&gt;
+
+&lt;p&gt;Beyond the pay and schedule, being a business owner is empowering (even with the long hours and inconsistent cashflow). I can truly say that I love what I do and I love the clients I work with.&lt;/p&gt;
+
+&lt;h2 id=&quot;up-next-my-first-year-freelancing-what-ive-learned-pt-2&quot;&gt;Up Next: My First Year Freelancing: What I’ve Learned Pt. 2.&lt;/h2&gt;
+&lt;p&gt;Part two will be published next week in my “First Year Full-Time Freelancing” series. In part two I’ll cover months 6-12 when I start to get steady clients and steady money. I’ll discuss how I manage the workload, how I tackle content marketing and how I start to focus my business on clients and projects that I’m the most passionate about.&lt;/p&gt;
+
+&lt;p&gt;Follow me on &lt;a href=&quot;https://www.facebook.com/allisonskinnerwebdesign/&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/skinner_design&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.instagram.com/a.l.l.is.on/&quot;&gt;Instagram&lt;/a&gt; to get updates on my latest blog posts!&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="freelancing" /><summary type="html">How it All started I didn’t want to be a full-time freelancer.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/17-07-05/fulltime_freelanceCover.png" /></entry><entry><title type="html">An Introduction to SVG &amp;amp; CSS Animations: How to Animate a Social Media Icon</title><link href="http://localhost:4000/writing/How-to-Animate-a-Social-Media-Icon" rel="alternate" type="text/html" title="An Introduction to SVG &amp; CSS Animations: How to Animate a Social Media Icon" /><published>2017-06-29T00:00:00-04:00</published><updated>2017-06-29T00:00:00-04:00</updated><id>http://localhost:4000/writing/How-to-Animate-a-Social-Media-Icon</id><content type="html" xml:base="http://localhost:4000/writing/How-to-Animate-a-Social-Media-Icon">&lt;blockquote&gt;
+  &lt;p&gt;One of my favorite things to incorporate into any web project is animation. Particularly CSS &amp;amp; SVG animations because they are lightweight, retina-level crisp &amp;amp; do not require adding complicated javascript libraries to your website. CSS &amp;amp; SVG animations combine the creative elements of design and the technical elements of development. As a designer and developer I love that. Dabbling with CSS &amp;amp; SVG animations as a developer (or designer) is a great introduction to going beyond basic HTML and CSS. Today I’m going to show you how to animate an instagram icon. You can use these same principles to animate any social media icon. This icon animation is featured on &lt;a href=&quot;trevblake.com&quot;&gt;trevblake.com&lt;/a&gt; , a portfolio site I made for my good friend &amp;amp; hard-working creative, Trevor Blake.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;View my &lt;a href=&quot;https://codepen.io/adskinner/pen/eRyygL&quot;&gt;codepen&lt;/a&gt; on this project.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-download-the-instagram-icon&quot;&gt;1. Download the Instagram icon&lt;/h2&gt;
+&lt;p&gt;Visit Instagram’s brand resources and download the .eps file. Or, you can visit the noun project for a more unique version of the instagram icon. Make sure to credit the maker of the icon!&lt;/p&gt;
+
+&lt;h2 id=&quot;2-edit-the-icon-in-adobe-illustrator&quot;&gt;2. Edit the icon in Adobe Illustrator&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Open the instagram icon you downloaded in Adobe Illustrator. You could also open it in Sketch, if that’s what you prefer, but this tutorial will use Adobe Illustrator.&lt;/li&gt;
+  &lt;li&gt;Here are some edits I made to the icon
+    &lt;ul&gt;
+      &lt;li&gt;Added a circle around the icon (optional)&lt;/li&gt;
+      &lt;li&gt;Made all the layers of the icon be border strokes instead of filled objects. This is essential for the animation we will be adding later.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Rename the layers&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;When we save this icon as an SVG, the layers will become CSS IDs so we want the layer names to be easy to differentiate.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;d. Save the icon as an SVG. Select ‘File &amp;gt; Save As..’ and then save as an SVG (not a compressed SVG). In the ‘SVG Options’ box that appears before you save, we can keep things pretty simple. This is a basic icon with a few layers. We don’t have any embedded images, for example.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;2-open-svg-icon-in-text-editor&quot;&gt;2. Open SVG icon in text editor&lt;/h2&gt;
+&lt;p&gt;In this tutorial I’m using brackets. Here you can see the code of the icon. Now we’ve got something we can apply some CSS animations to!
+SVG code always looks intimidating, but noticed that all the IDs are the layers we named when we were in Adobe Illustrator.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="CSS animation" /><category term="SVG animation" /><category term="icons" /><summary type="html">One of my favorite things to incorporate into any web project is animation. Particularly CSS &amp;amp; SVG animations because they are lightweight, retina-level crisp &amp;amp; do not require adding complicated javascript libraries to your website. CSS &amp;amp; SVG animations combine the creative elements of design and the technical elements of development. As a designer and developer I love that. Dabbling with CSS &amp;amp; SVG animations as a developer (or designer) is a great introduction to going beyond basic HTML and CSS. Today I’m going to show you how to animate an instagram icon. You can use these same principles to animate any social media icon. This icon animation is featured on trevblake.com , a portfolio site I made for my good friend &amp;amp; hard-working creative, Trevor Blake.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/17-06-29/icon_Cover.gif" /></entry></feed>

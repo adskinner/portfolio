@@ -1,0 +1,38 @@
+- selector: ld_slider
+  bullets: false
+  captions: true
+  images:
+    - src: ../assets/img/portfolio/lamar-dodd/ld-mainPage1.jpg
+      alt: image one
+    - src: ../assets/img/portfolio/lamar-dodd/ld-mainPage2.jpg
+      alt: image two
+    - src: ../assets/img/portfolio/lamar-dodd/ld-mainPage3.jpg
+      alt: image three
+    - src: ../assets/img/portfolio/lamar-dodd/ld-mainPage4.jpg
+      alt: image four
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+    transitionDuration: 350
+    interval: 1500
+
+
+- selector: pac_slider
+  bullets: true
+  captions: true
+  images:
+    - src: ../assets/img/portfolio/pac/pac-singleEventa.jpg
+      alt: image one
+    - src: ../assets/img/portfolio/pac/pac-singleEventb.jpg
+      alt: image two
+    - src: ../assets/img/portfolio/pac/pac-singleEventc.jpg
+      alt: image three
+    - src: ../assets/img/portfolio/pac/pac-singleEventd.jpg
+      alt: image four
+    - src: ../assets/img/portfolio/pac/pac-singleEvente.jpg
+      alt: image four
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+    transitionDuration: 350
+    interval: 1500

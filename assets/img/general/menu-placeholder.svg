@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>menu placeholder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="post-full" transform="translate(-1314.000000, -22.000000)">
+            <g id="menu-placeholder" transform="translate(1316.000000, 24.000000)">
+                <circle id="Oval" stroke="#F8E71C" stroke-width="3" fill="#F8E71C" cx="30" cy="30" r="30"></circle>
+                <rect id="Rectangle-17" stroke="#000000" fill-rule="nonzero" x="15.5" y="24.5" width="29" height="1"></rect>
+                <rect id="Rectangle-17" stroke="#000000" fill-rule="nonzero" x="15.5" y="31.5" width="29" height="1"></rect>
+                <rect id="Rectangle-17" stroke="#000000" fill-rule="nonzero" x="15.5" y="38.5" width="29" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

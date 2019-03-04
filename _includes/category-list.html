@@ -1,0 +1,45 @@
+<p>Welcome to my blog! Here is where I share my thoughts on running a business, building and designing websites, and general opinions of being a freelancer. Here is also where I’ll share experiments with code and design. Join my newsletter to get regular updates on my writing!</p>
+<ul class="writing-categories">
+{% assign categories_list = site.categories %}
+  {% if categories_list.first[0] == null %}
+    {% for category in categories_list %}
+      <li><a href="category#{{ category }}">{{ category | capitalize }} ({{ site.tags[category].size }})</a></li>
+    {% endfor %}
+  {% else %}
+    {% for category in categories_list %}
+      <li><a href="category#{{ category[0] | downcase }}">{{ category[0] | capitalize }} ({{ category[1].size }})</a></li>
+    {% endfor %}
+  {% endif %}
+{% assign categories_list = nil %}
+</ul>
+
+<ul class="writing-tags">
+{% assign tags_list = site.tags %}
+  {% if tags_list.first[0] == null %}
+    {% for tag in tags_list %}
+      <li><a href="tag#{{ tag }}">{{ tag | capitalize }} ({{ site.tags[tag].size }})</a>&nbsp;-</li>
+    {% endfor %}
+  {% else %}
+    {% for tag in tags_list %}
+      <li><a href="tag#{{ tag[0] | downcase }}">{{ tag[0] | capitalize }} ({{ tag[1].size }})</a>&nbsp;-</li>
+    {% endfor %}
+  {% endif %}
+{% assign categories_list = nil %}
+</ul>
+<div id="share-bar">
+<div class="share-buttons">
+  <h4>Follow Me</h4>
+  <a href="https://twitter.com/skinner_design" target="_blank">
+    <span class="fa-stack fa-2x" id="twitter">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+  <span class="fa-stack fa-2x" id="instagram">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+  </span>
+</a>
+</div>
+</div>

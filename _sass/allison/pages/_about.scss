@@ -1,0 +1,12 @@
+.about {
+  .left-panel {
+    background: $purple;
+    color: $white;
+  }
+  .progress-container {
+      background: $pink;
+      .progress-bar {
+          background: $orange;
+        }
+      }
+}
