@@ -919,7 +919,8 @@ main {
       border-radius: 5px;
       border-bottom: none;
       background: #FB5435;
-      color: #fff; }
+      color: #fff;
+      -webkit-appearance: button; }
       @media screen and (max-width: 768px) {
         .home section#contact .contact form.contact-form input[type="submit"] {
           font-size: 1em; } }
@@ -1016,7 +1017,8 @@ main {
   height: 80vh;
   display: flex;
   align-items: center;
-  overflow: hidden; }
+  overflow: hidden;
+  position: sticky; }
   @media screen and (max-width: 992px) {
     .home-intro {
       align-items: start;
@@ -1089,7 +1091,7 @@ main {
       .home-inner-wrap p.sub-wrap {
         font-family: 'GT Haptik Regular', sans-serif;
         font-size: 1em;
-        letter-spacing: 0.1em; } }
+        letter-spacing: 0.03em; } }
   .home-inner-wrap .email-wrap {
     max-width: 1300px;
     margin: 0 auto;
@@ -1135,19 +1137,7 @@ main {
           top: -150px; } }
       @media screen and (max-width: 570px) {
         .home-inner-wrap .image-placeholder-wrap .image-placeholder {
-          width: 300px;
-          height: 400px;
-          top: -90px; } }
-      @media screen and (max-width: 480px) {
-        .home-inner-wrap .image-placeholder-wrap .image-placeholder {
-          width: 230px;
-          height: 350px;
-          top: -100px; } }
-      @media screen and (max-width: 320px) {
-        .home-inner-wrap .image-placeholder-wrap .image-placeholder {
-          width: 220px;
-          height: 300px;
-          top: -110px; } }
+          display: none; } }
 
 .home .site-header {
   background: transparent;
