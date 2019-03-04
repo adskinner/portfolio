@@ -46,26 +46,27 @@ $on-laptop:        800px !default;
 // Import partials.
 @import
 
-// general
-"allison/general/variables",
-// typography
-"allison/typography/fonts",
-  "allison/general/layout",
-"allison/general/menu",
-// pages
-  "allison/pages/home",
-  "allison/pages/about",
-  "allison/pages/process",
-  "allison/pages/contact",
-  "allison/pages/thank-you",
-  // posts
-  "allison/posts/single-post",
-  "allison/posts/posts-feed",
-  "allison/posts/cats",
-  // work
-  "allison/work/work-feed",
-  "allison/work/work-single",
+
   // old
 "allison/old/original-base",
   "allison/old/original-layout",
-  "allison/old/original-syntax-highlighting"
+  "allison/old/original-syntax-highlighting",
+  // general
+  "allison/general/variables",
+  // typography
+  "allison/typography/fonts",
+    "allison/general/layout",
+  "allison/general/menu",
+  // pages
+    "allison/pages/home",
+    "allison/pages/about",
+    "allison/pages/process",
+    "allison/pages/contact",
+    "allison/pages/thank-you",
+    // posts
+    "allison/posts/single-post",
+    "allison/posts/posts-feed",
+    "allison/posts/cats",
+    // work
+    "allison/work/work-feed",
+    "allison/work/work-single"

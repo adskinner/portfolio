@@ -222,6 +222,9 @@ left: 50%;
       &:not(:last-child) {
         margin-right: 0;
       }
+      @media screen and (max-width: 600px) {
+        margin-left: 0;
+      }
     }
     .page-link:before {
       content:'+';
@@ -237,4 +240,11 @@ left: 50%;
       content:'×';
 
     }
+    @media screen and (max-width: 600px) {
+      background-color: transparent;
+      border: none;
+    }
+}
+.site-nav .page-link:not(:last-child) {
+  margin-right: 0;
 }
