@@ -200,7 +200,7 @@
   padding: 0 2em;
   margin: 0 auto;
   max-width:1300px;
-  @media screen and (max-width: $xxs) {
+  @media screen and (max-width: $sm) {
       padding: 0 1em;
     }
   h3.subheading {
@@ -249,8 +249,14 @@
   }
   p.sub-wrap {
     max-width: 850px;
+    font-family: 'GT Haptik Bold', sans-serif;
     @media screen and (max-width: $med) {
       max-width: 560px;
+    }
+    @media screen and (max-width: $sm) {
+      font-family: 'GT Haptik Regular', sans-serif;
+      font-size: 1em;
+      letter-spacing: 0.1em;
     }
   }
   .email-wrap {

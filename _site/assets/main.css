@@ -1037,7 +1037,7 @@ main {
   padding: 0 2em;
   margin: 0 auto;
   max-width: 1300px; }
-  @media screen and (max-width: 380px) {
+  @media screen and (max-width: 570px) {
     .home-inner-wrap {
       padding: 0 1em; } }
   @media screen and (max-width: 480px) {
@@ -1080,10 +1080,16 @@ main {
       .home-inner-wrap p {
         font-size: 1.1rem; } }
   .home-inner-wrap p.sub-wrap {
-    max-width: 850px; }
+    max-width: 850px;
+    font-family: 'GT Haptik Bold', sans-serif; }
     @media screen and (max-width: 768px) {
       .home-inner-wrap p.sub-wrap {
         max-width: 560px; } }
+    @media screen and (max-width: 570px) {
+      .home-inner-wrap p.sub-wrap {
+        font-family: 'GT Haptik Regular', sans-serif;
+        font-size: 1em;
+        letter-spacing: 0.1em; } }
   .home-inner-wrap .email-wrap {
     max-width: 1300px;
     margin: 0 auto;
