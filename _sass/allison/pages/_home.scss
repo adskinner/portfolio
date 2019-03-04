@@ -169,6 +169,7 @@
       }
       input[type="submit"] {
         border-bottom:none;
+        -webkit-appearance: button;
       }
     }
   }
@@ -197,6 +198,9 @@
 .home-outer-wrap {
   position:fixed;
   width:100%;
+  @media screen and (max-width: $sm) {
+      position: relative;
+    }
 }
 .home-inner-wrap {
   padding: 0 2em;

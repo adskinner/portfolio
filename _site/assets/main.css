@@ -470,7 +470,7 @@ h3.subheading {
       font-size: 0.8rem; } }
 
 h4 {
-  font-family: 'GT Haptik Regular', monospace;
+  font-family: 'GT Haptik Bold', monospace;
   font-size: 1.2rem;
   font-weight: 700; }
 
@@ -1009,7 +1009,8 @@ main {
     .home section#newsletter .newsletter input {
       border-bottom: 1px solid #fff; }
     .home section#newsletter .newsletter input[type="submit"] {
-      border-bottom: none; }
+      border-bottom: none;
+      -webkit-appearance: button; }
 
 .home-intro {
   background: #5D47BA;
@@ -1034,6 +1035,9 @@ main {
 .home-outer-wrap {
   position: fixed;
   width: 100%; }
+  @media screen and (max-width: 570px) {
+    .home-outer-wrap {
+      position: relative; } }
 
 .home-inner-wrap {
   padding: 0 2em;
