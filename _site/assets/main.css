@@ -1284,6 +1284,9 @@ ul.post-list li h3 a:hover {
   .about .progress-container .progress-bar {
     background: #FB5435; }
 
+@media screen and (max-width: 768px) {
+  .process nav#myScrollspy {
+    margin-left: 0.7em; } }
 .process nav#myScrollspy ul {
   margin-left: 15px;
   list-style-type: none; }
@@ -1295,7 +1298,7 @@ ul.post-list li h3 a:hover {
 .process a.return {
   color: #000; }
   .process a.return:before {
-    content: url(/assets/img/general/return-black.svg);
+    content: url(/portfolio/assets/img/general/return-black.svg);
     display: inline-block;
     position: absolute;
     margin-left: -40px;
@@ -1308,7 +1311,7 @@ ul.post-list li h3 a:hover {
   .contact a.return:hover {
     border-bottom: 1px solid #000; }
   .contact a.return:before {
-    content: url(/assets/img/general/return-black.svg);
+    content: url(/portfolio/assets/img/general/return-black.svg);
     display: inline-block;
     position: absolute;
     margin-left: -40px;
@@ -1722,9 +1725,9 @@ h2.tag-header {
   padding: 1em 0; }
 
 .work a.return {
-  color: #000; }
+  color: #fff; }
   .work a.return:before {
-    content: url(/assets/img/general/return-black.svg);
+    content: url(/portfolio/assets/img/general/return-white.svg);
     display: inline-block;
     position: absolute;
     margin-left: -40px;

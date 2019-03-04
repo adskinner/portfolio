@@ -1,5 +1,8 @@
 .process {
   nav#myScrollspy {
+    @media screen and (max-width: $med) {
+      margin-left: 0.7em;
+    }
     ul {
       margin-left:15px;
       list-style-type:none;
@@ -16,7 +19,7 @@
   a.return {
     color:#000;
     &:before {
-      content: url(/assets/img/general/return-black.svg);
+      content: url(/portfolio/assets/img/general/return-black.svg);
       display: inline-block;
       position: absolute;
       margin-left: -40px;
