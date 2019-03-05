@@ -37,3 +37,20 @@
   z-index: -1;
   width: 100%;
 }
+
+.404 .404-return {
+  font-family: 'GT Haptik Bold',sans-serif;
+  text-transform: uppercase;
+  border-bottom: 1px solid $orange;
+  font-size: 1.3em;
+}
+.404 .404-return:focus, .404 .404-return:hover {
+  text-decoration:none;
+  border-bottom:none;
+}
+.404 h1 {
+  margin-bottom: 20px;
+}
+.404 .signature {
+  margin-top: 20px;
+}
