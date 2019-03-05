@@ -7,11 +7,11 @@ description: Learn about Allison Skinner's process when signing on and working w
 ---
 {:#section1}
 ## 1. Phone consultation
-After getting in contact with me (usually by email), we’ll schedule a phone consultation to get things started.This will be an opportunity to discuss your goals, budget and timeline. During the phone call, I can’t provide an exact quote for the project, but I am willing to provide a ballpark estimate. During the phone call, I’ll assess how much work is ahead for the website project, and if we’ll need to outsource any additional services (such as logo design, copywriting or photography).The purpose of this initial phone conversation is to get to know each other and get a scope for the project.
+After getting in contact with me (usually by email), we’ll schedule a phone consultation to get things started. This will be an opportunity to discuss your goals, budget and timeline. During the phone call, I can’t provide an exact quote for the project, but I am willing to provide a ballpark estimate. During the phone call, I’ll assess how much work is ahead for the website project, and if we’ll need to outsource any additional services (such as logo design, copywriting or photography). The purpose of this initial phone conversation is to get to know each other and get a scope for the project.
 
 {:#section2}
 ## 2. Proposal & then contract
-After our phone consultation, I’ll put together a proposal for the project. The proposal will include the pricing, timeline, services included, services *not* included and costs not included.
+After our phone consultation, I’ll put together a proposal for the project. The proposal will include the pricing, timeline, services included, services *not* included and costs *not* included.
 
 Most proposals include a flat rate for pricing, that will be divided into three deposits.
 1. 40% when contract signed
@@ -31,7 +31,8 @@ You’ll have the chance to review the contract and ask any questions. Once we h
 
 All my website projects start with design. I won’t start building a website until I know exactly how it will look and function.
 To determine the design of the website, I’ll start with your business’ existing branding (logo, color scheme, photography, etc.) and then research other websites in your industry.
-The design for the website will complement the brand and soul of your business and it will be appropriate for your industry.
+
+The design for your website will complement the brand and soul of your business and it will be appropriate for your industry.
 I create custom designs for each business I work with, so your website will be fine tuned to get leads and grow your business.
 
 When designing the website, I create mockups for each page of the website; this will include the homepage, about page, contact page, etc. I also include mockups for important interactions on the website, such as menu dropdowns, newsletter pop-ups and contact forms.
@@ -40,7 +41,7 @@ These mockups will provide an exact blueprint for how the website will appear an
 When I’ve completed the website design mockups, I’ll share them with you and I will provide in-depth notes for clarification.
 You will review the mockups and then share your feedback and edits.
 
-This is an important time to be critical and really think about what you want for your website going forward. The website design mockups can be easily tweaked and adjusted to your needs, but it will be more difficult to make adjustments once I start development on the website.
+This is an important time to be critical and really think about what you want for your website going forward. The website design mockups can be easily tweaked and adjusted to your needs, but it will be more time consuming to make adjustments once I start development on the website.
 
 I’ll provide additional drafts on the mockups until you are completely satisfied. Once the mockups are approved, I’ll send my second invoice and then get started on the website development!
 

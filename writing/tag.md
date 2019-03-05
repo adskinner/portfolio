@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tags
+slug: categories
 ---
 
 <div class='list-group'>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-04T15:56:20-05:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-04T23:02:47-05:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
 </subtitle><author><name>Allison Skinner</name></author><entry><title type="html">Why I wanted to redesign my portfolio website</title><link href="http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site" rel="alternate" type="text/html" title="Why I wanted to redesign my portfolio website" /><published>2018-12-29T00:00:00-05:00</published><updated>2018-12-29T00:00:00-05:00</updated><id>http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site</id><content type="html" xml:base="http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-29/old-allison-homepage.jpg&quot; alt=&quot;Homepage of 2016 version of Allison Skinner Web Design and Development website&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -33,23 +33,18 @@ By 2018, I wanted to redo my portfolio site because my business had evolved in s
 &lt;blockquote&gt;
   &lt;p&gt;After reviewing my goals for my next portfolio site, the path was clear for me — I wanted to build a static site with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and host it on &lt;a href=&quot;https://pages.github.com/&quot;&gt;github pages&lt;/a&gt;. What is Jekyll and why am I using it for my portfolio website? What does it mean to host with github pages? Keep reading in my next post, akldjfalkdjf;alkdjf;alkdjf;laksdjf;lakdjf;lk&lt;/p&gt;
 &lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="Portfolio Website" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-29/old-allison-homepage.jpg" /></entry><entry><title type="html">What Makes a Great Real Estate Website</title><link href="http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)" rel="alternate" type="text/html" title="What Makes a Great Real Estate Website" /><published>2018-12-12T00:00:00-05:00</published><updated>2018-12-12T00:00:00-05:00</updated><id>http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)</id><content type="html" xml:base="http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)">&lt;blockquote&gt;
-  &lt;p&gt;In 2018, I launched three real estate websites.&lt;/p&gt;
+  &lt;p&gt;In 2018, I launched two real estate websites.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;1. &lt;a href=&quot;/portfolio/winterville-station&quot;&gt;Winterville Station&lt;/a&gt; (launched March 2018)&lt;/strong&gt;
-&lt;img src=&quot;../assets/img/writing/18-12-12/winterville-station.jpg&quot; alt=&quot;Winterville Station&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Niche website for a community in Winterville, Ga. All homes were planned, designed and built by &lt;a href=&quot;https://jwyorkhomes.com&quot;&gt;JW York Homes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. &lt;a href=&quot;/portfolio/georgia-club-real-estate&quot;&gt;The Georgia Club Real Estate Company&lt;/a&gt; (launched October 2018)&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;1. &lt;a href=&quot;/portfolio/georgia-club-real-estate&quot;&gt;The Georgia Club Real Estate Company&lt;/a&gt; (launched October 2018)&lt;/strong&gt;
 &lt;img src=&quot;../assets/img/writing/18-12-12/tgcr.jpg&quot; alt=&quot;Georgia Club Real Estate&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Georgia Club is a private country club that has many unique neighborhoods. The Georgia Club Real Estate Company has specialized in selling Georgia Club homes for almost twenty years.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;3. &lt;a href=&quot;/portfolio/jw-york-homes&quot;&gt;JW York Homes&lt;/a&gt; (launched December 2018)&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;2. &lt;a href=&quot;/portfolio/jw-york-homes&quot;&gt;JW York Homes&lt;/a&gt; (launched December 2018)&lt;/strong&gt;
 &lt;img src=&quot;../assets/img/writing/18-12-12/jwy.jpg&quot; alt=&quot;JW York Homes&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;After I build Winterville Station’s website, JW York Homes recognized their primary website needed a redesign as well. JW York Homes features their spec homes for communities they’ve developed, as well as custom homes they’ve designed and built for clients.&lt;/p&gt;
+&lt;p&gt;JW York Homes began as a custom home builder and has grown into a property and community developer in the Athens, GA area. The JW York Homes website features their spec homes for communities they’ve developed, as well as custom homes they’ve designed and built for clients.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;After designing and building multiple real estate websites, I’ve learned what’s essential for a great real estate website.&lt;/strong&gt;&lt;/p&gt;
 
@@ -92,7 +87,7 @@ To achieve this advanced search feature, I used the Advanced Search &amp;amp; Fi
 &lt;blockquote&gt;
   &lt;p&gt;I think with these four elements you can have a successful and informative real estate website. I love building real estate websites because they provide the fun challenge of taking a lot of information and displaying it in an attractive and digestible way. Also, real estate is a personal hobby of mine because I’m obsessed with architecture and design.
 Are you in need of web design and development for your real estate business? &lt;a href=&quot;/contact&quot;&gt;Please get in touch with me&lt;/a&gt;!&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="Real Estate" /><summary type="html">In 2018, I launched three real estate websites.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-12/winterville-station.jpg" /></entry><entry><title type="html">2019: What’s to Come</title><link href="http://localhost:4000/writing/whats-to-come" rel="alternate" type="text/html" title="2019: What's to Come" /><published>2018-12-10T00:00:00-05:00</published><updated>2018-12-10T00:00:00-05:00</updated><id>http://localhost:4000/writing/whats-to-come</id><content type="html" xml:base="http://localhost:4000/writing/whats-to-come">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-10/share.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="Real Estate" /><summary type="html">In 2018, I launched two real estate websites.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-12/winterville-station.jpg" /></entry><entry><title type="html">2019: What’s to Come</title><link href="http://localhost:4000/writing/whats-to-come" rel="alternate" type="text/html" title="2019: What's to Come" /><published>2018-12-10T00:00:00-05:00</published><updated>2018-12-10T00:00:00-05:00</updated><id>http://localhost:4000/writing/whats-to-come</id><content type="html" xml:base="http://localhost:4000/writing/whats-to-come">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-10/share.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h1 id=&quot;2019-whats-to-come&quot;&gt;2019 What’s to Come&lt;/h1&gt;
 &lt;blockquote&gt;
   &lt;p&gt;t’s December 2018 and it’s cold and wet in Georgia, which is as close as it’ll ever get to a wintry wonderland. With the year winding down, I’m thinking of what’s ahead.

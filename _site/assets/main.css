@@ -507,7 +507,7 @@ blockquote {
   padding-left: 0;
   color: #000; }
   blockquote p {
-    font-family: 'GT Haptik Regular',sans-serif;
+    font-family: 'GT Haptik Bold',sans-serif;
     font-weight: 400;
     font-size: 1.3em;
     color: #000;
@@ -1283,6 +1283,8 @@ ul.post-list li h3 a:hover {
   .about .progress-container .progress-bar {
     background: #FB5435; }
 
+.process nav#myScrollspy a, .process nav#myScrollspy a:visited {
+  color: #fff; }
 @media screen and (max-width: 768px) {
   .process nav#myScrollspy {
     margin-left: 0.7em; } }
@@ -1295,13 +1297,20 @@ ul.post-list li h3 a:hover {
   .process nav#myScrollspy ul li.active {
     list-style-type: disc; }
 .process a.return {
-  color: #000; }
+  color: #fff; }
   .process a.return:before {
-    content: url(/portfolio/assets/img/general/return-black.svg);
+    content: url(/portfolio/assets/img/general/return-white.svg);
     display: inline-block;
     position: absolute;
     margin-left: -40px;
     margin-top: -5px; }
+
+.process .left-panel {
+  background: #5D47BA;
+  color: #fff; }
+
+.process .progress-container {
+  background: #FFDBFF; }
 
 .contact .progress-container {
   background: #FFDBFF; }
@@ -1566,7 +1575,9 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
 .PageNavigation a {
   font-weight: 700;
   text-decoration: underline;
-  text-decoration-color: #FB5435; }
+  text-decoration-color: #FB5435;
+  display: block;
+  margin: 10px 0; }
 
 .PageNavigation a:hover {
   text-decoration-color: #04CEF9; }
@@ -1798,14 +1809,14 @@ a.return-black {
     text-decoration: none; }
 
 a.return:before {
-  content: url(/portfolio/assets/img/general/return-white.svg);
+  content: url(/assets/img/general/return-white.svg);
   display: inline-block;
   position: absolute;
   margin-left: -40px;
   margin-top: -5px; }
 
 a.return-black:before {
-  content: url(/portfolio/assets/img/general/return-black.svg);
+  content: url(/assets/img/general/return-black.svg);
   display: inline-block;
   position: absolute;
   margin-left: -40px;

@@ -12,22 +12,17 @@ description: Allison Skinner shares what makes a great real estate website. Incl
 ---
 
 
->In 2018, I launched three real estate websites.
+>In 2018, I launched two real estate websites.
 
-**1. [Winterville Station](/portfolio/winterville-station) (launched March 2018)**
-![Winterville Station][1]
-
-Niche website for a community in Winterville, Ga. All homes were planned, designed and built by [JW York Homes](https://jwyorkhomes.com)
-
-**2. [The Georgia Club Real Estate Company](/portfolio/georgia-club-real-estate) (launched October 2018)**
+**1. [The Georgia Club Real Estate Company](/portfolio/georgia-club-real-estate) (launched October 2018)**
 ![Georgia Club Real Estate][2]
 
 The Georgia Club is a private country club that has many unique neighborhoods. The Georgia Club Real Estate Company has specialized in selling Georgia Club homes for almost twenty years.
 
-**3. [JW York Homes](/portfolio/jw-york-homes) (launched December 2018)**
+**2. [JW York Homes](/portfolio/jw-york-homes) (launched December 2018)**
 ![JW York Homes][3]
 
-After I build Winterville Station's website, JW York Homes recognized their primary website needed a redesign as well. JW York Homes features their spec homes for communities they've developed, as well as custom homes they've designed and built for clients.
+JW York Homes began as a custom home builder and has grown into a property and community developer in the Athens, GA area. The JW York Homes website features their spec homes for communities they've developed, as well as custom homes they've designed and built for clients.
 
 **After designing and building multiple real estate websites, I've learned what's essential for a great real estate website.**
 

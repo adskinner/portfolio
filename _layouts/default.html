@@ -10,7 +10,7 @@
 });
 </script>
 
-  <body {% if page.slug or page.layout %} class="{{ page.slug }} {{ page.layout }}"{% endif %} {% if page.url == "/process/" or page.url == "/services" %} data-spy="scroll" data-target="#myScrollspy" data-offset="15" {% endif %} >
+  <body {% if page.slug or page.layout %} class="{{ page.slug }} {{ page.layout }}"{% endif %} {% if page.slug == "process" %} data-spy="scroll" data-target="#myScrollspy" data-offset="15" {% endif %} >
 
         {{ content }}
 

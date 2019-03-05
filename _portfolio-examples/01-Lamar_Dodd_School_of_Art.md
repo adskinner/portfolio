@@ -4,7 +4,7 @@ title: "Lamar Dodd School of Art"
 published: "February 2018"
 website: "art.uga.edu"
 image: "portfolio/lamar-dodd/art-slider.gif"
-description: The University of Georgia's Lamar Dodd School of Art needed a stand-out website for their acclaimed institution. They needed a website that showcased the creative and talented work of their faculty, staff and students. The Lamar Dodd School of Art website was built on the Drupal8 platform, using a custom Drupal theme. The website includes a calendar of events, news posts, faculty/staff/alumni/student profiles, galleries and much more.
+description: The University of Georgia's Lamar Dodd School of Art needed a stand-out website for their acclaimed institution. They needed a website that showcased the creative and talented work of their faculty, staff and students. The Lamar Dodd School of Art website was built on the Drupal 8 platform, using a custom Drupal theme. The website includes a calendar of events, news posts, faculty/staff/alumni/student profiles, galleries and much more.
 permalink: /work/lamar-dodd-school-of-art
 ---
 

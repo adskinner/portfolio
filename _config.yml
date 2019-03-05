@@ -48,6 +48,8 @@ minima:
 #header_pages:
 # - about.md
 
+
+
 # Build settings
 theme: minima
 
