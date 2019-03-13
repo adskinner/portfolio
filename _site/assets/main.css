@@ -952,7 +952,8 @@ main {
         .home section#contact .writing ul.post-list {
           padding: 2.5em 2em; } }
 .home section#writing {
-  background: #fff; }
+  background: #fff;
+  z-index: 10; }
   .home section#writing .writing {
     width: 100%; }
     .home section#writing .writing ul.post-list {
@@ -1045,7 +1046,6 @@ main {
       height: 100vh; } }
 
 .home-outer-wrap {
-  position: fixed;
   width: 100%; }
   @media screen and (max-width: 570px) {
     .home-outer-wrap {
@@ -1143,8 +1143,7 @@ main {
       width: 375px;
       position: absolute;
       right: 3.5em;
-      top: -550px;
-      z-index: -1; }
+      top: -550px; }
       @media screen and (max-width: 992px) {
         .home-inner-wrap .image-placeholder-wrap .image-placeholder {
           top: -200px; } }

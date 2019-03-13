@@ -98,6 +98,7 @@
   }
   section#writing {
     background: $white;
+    z-index: 10;
     .writing {
       width: 100%;
       ul.post-list {
@@ -203,7 +204,7 @@
     }
 }
 .home-outer-wrap {
-  position:fixed;
+
   width:100%;
   @media screen and (max-width: $sm) {
       position: relative;
@@ -316,7 +317,6 @@
       position: absolute;
       right: 3.5em;
       top: -550px;
-      z-index: -1;
       @media screen and (max-width: $lg) {
         top: -200px;
       }
