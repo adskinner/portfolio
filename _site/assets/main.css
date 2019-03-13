@@ -533,6 +533,10 @@ blockquote {
   display: block;
   text-align: center; }
 
+article.post ul li, article.post ol li {
+  font-size: 1.2rem;
+  margin-bottom: 0.7rem; }
+
 /*grillitype tests*/
 @font-face {
   font-family: "GT Haptik Black";
@@ -593,6 +597,9 @@ body {
   height: 100%;
   position: fixed;
   background: #FFDBFF; }
+  @media screen and (min-width: 2000px) {
+    .progress-container {
+      width: 12px; } }
   @media screen and (max-width: 992px) {
     .progress-container {
       display: none; } }
@@ -880,7 +887,8 @@ main {
 .home section#contact {
   flex-direction: row;
   display: flex;
-  background: #fff; }
+  background: #fff;
+  z-index: 10; }
   .home section#contact .contact {
     width: 50%; }
     @media screen and (max-width: 768px) {
@@ -955,9 +963,11 @@ main {
         .home section#writing .writing ul.post-list {
           padding: 2em; } }
 .home section#portfolio {
-  background: #fff; }
+  background: #fff;
+  z-index: 10; }
 .home section#portfolio2 {
-  background: #FFDBFF; }
+  background: #FFDBFF;
+  z-index: 10; }
 .home section#all-work {
   background: #E00A30;
   min-height: 12vh;
@@ -965,7 +975,8 @@ main {
   flex-wrap: wrap;
   display: flex;
   align-items: center;
-  overflow: hidden; }
+  overflow: hidden;
+  z-index: 10; }
   .home section#all-work a {
     display: block;
     margin: 0 auto;
@@ -998,7 +1009,8 @@ main {
   display: flex;
   width: 100%;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+  z-index: 10; }
   .home section#newsletter .newsletter {
     padding: 3em 2em; }
     @media screen and (max-width: 768px) {
@@ -1125,7 +1137,8 @@ main {
     margin: 0 auto;
     position: relative; }
     .home-inner-wrap .image-placeholder-wrap .image-placeholder {
-      background: #04CEF9;
+      background-image: url(img/about/allison-home-img.png);
+      background-size: cover;
       height: 550px;
       width: 375px;
       position: absolute;
@@ -1312,6 +1325,9 @@ ul.post-list li h3 a:hover {
 .process .progress-container {
   background: #FFDBFF; }
 
+.process .progress-container .progress-bar {
+  background: #FB5435; }
+
 .contact .progress-container {
   background: #FFDBFF; }
 .contact a.return {
@@ -1358,8 +1374,9 @@ ul.post-list li h3 a:hover {
   background: #FB5435;
   color: #fff;
   border-bottom: none;
-  padding: 20px;
-  font-size: 1.8em;
+  font-size: 1.2em;
+  padding: 1.05em;
+  text-transform: uppercase;
   border-radius: 5px; }
 .contact form.contact-form input[type="submit"]:hover, .contact form.contact-form input[type="submit"]:focus {
   cursor: pointer;
@@ -1369,13 +1386,15 @@ ul.post-list li h3 a:hover {
   font-family: 'GT Haptik Bold',sans-serif; }
 .contact form.contact-form ::-moz-placeholder {
   color: #fff;
-  font-family: 'GT Haptik Bold',sans-serif; }
+  font-family: 'GT Haptik Bold',sans-serif;
+  opacity: 1; }
 .contact form.contact-form :-ms-input-placeholder {
   color: #fff;
   font-family: 'GT Haptik Bold',sans-serif; }
 .contact form.contact-form :-moz-placeholder {
   color: #fff;
-  font-family: 'GT Haptik Bold',sans-serif; }
+  font-family: 'GT Haptik Bold',sans-serif;
+  opacity: 1; }
 
 input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
   background-color: #FFDBFF !important; }
@@ -1476,6 +1495,22 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
   height: 100vh;
   z-index: -1;
   width: 100%; }
+
+.missing-page-return {
+  font-family: 'GT Haptik Bold', sans-serif;
+  text-transform: uppercase;
+  border-bottom: 1px solid #FB5435;
+  font-size: 1.3em; }
+
+.missing-page-return:focus, .missing-page-return:hover {
+  text-decoration: none;
+  border-bottom: none; }
+
+.missing-page h1 {
+  margin-bottom: 20px; }
+
+.missing-page .signature {
+  margin-top: 20px; }
 
 .post .left-panel {
   background: #FFDBFF; }
@@ -1821,3 +1856,6 @@ a.return-black:before {
   position: absolute;
   margin-left: -40px;
   margin-top: -5px; }
+
+.work .progress-container {
+  background: #FFDBFF; }

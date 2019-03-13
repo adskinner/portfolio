@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-05T12:35:46-05:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-13T16:34:01-04:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
 </subtitle><author><name>Allison Skinner</name></author><entry><title type="html">Why I wanted to redesign my portfolio website</title><link href="http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site" rel="alternate" type="text/html" title="Why I wanted to redesign my portfolio website" /><published>2018-12-29T00:00:00-05:00</published><updated>2018-12-29T00:00:00-05:00</updated><id>http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site</id><content type="html" xml:base="http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-29/old-allison-homepage.jpg&quot; alt=&quot;Homepage of 2016 version of Allison Skinner Web Design and Development website&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -8,7 +8,7 @@
 &lt;p&gt;(If you want to learn more about my origin story, &lt;a href=&quot;/writing/One-Year-Full-Time-Freelancing-What-Ive-Learned-Pt-1&quot;&gt;keep reading here&lt;/a&gt;.) I’m proud of my 2016 portfolio because it brought me solid, recurring business for over two years, but there were some flaws with the site.
 By 2018, I wanted to redo my portfolio site because my business had evolved in so many ways and because the site was such a pain to update.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;The following were the main issues I had with my 2016 portfolio website:&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;the-following-were-the-main-issues-i-had-with-my-2016-portfolio-website&quot;&gt;The following were the main issues I had with my 2016 portfolio website:&lt;/h2&gt;
 
 &lt;h3 id=&quot;1-i-bought-a-premium-html-theme-for-my-portfolio-website&quot;&gt;1. I bought a premium HTML theme for my portfolio website&lt;/h3&gt;
 &lt;p&gt;Which means, I didn’t truly design my portfolio website and I didn’t write all the code. Here’s the &lt;a href=&quot;https://themeforest.net/item/sartre-creative-multipurpose-html-template/13912008&quot;&gt;theme&lt;/a&gt; I bought, if you’re interested! This was the best choice for my skill level at the time, but two years later it was an internal embarrassment. I design and build custom themes for all my clients, so my portfolio should reflect that level of craftsmanship.&lt;/p&gt;
@@ -19,7 +19,7 @@ By 2018, I wanted to redo my portfolio site because my business had evolved in s
 &lt;h3 id=&quot;3-i-cater-to-everyone-in-how-i-market-and-describe-my-business&quot;&gt;3. I cater to everyone in how I market and describe my business&lt;/h3&gt;
 &lt;p&gt;When I launched my business, I was available and interested in any web project — any budget, any industry, any deadline. This is a good business plan if you need a lot of business asap, but it’s not very good if you want to become an expert in any niche type of website design or development. Now, I want my portfolio website to appeal to my dream clients – which are creative, hard-working businesses that need a website to work hard for them!&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;My main goals for my new 2019 portfolio site are the following&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;my-main-goals-for-my-new-2019-portfolio-site-are-the-following&quot;&gt;My main goals for my new 2019 portfolio site are the following:&lt;/h2&gt;
 
 &lt;h3 id=&quot;1-a-unique-experimental-design-that-i-usually-dont-have-the-opportunity-to-designbuild-for-a-client&quot;&gt;1. A unique, experimental design that I usually don’t have the opportunity to design/build for a client&lt;/h3&gt;
 &lt;p&gt;My 2016 portfolio design is mostly based off the HTML theme I purchased, for my new 2019 portfolio website I wanted it to be 100% Allison through and through. Bright colors, split page navigation, bold typography. I wanted my portfolio website to appeal to creative businesses that don’t want a cookie-cutter website.&lt;/p&gt;
@@ -31,66 +31,11 @@ By 2018, I wanted to redo my portfolio site because my business had evolved in s
 &lt;p&gt;The two big things that worked on my portfolio website was that it ranked well on google search results and that it loaded really fast. I can attribute this to having a raw HTML website with no heavy CMS or database to load. It was clean, lean code and google rewarded me for it. And I want to keep it that way!&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;After reviewing my goals for my next portfolio site, the path was clear for me — I wanted to build a static site with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and host it on &lt;a href=&quot;https://pages.github.com/&quot;&gt;github pages&lt;/a&gt;. What is Jekyll and why am I using it for my portfolio website? What does it mean to host with github pages? Keep reading in my next post, akldjfalkdjf;alkdjf;alkdjf;laksdjf;lakdjf;lk&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="Portfolio Website" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-29/old-allison-homepage.jpg" /></entry><entry><title type="html">What Makes a Great Real Estate Website</title><link href="http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)" rel="alternate" type="text/html" title="What Makes a Great Real Estate Website" /><published>2018-12-12T00:00:00-05:00</published><updated>2018-12-12T00:00:00-05:00</updated><id>http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)</id><content type="html" xml:base="http://localhost:4000/writing/what-makes-a-great-real-estate-website(restored)">&lt;blockquote&gt;
-  &lt;p&gt;In 2018, I launched two real estate websites.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;1. &lt;a href=&quot;/portfolio/georgia-club-real-estate&quot;&gt;The Georgia Club Real Estate Company&lt;/a&gt; (launched October 2018)&lt;/strong&gt;
-&lt;img src=&quot;../assets/img/writing/18-12-12/tgcr.jpg&quot; alt=&quot;Georgia Club Real Estate&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The Georgia Club is a private country club that has many unique neighborhoods. The Georgia Club Real Estate Company has specialized in selling Georgia Club homes for almost twenty years.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. &lt;a href=&quot;/portfolio/jw-york-homes&quot;&gt;JW York Homes&lt;/a&gt; (launched December 2018)&lt;/strong&gt;
-&lt;img src=&quot;../assets/img/writing/18-12-12/jwy.jpg&quot; alt=&quot;JW York Homes&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;JW York Homes began as a custom home builder and has grown into a property and community developer in the Athens, GA area. The JW York Homes website features their spec homes for communities they’ve developed, as well as custom homes they’ve designed and built for clients.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;After designing and building multiple real estate websites, I’ve learned what’s essential for a great real estate website.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;1-advanced-search-feature&quot;&gt;1. Advanced Search feature&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/advanced-search.png&quot; alt=&quot;JW York Homes advanced search&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When building a real estate website, you need to think about the popular features of home searching apps, like &lt;a href=&quot;https://zillow.com&quot;&gt;Zillow&lt;/a&gt;. One main feature is advanced search, which allows users to filter properties based on multiple criteria, such as price, bedrooms, baths, square feet. Prospective home buyers have a lot of deal breaker criteria, so narrowing down the properties to what they want is key to keeping them on your site.
-To achieve this advanced search feature, I used the Advanced Search &amp;amp; Filter Pro plugin.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-available-homes-map&quot;&gt;2. Available Homes Map&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/ah-map.jpg&quot; alt=&quot;Georgia Club Real Estate Available Homes map&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Another feature of popular home searching apps, like &lt;a href=&quot;https://zillow.com&quot;&gt;Zillow&lt;/a&gt;, is the option to view properties in a map view. Location is a top priority for many home buyers, and they don’t want to enter the address of each home into google maps to see which has the best location.&lt;/p&gt;
-
-&lt;h3 id=&quot;3-strategic-design-for-individual-available-home-page&quot;&gt;3. Strategic design for individual ‘available home’ page&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/jwy-available-home3.gif&quot; alt=&quot;JW York Home available home walk through&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A property can have an immense amount of information. Dozens of images, a 200+ word description and an endless amount of details such as bedrooms, bathrooms, square feet, garage, school districts, etc. You don’t want to overwhelm the user with all this information. Rather, you want to organize the page where the user can access the most important information immediately. For the real estate websites I’ve built, I’ve organized the individual ‘available home’ page as follows:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;large image of the exterior&lt;/li&gt;
-  &lt;li&gt;upgraded features&lt;/li&gt;
-  &lt;li&gt;home details&lt;/li&gt;
-  &lt;li&gt;additional images that open to lightbox slideshow gallery&lt;/li&gt;
-  &lt;li&gt;location google map&lt;/li&gt;
-  &lt;li&gt;additional information&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;4-promote-the-quality-and-lifestyle-that-comes-with-your-properties-and-communities&quot;&gt;4. Promote the quality and lifestyle that comes with your properties and communities&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-12/lifestyle-screenshots.jpg&quot; alt=&quot;JW York Homes sub pages&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If someone has left the larger house listing websites to do further research on your real estate website, it’s likely because the user wants to know who they are buying from and what they are buying into. For most, it’s to learn what makes your home construction and design unique. Do you include environmentally friendly features in your home builds? Do your neighborhoods include nature trails? Do you provide custom design options for your spec homes? These are the kind of details that home buyers want to know about, and you should include this information in your website.&lt;/p&gt;
-
-&lt;p&gt;This can be achieved through adding basic pages to your site that give additional information about your team, process and quality. These basic pages are inexpensive for your website designer/developer to put together for you, but could ultimately be the reason why prospective home owners reach out to you about one of your homes!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I think with these four elements you can have a successful and informative real estate website. I love building real estate websites because they provide the fun challenge of taking a lot of information and displaying it in an attractive and digestible way. Also, real estate is a personal hobby of mine because I’m obsessed with architecture and design.
-Are you in need of web design and development for your real estate business? &lt;a href=&quot;/contact&quot;&gt;Please get in touch with me&lt;/a&gt;!&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="Real Estate" /><summary type="html">In 2018, I launched two real estate websites.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-12/winterville-station.jpg" /></entry><entry><title type="html">2019: What’s to Come</title><link href="http://localhost:4000/writing/whats-to-come" rel="alternate" type="text/html" title="2019: What's to Come" /><published>2018-12-10T00:00:00-05:00</published><updated>2018-12-10T00:00:00-05:00</updated><id>http://localhost:4000/writing/whats-to-come</id><content type="html" xml:base="http://localhost:4000/writing/whats-to-come">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-10/share.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;After reviewing my goals for my next portfolio site, the path was clear for me — I wanted to build a static site with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and host it on &lt;a href=&quot;https://pages.github.com/&quot;&gt;github pages&lt;/a&gt;. What is Jekyll and why am I using it for my portfolio website? What does it mean to host with github pages? Keep reading in my next post [COMING SOON]!&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="Portfolio Website" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-29/old-allison-homepage.jpg" /></entry><entry><title type="html">2019: What’s to Come</title><link href="http://localhost:4000/writing/whats-to-come" rel="alternate" type="text/html" title="2019: What's to Come" /><published>2018-12-10T00:00:00-05:00</published><updated>2018-12-10T00:00:00-05:00</updated><id>http://localhost:4000/writing/whats-to-come</id><content type="html" xml:base="http://localhost:4000/writing/whats-to-come">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-10/share.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h1 id=&quot;2019-whats-to-come&quot;&gt;2019 What’s to Come&lt;/h1&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;t’s December 2018 and it’s cold and wet in Georgia, which is as close as it’ll ever get to a wintry wonderland. With the year winding down, I’m thinking of what’s ahead.
+  &lt;p&gt;It’s December 2018 and it’s cold and wet in Georgia, which is as close as it’ll ever get to a wintry wonderland. With the year winding down, I’m thinking of what’s ahead.
 My only short term goal is to finish what I can and then relax with friends and family. After thanksgiving, I don’t take on new work. My only goal is to finish it!
 The best thing about a new year is that it’s a chance to start fresh. You can look back on what you did and didn’t accomplish in 2018 and then make new goals for 2019. &lt;a href=&quot;/writing/2018-A-Year-In-Review&quot;&gt;Check out my 2018 Year in Review post here&lt;/a&gt;.
 Here’s what you’ll be seeing from Allison Skinner Web Design &amp;amp; Development in 2019.&lt;/p&gt;
@@ -98,33 +43,36 @@ Here’s what you’ll be seeing from Allison Skinner Web Design &amp;amp; Devel
 
 &lt;h2 id=&quot;bizness-goals&quot;&gt;Bizness goals&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;1. Share my work more&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;1-share-my-work-more&quot;&gt;1. Share my work more&lt;/h3&gt;
 
 &lt;p&gt;I haven’t shared new work since November 2017. Which is right about the time I got overbooked for a full year and decided my portfolio site was too outdated to even update. I’m thankful that I still get business without updating my portfolio, but I wonder what business I &lt;em&gt;could&lt;/em&gt; be getting if I did update it.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;2. Share and write more about myself and my business&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2-share-and-write-more-about-myself-and-my-business&quot;&gt;2. Share and write more about myself and my business&lt;/h3&gt;
 
 &lt;p&gt;The freelancers &amp;amp; studios that I connect with the most are the ones that, unsurprisingly, share the most. I want potential clients that are unsure about getting a website redesign to follow me, get to know me and maybe a few months later…bite the bullet and contact me about their website! I also want people in the industry, especially those starting out, to follow my writing for motivation and advice.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;3. Expand my client base to Atlanta&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;3-expand-my-client-base-to-atlanta&quot;&gt;3. Expand my client base to Atlanta&lt;/h3&gt;
 
-&lt;p&gt;Athens, GA is my home, I love it here. and I’m grateful to say that most of clients live and work here as well! Athens is a small town, that’s bustling with creative &amp;amp; entrepreneurial activity — and I get to make the websites that showcase it. I want to expand to more Atlanta clients because it means bigger clients and bigger projects, and even creative projects with healthy budgets 🙂&lt;/p&gt;
+&lt;p&gt;Athens, GA is my home, I love it here and I’m grateful to say that most of clients live and work here as well! Athens is a small town that’s bustling with creative &amp;amp; entrepreneurial activity — and I get to make the websites that showcase it. I want to expand to more Atlanta clients because it means bigger clients and bigger projects, and even creative projects with healthy budgets 🙂&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;4. Spend time to improve workflows&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;4-spend-time-to-improve-workflows&quot;&gt;4. Spend time to improve workflows&lt;/h3&gt;
 
 &lt;p&gt;When you work alone, it’s easy to find a way that works and stick with that…forever. Even if there’s a faster, better way to do it. I want to make time to try out new workflows and approaches. It’ll be more time intensive on the frontend, but could lead to great improvements.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;5. Spend time experimenting and playing with design and code&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;5-spend-time-experimenting-and-playing-with-design-and-code&quot;&gt;5. Spend time experimenting and playing with design and code&lt;/h3&gt;
 
 &lt;p&gt;I want to play! Like a kid in sandbox; trying out new effects, languages and designs. I think I’m in a creative rut. I know how to make an attractive, well-functioning website but sometimes I feel like my work creatively bleeds together, re-using the same tricks and designs from website to website. Most of my clients don’t want the weird stuff, but that doesn’t mean it can’t play around with it!&lt;/p&gt;
 
 &lt;h2 id=&quot;personal-goals&quot;&gt;Personal goals&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Lose 26 lbs (after already losing 10 lb since Nov 1, 2018)&lt;/strong&gt; Okay I know this is the most stereotypical New Years Resolution ever, but I weighed myself for the first time in 4 years in November 2018, and it turns out I had gained 36 lbs! So that’s what I want to lose. I already got a good start in 2018 by doing bootcamp classes at my gym 2-3x a week and then I added 2-3 hot yoga classes a week to the mix. (I also know weight is just a number, and your well-being isn’t determined by it. I have very positive body image 🙂 )&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Travel More&lt;/strong&gt; I want to go to the west coast and abroad in 2019. I’ve never been to the west coast…I don’t think I’ve even seen the Pacific Ocean! So that’s high on the list. I also want to travel abroad, haven’t been out of the country since my study abroad to Argentina in 2014. My mom and I really want to go to England and Scotland to tour ALL the castles, we are BBC fanatics.
-Already have a trip to Asheville in Febuary planned with the fam. Spending two nights at the Grove Park Inn with Jeff for spa &amp;amp; relaxation, then heading to downtown Asheville for two nights with our family for lots of beer and food.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Grow an Incredible Vegetable Garden&lt;/strong&gt; Last year, I tried out gardening for the first time with two raised vegetable beds and I had a lot of success (with a few failures). I want to take full advantage of Georgia’s blessedly long growing seasons and expand my gardening. My dream is to possibly stop spending a fortune at the grocery store because I grow so much on my own! The biggest revelation I had about gardening is that you can buy an 80 cent pack of salad green seeds and have overflowing amounts of salad greens for months. Whereas at the grocery store you can spend $4 on a handful of greens!&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Allison Skinner</name></author><category term="2019" /><category term="goals" /><summary type="html">2019 What’s to Come t’s December 2018 and it’s cold and wet in Georgia, which is as close as it’ll ever get to a wintry wonderland. With the year winding down, I’m thinking of what’s ahead. My only short term goal is to finish what I can and then relax with friends and family. After thanksgiving, I don’t take on new work. My only goal is to finish it! The best thing about a new year is that it’s a chance to start fresh. You can look back on what you did and didn’t accomplish in 2018 and then make new goals for 2019. Check out my 2018 Year in Review post here. Here’s what you’ll be seeing from Allison Skinner Web Design &amp;amp; Development in 2019.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-10/2019.jpg" /></entry><entry><title type="html">2018: A Year in Review</title><link href="http://localhost:4000/writing/2018-A-Year-In-Review" rel="alternate" type="text/html" title="2018: A Year in Review" /><published>2018-12-08T00:00:00-05:00</published><updated>2018-12-08T00:00:00-05:00</updated><id>http://localhost:4000/writing/2018-A-Year-In-Review</id><content type="html" xml:base="http://localhost:4000/writing/2018-A-Year-In-Review">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/2018-review.jpg&quot; alt=&quot;2018 Year in Review&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;1-health-allison&quot;&gt;1. Health Allison!&lt;/h3&gt;
+
+&lt;p&gt;Health Allison was in full-swing in 2018 and I intend to continue that into 2019. I call this new lifestyle “Health Allison” because it really takes a persona shift to get in shape and get healthy. I gained some weight and lost some energy when I graduated college and began working a desk job. In 2018, I started taking bootcamp classes at my local gym and joined a hot yoga studio. I’ve lost 10 lbs to date and I feel stronger overall. My focus in 2019 will be to continue exercising but incorporate healthier eating into my daily life.&lt;/p&gt;
+&lt;h3 id=&quot;2-travel-more&quot;&gt;2. Travel More&lt;/h3&gt;
+&lt;p&gt;I want to go to the west coast and abroad in 2019. I’ve never been to the west coast…I don’t think I’ve even seen the Pacific Ocean! So that’s high on the list. I also want to travel abroad, haven’t been out of the country since my study abroad to Argentina in 2014. My mom and I really want to go to England and Scotland to tour ALL the castles, we are BBC fanatics.
+I already have a trip to Asheville in Feburary planned with my family. Spending two nights at the Grove Park Inn with Jeff for spa &amp;amp; relaxation and then we’re heading to downtown Asheville for two nights with our family for lots of beer and food.&lt;/p&gt;
+&lt;h2 id=&quot;3-grow-an-incredible-vegetable-garden&quot;&gt;3. Grow an Incredible Vegetable Garden&lt;/h2&gt;
+
+&lt;p&gt;Last year, I tried out gardening for the first time with two raised vegetable beds and I had a lot of success (with a few failures). I want to take full advantage of Georgia’s blessedly long growing seasons and expand my gardening. My dream is to possibly stop spending a fortune at the grocery store because I grow so much on my own! The biggest revelation I had about gardening is that you can buy an 80 cent pack of salad green seeds and have overflowing amounts of salad greens for months. Whereas at the grocery store you can spend $4 on a small handful of greens!&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="2019" /><category term="goals" /><summary type="html">2019 What’s to Come It’s December 2018 and it’s cold and wet in Georgia, which is as close as it’ll ever get to a wintry wonderland. With the year winding down, I’m thinking of what’s ahead. My only short term goal is to finish what I can and then relax with friends and family. After thanksgiving, I don’t take on new work. My only goal is to finish it! The best thing about a new year is that it’s a chance to start fresh. You can look back on what you did and didn’t accomplish in 2018 and then make new goals for 2019. Check out my 2018 Year in Review post here. Here’s what you’ll be seeing from Allison Skinner Web Design &amp;amp; Development in 2019.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-10/2019.jpg" /></entry><entry><title type="html">2018: A Year in Review</title><link href="http://localhost:4000/writing/2018-A-Year-In-Review" rel="alternate" type="text/html" title="2018: A Year in Review" /><published>2018-12-08T00:00:00-05:00</published><updated>2018-12-08T00:00:00-05:00</updated><id>http://localhost:4000/writing/2018-A-Year-In-Review</id><content type="html" xml:base="http://localhost:4000/writing/2018-A-Year-In-Review">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/2018-review.jpg&quot; alt=&quot;2018 Year in Review&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;2018-a-year-in-review&quot;&gt;2018: A Year in review&lt;/h1&gt;
 
@@ -749,4 +697,18 @@ left:-2px;
 
 &lt;blockquote&gt;
   &lt;p&gt;Checkout my &lt;a href=&quot;https://codepen.io/adskinner/pen/OgjvJX&quot;&gt;CodePen&lt;/a&gt; of my flat design 3D button animation.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="CSS animation" /><category term="flat design" /><summary type="html">Flat design has been on trend in the web design world for quite some time. Flat design uses a minimum amount of stylistic elements. There are no gradients, drop shadows or texture. But that doesn’t mean there’s no animation. A flat design button deserves some movement! In this tutorial, I will show you how to animate a flat design 3D button. I’ve seen this particular button on many sites I admire, but I couldn’t find a codepen or jsfiddle replicating it. So I owed it to the internet to make my own.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/17-06-23/smash_button.gif" /></entry></feed>
+&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="CSS animation" /><category term="flat design" /><summary type="html">Flat design has been on trend in the web design world for quite some time. Flat design uses a minimum amount of stylistic elements. There are no gradients, drop shadows or texture. But that doesn’t mean there’s no animation. A flat design button deserves some movement! In this tutorial, I will show you how to animate a flat design 3D button. I’ve seen this particular button on many sites I admire, but I couldn’t find a codepen or jsfiddle replicating it. So I owed it to the internet to make my own.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/17-06-23/smash_button.gif" /></entry><entry><title type="html">How to Animate Your Signature</title><link href="http://localhost:4000/writing/How-To-Animate-Your-Signature" rel="alternate" type="text/html" title="How to Animate Your Signature" /><published>2016-11-09T00:00:00-05:00</published><updated>2016-11-09T00:00:00-05:00</updated><id>http://localhost:4000/writing/How-To-Animate-Your-Signature</id><content type="html" xml:base="http://localhost:4000/writing/How-To-Animate-Your-Signature">&lt;blockquote&gt;
+  &lt;p&gt;Exciting news, I animated my signature and I feel like all the hours I spent perfecting my signature when I was a fame-obsessed 15 year-old came in handy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/16-11-09/signature.gif&quot; alt=&quot;animated signature gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I achieved this animation by creating my signature with the pencil tool in Adobe Illustrator. I then saved it as an .svg file and copied the svg code into a text editor.&lt;/p&gt;
+
+&lt;p&gt;From there I assigned unique classes to all the paths in my signature and added styling. The styling included adding a “stroke-dasharray” to each path class, this gave a length to each path, and I also added sequential keyframe animations.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Do you want to animate your signature? &lt;a href=&quot;https://webdesign.tutsplus.com/tutorials/sign-on-the-dotted-line-animating-your-own-svg-signature--cms-23846&quot;&gt;Follow this tutorial from Envato’s Tuts+&lt;/a&gt; step by step, and you’ll have your own animated signature!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are so many things that I want to learn in the realm of web design. I have at least 80 tutorials bookmarked, which span a variety of programming languages, design styles and animations. I’ll keep sharing my experiments :) .&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="SVG animation" /><summary type="html">Exciting news, I animated my signature and I feel like all the hours I spent perfecting my signature when I was a fame-obsessed 15 year-old came in handy.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/16-11-09/signature.jpg" /></entry></feed>

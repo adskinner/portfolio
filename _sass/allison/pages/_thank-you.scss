@@ -38,19 +38,19 @@
   width: 100%;
 }
 
-.404 .404-return {
-  font-family: 'GT Haptik Bold',sans-serif;
+.missing-page-return {
+  font-family: 'GT Haptik Bold', sans-serif;
   text-transform: uppercase;
   border-bottom: 1px solid $orange;
   font-size: 1.3em;
 }
-.404 .404-return:focus, .404 .404-return:hover {
+.missing-page-return:focus, .missing-page-return:hover {
   text-decoration:none;
   border-bottom:none;
 }
-.404 h1 {
+.missing-page h1 {
   margin-bottom: 20px;
 }
-.404 .signature {
+.missing-page .signature {
   margin-top: 20px;
 }

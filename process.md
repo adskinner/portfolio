@@ -5,7 +5,10 @@ slug: process
 permalink: /process/
 description: Learn about Allison Skinner's process when signing on and working with a client -- from contract to site launch!
 ---
+![Allison Skinner Web Design and Development home office][1]
+
 {:#section1}
+
 ## 1. Phone consultation
 After getting in contact with me (usually by email), we’ll schedule a phone consultation to get things started. This will be an opportunity to discuss your goals, budget and timeline. During the phone call, I can’t provide an exact quote for the project, but I am willing to provide a ballpark estimate. During the phone call, I’ll assess how much work is ahead for the website project, and if we’ll need to outsource any additional services (such as logo design, copywriting or photography). The purpose of this initial phone conversation is to get to know each other and get a scope for the project.
 
@@ -86,3 +89,5 @@ Some clients require ongoing technical assistance, and I do provide retainer ser
 After the website launches, I don’t want you to disappear — let’s keep in touch!
 
 I’ll add you to my newsletter (you can opt out anytime), so you can stay up to date. I frequently offer new services for clients because technology is always changing and evolving. I keep up to date on best practices for page performance, SEO, accessibility and browser/device support. If I think an improvement would be helpful for my clients, I’ll offer it in my newsletter!
+
+[1]: /assets/img/about/office.jpg

@@ -59,8 +59,9 @@
       background:$orange;
       color:$white;
       border-bottom:none;
-      padding:20px;
-      font-size:1.8em;
+      font-size: 1.2em;
+      padding: 1.05em;
+      text-transform: uppercase;
       border-radius: 5px;
     }
     input[type="submit"]:hover, input[type="submit"]:focus {
@@ -75,6 +76,7 @@
     ::-moz-placeholder {
       color: $white;
       font-family: 'GT Haptik Bold',sans-serif;
+      opacity: 1;
     }
     :-ms-input-placeholder {
       color: $white;
@@ -83,6 +85,7 @@
     :-moz-placeholder {
       color: $white;
       font-family: 'GT Haptik Bold',sans-serif;
+      opacity: 1;
     }
   }
 }

@@ -20,6 +20,7 @@
     flex-direction:row;
     display:flex;
     background: $white;
+    z-index:10;
     .contact {
       width: 50%;
       @media screen and (max-width: $med) {
@@ -111,9 +112,11 @@
   }
   section#portfolio {
     background: $white;
+    z-index:10;
   }
   section#portfolio2 {
     background: $pink;
+    z-index:10;
   }
   section#all-work {
     background:$red;
@@ -123,6 +126,7 @@
     display:flex;
     align-items:center;
     overflow:hidden;
+    z-index:10;
     a {
       display: block;
       margin: 0 auto;
@@ -159,6 +163,7 @@
     width: 100%;
     align-items: center;
     justify-content: center;
+    z-index:10;
     .newsletter {
       padding: 3em 2em;
       @media screen and (max-width: $med) {
@@ -304,7 +309,8 @@
     margin: 0 auto;
     position: relative;
     .image-placeholder {
-      background: #04CEF9;
+      background-image:url(img/about/allison-home-img.png);
+      background-size:cover;
       height: 550px;
       width: 375px;
       position: absolute;

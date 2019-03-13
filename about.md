@@ -28,5 +28,5 @@ Entrepreneurialism runs in the family because my father, Paul Skinner, will be o
 If you want to learn more about Allison Skinner Web Design and Development, continue onto my [blog](/writing)! That’s where I share my insights on business, code and design.
 
 
-[1]: /assets/img/about/about-placeholder.jpg
-[2]: /assets/img/about/about-placeholder2.jpg
+[1]: /assets/img/about/allison-about-1.png
+[2]: /assets/img/about/cooper-daisy.png

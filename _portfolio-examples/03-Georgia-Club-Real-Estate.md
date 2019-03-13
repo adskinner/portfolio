@@ -67,7 +67,7 @@ The individual floor plan page features important details such as beds, bath, sq
 ## Lifestyle
 Most people buy homes in the Georgia Club because they want to become a member of the Georgia Club community and become active in the Georgia Club lifestyle. For those curious about the perks and amenities provided at The Georgia Club, The Georgia Club Real Estate website features a 'lifestyle' page that offers a wealth of information.
 
-The lifestyle page includes information on health and wellness, learning, the Georgia Club Foundation, community garden and gathering places. Each section has an accompanying slideshow of images. 
+The lifestyle page includes information on health and wellness, learning, the Georgia Club Foundation, community garden and gathering places. Each section has an accompanying slideshow of images.
 
 ![The Georgia Club Real Estate Company lifestyle page][12]
 
