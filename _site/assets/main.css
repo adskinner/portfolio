@@ -1145,8 +1145,7 @@ main {
       max-width: 375px;
       position: absolute;
       right: 3.5em;
-      top: -550px;
-      z-index: -1; }
+      top: -550px; }
     .home-inner-wrap .image-placeholder-wrap .image-placeholder {
       background-image: url(img/about/allison-home-img.png);
       background-size: cover;
