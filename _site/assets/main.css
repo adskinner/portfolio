@@ -1069,7 +1069,9 @@ main {
       padding-right: 4em; } }
   .home-inner-wrap p.home-lead {
     font-size: 4.5rem;
-    line-height: 1.1; }
+    line-height: 1.1;
+    position: relative;
+    z-index: 5; }
     @media screen and (max-width: 992px) {
       .home-inner-wrap p.home-lead {
         font-size: 3.5rem; } }
@@ -1086,7 +1088,9 @@ main {
     font-family: 'GT Haptik Black', sans-serif;
     font-weight: 900;
     font-size: 1.8rem;
-    line-height: 1.45; }
+    line-height: 1.45;
+    position: relative;
+    z-index: 5; }
     @media screen and (max-width: 768px) {
       .home-inner-wrap p {
         font-size: 1.5rem;
