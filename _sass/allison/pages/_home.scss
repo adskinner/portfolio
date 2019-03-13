@@ -19,6 +19,7 @@
   section#contact {
     flex-direction:row;
     display:flex;
+    display:-ms-flexbox;
     background: $white;
     z-index:10;
     .contact {
@@ -125,6 +126,7 @@
     flex-direction:row;
     flex-wrap:wrap;
     display:flex;
+    display:-ms-flexbox;
     align-items:center;
     overflow:hidden;
     z-index:10;
@@ -188,6 +190,7 @@
   color: $white;
   height: 80vh;
   display:flex;
+  display:-ms-flexbox;
   align-items:center;
   overflow:hidden;
   position: sticky;
@@ -355,9 +358,9 @@ ul.portfolio-list {
 
   list-style:none;
   display:flex;
+  display:-ms-flexbox;
   flex-direction:row;
   flex-wrap:wrap;
-  display:flex;
   margin-bottom: 0;
   padding: 5em 0 1em;
   margin: 0 auto;
