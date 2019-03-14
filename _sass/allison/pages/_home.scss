@@ -49,6 +49,10 @@
         @media screen and (max-width: $lg) {
          font-size: 1.6em;
         }
+        @media screen and (max-width: $sm) {
+         font-size: 1em;
+         margin-top:5px;
+        }
       }
       form.contact-form textarea {
         font-size: 2em;
@@ -57,6 +61,9 @@
         border-bottom: 1px solid $black;
         @media screen and (max-width: $lg) {
          font-size: 1.6em;
+        }
+        @media screen and (max-width: $sm) {
+         font-size: 1em;
         }
       }
       form.contact-form input[type="submit"] {
@@ -209,7 +216,7 @@
   }
   @media screen and (max-width: $med) {
     padding-top:2.5em;
-    height: 90vh;
+    height: 100vh;
   }
   @media screen and (max-width: $xxs) {
       height: 100vh;
@@ -517,7 +524,7 @@ ul.post-list {
 }
 .home #allison {
   background: $mint;
-  padding: 2.5em 30px 1em;
+  padding: 2em 30px;
   display:none;
   @media screen and (max-width: $sm) {
     display:block;

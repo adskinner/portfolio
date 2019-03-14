@@ -919,6 +919,10 @@ a img {
       @media screen and (max-width: 992px) {
         .home section#contact .contact form.contact-form input {
           font-size: 1.6em; } }
+      @media screen and (max-width: 570px) {
+        .home section#contact .contact form.contact-form input {
+          font-size: 1em;
+          margin-top: 5px; } }
     .home section#contact .contact form.contact-form textarea {
       font-size: 2em;
       background: #B6FFCD;
@@ -927,6 +931,9 @@ a img {
       @media screen and (max-width: 992px) {
         .home section#contact .contact form.contact-form textarea {
           font-size: 1.6em; } }
+      @media screen and (max-width: 570px) {
+        .home section#contact .contact form.contact-form textarea {
+          font-size: 1em; } }
     .home section#contact .contact form.contact-form input[type="submit"] {
       font-size: 1.2em;
       padding: 1.05em;
@@ -1056,7 +1063,7 @@ a img {
   @media screen and (max-width: 768px) {
     .home-intro {
       padding-top: 2.5em;
-      height: 90vh; } }
+      height: 100vh; } }
   @media screen and (max-width: 380px) {
     .home-intro {
       height: 100vh; } }
@@ -1320,7 +1327,7 @@ ul.post-list li h3 a:hover {
     position: relative !important; } }
 .home #allison {
   background: #B6FFCD;
-  padding: 2.5em 30px 1em;
+  padding: 2em 30px;
   display: none; }
   @media screen and (max-width: 570px) {
     .home #allison {
