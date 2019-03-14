@@ -3,7 +3,7 @@
   width:100%;
   float:left;
 }
-ul.portfolio-list li {
+ul.portfolio-list li, .home section#newsletter {
   float:left;
 }
 .home section#all-work {
@@ -16,4 +16,12 @@ ul.portfolio-list li {
 }
 .home section#contact .writing, .home section#contact .contact {
   float:left;
+}
+.home section#all-work {
+  height: auto!important;
+  padding: 2em 0;
+}
+.home-intro {
+  padding-top: 12vh;
+  height: 65vh!important;
 }
