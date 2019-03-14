@@ -5,6 +5,12 @@
     background:$mint;
     color:$black;
     margin:2.3rem 0;
+    @media screen and (max-width: $sm) {
+      margin: 2rem 0;
+    }
+    @media screen and (max-width: $xxs) {
+      margin: 1rem 0;
+    }
   }
   .btn-primary:hover{
     background:$pink;
@@ -13,6 +19,9 @@
   .post-header {
     margin-bottom: 20px;
     margin-top: 1.5rem;
+    @media screen and (max-width: $xxs) {
+      margin-bottom: 0px;
+    }
   }
 }
 .portfolio .progress-container {

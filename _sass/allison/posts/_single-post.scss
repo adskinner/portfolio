@@ -15,6 +15,9 @@
       text-decoration:underline;
       text-decoration-color: $turquoise;
       font-size: 1.1em;
+      @media screen and (max-width: $xs) {
+        font-size: 1em;
+      }
     }
     .post-categories a:hover, .post-tags a:hover, .post-categories a:focus, .post-tags a:focus {
       text-decoration-color: $orange;
@@ -57,6 +60,10 @@
   @media screen and (max-width: $lg) {
     width: calc(100% - 65px);
     }
+@media screen and (max-width: $xxs) {
+      width: calc(100% - 0px);
+      margin-bottom: 10px;
+      }
 
   .post-title {
     font-size: 3.5em;
@@ -67,6 +74,9 @@
     }
     @media screen and (max-width: $sm) {
       font-size: 2.6em;
+    }
+    @media screen and (max-width: $xs) {
+      font-size: 2.3em;
     }
 }
 }
@@ -120,8 +130,14 @@
   @media screen and (max-width: $lg) {
     padding: 1.3em 0;
   }
+  @media screen and (max-width: $xs) {
+    padding: 0;
+  }
   h4 {
     margin-bottom: 0.5em;
+    @media screen and (max-width: $xs) {
+      font-size: 1rem;
+    }
   }
 }
 .post p img {
@@ -175,6 +191,9 @@
   }
   h2 {
     margin-top: 2em;
+    @media screen and (max-width: $xs) {
+      margin-top: 1em;
+    }
   }
   h3 {
     margin-top: 1em;

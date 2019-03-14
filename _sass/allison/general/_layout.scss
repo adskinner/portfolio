@@ -111,10 +111,16 @@ main {
   @media screen and (max-width: 1024px) {
     padding: 3em 0;
   }
+  @media screen and (max-width: $xxs) {
+    padding: 1.5em 0;
+  }
 }
 .post .page-content {
   @media screen and (max-width: 1024px) {
     padding: 3em 0 210px 0;
+  }
+  @media screen and (max-width: $xs) {
+    padding: 1.5em 0 210px 0;
   }
 }
 .desktop {

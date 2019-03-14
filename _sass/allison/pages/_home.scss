@@ -449,6 +449,10 @@ ul.portfolio-list {
       padding-bottom: 0.5em;
     }
     h3 {
+      @media screen and (max-width: $sm) {
+        line-height:0.7;
+      }
+
       @media screen and (max-width: $xxs) {
         margin-bottom: 5px;
       }
