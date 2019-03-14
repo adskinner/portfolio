@@ -192,7 +192,6 @@
   background: $purple;
   color: $white;
   height: 80vh;
-  display:table-cell;
   display:flex;
   display:-ms-flexbox;
   align-items:center;
@@ -362,7 +361,6 @@ ul.portfolio-list {
   max-width: 1330px;
 
   list-style:none;
-  display:table-cell;
   display:flex;
   display:-ms-flexbox;
   flex-direction:row;
@@ -523,5 +521,4 @@ ul.post-list {
 }
 :root ul.portfolio-list li {
   float:left \0/IE9;;
-
 }

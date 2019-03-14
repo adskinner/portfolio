@@ -1037,7 +1037,6 @@ a img {
   background: #5D47BA;
   color: #fff;
   height: 80vh;
-  display: table-cell;
   display: flex;
   display: -ms-flexbox;
   align-items: center;
@@ -1187,7 +1186,6 @@ a img {
 ul.portfolio-list {
   max-width: 1330px;
   list-style: none;
-  display: table-cell;
   display: flex;
   display: -ms-flexbox;
   flex-direction: row;
