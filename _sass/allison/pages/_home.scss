@@ -39,6 +39,7 @@
       form.contact-form label {
         color: $black;
         font-size:1.6em;
+        text-transform: lowercase;
       }
       form.contact-form input {
         font-size: 2em;
@@ -59,11 +60,13 @@
         background: $mint;
         color: $black;
         border-bottom: 1px solid $black;
+        border-radius:0;
         @media screen and (max-width: $lg) {
          font-size: 1.6em;
         }
         @media screen and (max-width: $sm) {
          font-size: 1em;
+         height: auto;
         }
       }
       form.contact-form input[type="submit"] {
@@ -210,7 +213,7 @@
   -ms-flex-align:center;
   overflow:hidden;
   position: sticky;
-  @media screen and (max-width: $lg) {
+  @media screen and (max-width: 1024px) {
     align-items:start;
     padding-top: 4em;
   }
@@ -252,7 +255,7 @@
     line-height: 1.1;
     position:relative;
     z-index:5;
-    @media screen and (max-width: $lg) {
+    @media screen and (max-width: 1024px) {
       font-size: 3.5rem;
     }
     @media screen and (max-width: $med) {
@@ -273,7 +276,7 @@
     line-height:1.45;
     position:relative;
     z-index:5;
-    @media screen and (max-width: $med) {
+    @media screen and (max-width: 1024px) {
       font-size: 1.5rem;
       line-height:1.3;
     }
@@ -288,7 +291,7 @@
   p.sub-wrap {
     max-width: 850px;
     font-family: 'GT Haptik Bold', sans-serif;
-    @media screen and (max-width: $med) {
+    @media screen and (max-width: 1024px) {
       max-width: 560px;
     }
     @media screen and (max-width: $sm) {
