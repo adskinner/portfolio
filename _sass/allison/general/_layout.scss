@@ -20,7 +20,7 @@ body {
   overflow-y: auto;
   height:100%;
   position:fixed;
-  @media screen and (max-width: $lg) {
+  @media screen and (max-width: 1024px) {
     width: 100%;
     height:auto;
     position:relative;
@@ -55,7 +55,7 @@ body {
     @media screen and (min-width: 2000px) {
       width: 12px;
     }
-    @media screen and (max-width: $lg) {
+    @media screen and (max-width: 1024px) {
       display:none;
     }
     .progress-bar {
@@ -74,7 +74,7 @@ main {
   margin-left:33.3%;
   height:100%;
   background:$white;
-  @media screen and (max-width: $lg) {
+  @media screen and (max-width: 1024px) {
     width: 100%;
     margin-left: 0;
     height: auto;
@@ -102,18 +102,18 @@ main {
 
 :not(.home) .left-panel{
       z-index:3;
-      @media screen and (max-width: $lg) {
+      @media screen and (max-width: 1024px) {
         z-index: 0;
       }
 }
 :not(.home) .page-content {
   padding: 5.5em 0;
-  @media screen and (max-width: $lg) {
+  @media screen and (max-width: 1024px) {
     padding: 3em 0;
   }
 }
 .post .page-content {
-  @media screen and (max-width: $lg) {
+  @media screen and (max-width: 1024px) {
     padding: 3em 0 210px 0;
   }
 }

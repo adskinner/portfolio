@@ -250,6 +250,7 @@
     }
     @media screen and (max-width: $med) {
       font-size: 3rem;
+      line-height: 1.03;
     }
     @media screen and (max-width: $xs) {
       font-size: 2.2rem;
@@ -307,6 +308,12 @@
       }
       @media screen and (max-width: 840px) {
         top: 0px;
+      }
+      @media screen and (max-width: $med) {
+        top: 350px;
+      }
+      @media screen and (max-width: $sm) {
+        top: 0;
       }
     }
 
