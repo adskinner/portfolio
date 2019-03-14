@@ -216,6 +216,7 @@
   @media screen and (max-width: 1024px) {
     align-items:start;
     padding-top: 4em;
+    height: 75vh;
   }
   @media screen and (max-width: $med) {
     padding-top:2.5em;
@@ -292,6 +293,9 @@
     max-width: 850px;
     font-family: 'GT Haptik Bold', sans-serif;
     @media screen and (max-width: 1024px) {
+      max-width: 630px;
+    }
+    @media screen and (max-width: $med) {
       max-width: 560px;
     }
     @media screen and (max-width: $sm) {
@@ -313,7 +317,7 @@
       top: -70px;
       animation: roll 10s infinite linear;
       transform: rotate(30deg);
-      @media screen and (max-width: $lg) {
+      @media screen and (max-width: 1024px) {
         top: 220px;
       }
       @media screen and (max-width: $med) {

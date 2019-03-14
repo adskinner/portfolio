@@ -1062,7 +1062,8 @@ a img {
   @media screen and (max-width: 1024px) {
     .home-intro {
       align-items: start;
-      padding-top: 4em; } }
+      padding-top: 4em;
+      height: 75vh; } }
   @media screen and (max-width: 768px) {
     .home-intro {
       padding-top: 2.5em;
@@ -1133,6 +1134,9 @@ a img {
     font-family: 'GT Haptik Bold', sans-serif; }
     @media screen and (max-width: 1024px) {
       .home-inner-wrap p.sub-wrap {
+        max-width: 630px; } }
+    @media screen and (max-width: 768px) {
+      .home-inner-wrap p.sub-wrap {
         max-width: 560px; } }
     @media screen and (max-width: 570px) {
       .home-inner-wrap p.sub-wrap {
@@ -1152,7 +1156,7 @@ a img {
       top: -70px;
       animation: roll 10s infinite linear;
       transform: rotate(30deg); }
-      @media screen and (max-width: 992px) {
+      @media screen and (max-width: 1024px) {
         .home-inner-wrap .email-wrap .email-icon {
           top: 220px; } }
       @media screen and (max-width: 768px) {
