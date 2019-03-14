@@ -189,6 +189,7 @@
     -ms-flex-align:center;
     overflow:hidden;
     z-index:10;
+    padding: 0.5em 0;
     a {
       display: block;
       margin: 0 auto;
@@ -238,6 +239,11 @@
       h3 {
         @media screen and (max-width: $sm) {
           font-size:1.2rem
+        }
+      }
+      p {
+        @media screen and (max-width: $sm) {
+          font-size:1em;
         }
       }
       @media screen and (max-width: $med) {
@@ -330,6 +336,10 @@
         font-size: 1.8rem;
         margin-bottom: 8px;
       }
+      @media screen and (max-width: $xxxs) {
+          font-size: 1.5rem;
+          margin-bottom: 8px;
+        }
   }
   p {
     font-family: 'GT Haptik Black', sans-serif;
@@ -364,6 +374,11 @@
       font-size: 1em;
       letter-spacing: 0.03em;
     }
+    @media screen and (max-width: $xxxs) {
+      font-family: 'GT Haptik Regular', sans-serif;
+      font-size: 0.9em;
+      letter-spacing: 0.03em;
+    }
   }
   .email-wrap {
     max-width: 1300px;
@@ -390,6 +405,11 @@
       @media screen and (max-width: $xxs) {
         width: 75px;
         height: 75px;
+      }
+      @media screen and (max-width: $xxxs) {
+        width: 60px;
+        height: 60px;
+        top:-20px;
       }
     }
 
@@ -462,7 +482,8 @@ ul.portfolio-list {
     }
     h3 {
       @media screen and (max-width: $sm) {
-        line-height:0.7;
+        line-height:0.8;
+        margin-top:5px;
       }
 
       @media screen and (max-width: $xxs) {
