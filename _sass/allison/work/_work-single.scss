@@ -78,6 +78,9 @@ a.return:before {
   margin-left:-40px;
   margin-top: -5px;
   left: 70px;
+  @media screen and (max-width: $sm) {
+    left: 50px;
+  }
 }
 a.return-black:before {
   content:url(/assets/img/general/return-black.svg);
@@ -86,7 +89,10 @@ a.return-black:before {
   margin-left:-40px;
   margin-top: -5px;
   left: 70px;
+  @media screen and (max-width: $sm) {
+    left: 50px;
+  }
 }
-.work .progress-container {
+.work .progress-container, .portfolio .progress-container {
   background: $pink;
 }

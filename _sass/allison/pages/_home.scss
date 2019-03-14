@@ -36,11 +36,16 @@
           padding: 2.5em 2em;
         }
       }
+      form.contact-form label {
+        color: $black;
+        font-size:1.6em;
+      }
       form.contact-form input {
         font-size: 2em;
         background: $mint;
         color: $black;
         border-bottom: 1px solid $black;
+        border-radius: 0;
         @media screen and (max-width: $lg) {
          font-size: 1.6em;
         }
@@ -326,15 +331,6 @@
       position: absolute;
       right: 3.5em;
       top: -550px;
-    }
-    .image-placeholder {
-      background-image:url(img/about/allison-home-img.png);
-      background-size:cover;
-      height: 550px;
-      width: 375px;
-      position: absolute;
-      right: 3.5em;
-      top: -550px;
       @media screen and (max-width: $lg) {
         top: -200px;
       }
@@ -346,6 +342,7 @@
         display:none;
       }
     }
+
   }
 
 }
@@ -452,6 +449,11 @@ ul.post-list {
   @media screen and (max-width: $med) {
     padding: 2.5em 30px 1em;
   }
+  img {
+    @media screen and (max-width: $med) {
+      margin-bottom: 0;
+    }
+  }
 }
 .home .post-list li h3 a {
   font-size: 1em;
@@ -505,4 +507,12 @@ ul.post-list {
     .home-outer-wrap {
       position:relative!important;
     }
+}
+.home #allison {
+  background: $mint;
+  padding: 2.5em 30px 1em;
+  display:none;
+  @media screen and (max-width: $sm) {
+    display:block;
+  }
 }

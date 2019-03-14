@@ -64,6 +64,9 @@ h2.tag-header {
   font-size: 2.5em!important;
   font-family: 'GT Haptik Black', sans-serif;
   margin: 1em 0 0.5em 0;
+  @media screen and (max-width: $lg) {
+    font-size: 2em!important;
+  }
 }
 .list-group {
   a {
@@ -87,6 +90,9 @@ h2.tag-header {
     margin-left: -40px;
     margin-top: -5px;
     left: 70px;
+    @media screen and (max-width: $sm) {
+      left: 50px;
+    }
   }
 }
 }
