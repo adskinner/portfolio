@@ -468,6 +468,9 @@ h3.subheading {
   @media screen and (max-width: 570px) {
     h3.subheading {
       font-size: 0.8rem; } }
+  @media screen and (max-width: 380px) {
+    h3.subheading {
+      font-size: 0.6rem; } }
 
 h4 {
   font-family: 'GT Haptik Bold', monospace;
@@ -716,6 +719,10 @@ a img {
     .yellow-circle {
       width: 65px;
       height: 65px; } }
+  @media screen and (max-width: 380px) {
+    .yellow-circle {
+      width: 50px;
+      height: 50px; } }
 
 #nav-icon3 {
   width: 35px;
@@ -739,6 +746,11 @@ a img {
       position: absolute;
       right: 17px;
       top: 21px; } }
+  @media screen and (max-width: 380px) {
+    #nav-icon3 {
+      width: 23px;
+      right: 14px;
+      top: 17.2px; } }
 
 #nav-icon3 span {
   display: block;
@@ -764,9 +776,15 @@ a img {
 
 #nav-icon3 span:nth-child(2), #nav-icon3 span:nth-child(3) {
   top: 10px; }
+  @media screen and (max-width: 380px) {
+    #nav-icon3 span:nth-child(2), #nav-icon3 span:nth-child(3) {
+      top: 7px; } }
 
 #nav-icon3 span:nth-child(4) {
   top: 20px; }
+  @media screen and (max-width: 380px) {
+    #nav-icon3 span:nth-child(4) {
+      top: 14px; } }
 
 #nav-icon3.open span:nth-child(1) {
   top: 10px;
@@ -837,6 +855,10 @@ a img {
     position: relative;
     z-index: -1;
     width: 250px; }
+    @media screen and (max-width: 380px) {
+      .site-nav input:checked ~ .trigger {
+        padding: 1em;
+        width: 200px; } }
   .site-nav input:checked ~ .menu-bg {
     position: fixed;
     top: 0;
@@ -859,6 +881,10 @@ a img {
     @media screen and (max-width: 600px) {
       .site-nav .page-link {
         margin-left: 0; } }
+    @media screen and (max-width: 380px) {
+      .site-nav .page-link {
+        padding: 9px 10px;
+        font-size: 1.2rem; } }
   .site-nav .page-link:before {
     content: '+';
     display: inline-block;
@@ -900,6 +926,16 @@ a img {
     @media screen and (max-width: 768px) {
       .home section#contact .contact {
         width: 100%; } }
+    @media screen and (max-width: 380px) {
+      .home section#contact .contact h4 {
+        margin-bottom: 5px; } }
+    @media screen and (max-width: 570px) {
+      .home section#contact .contact p {
+        font-size: 1.1rem; } }
+    @media screen and (max-width: 380px) {
+      .home section#contact .contact p {
+        font-size: 1rem;
+        margin-bottom: 5px; } }
     .home section#contact .contact .contact-wrap {
       max-width: 750px;
       margin: 0 auto;
@@ -907,10 +943,17 @@ a img {
       @media screen and (max-width: 768px) {
         .home section#contact .contact .contact-wrap {
           padding: 2.5em 2em; } }
+      @media screen and (max-width: 380px) {
+        .home section#contact .contact .contact-wrap {
+          padding: 1.5em 30px; } }
     .home section#contact .contact form.contact-form label {
       color: #000;
       font-size: 1.6em;
       text-transform: lowercase; }
+      @media screen and (max-width: 380px) {
+        .home section#contact .contact form.contact-form label {
+          font-size: 0.8em;
+          text-transform: uppercase; } }
     .home section#contact .contact form.contact-form input {
       font-size: 2em;
       background: #B6FFCD;
@@ -924,6 +967,12 @@ a img {
         .home section#contact .contact form.contact-form input {
           font-size: 1em;
           margin-top: 5px; } }
+      @media screen and (max-width: 380px) {
+        .home section#contact .contact form.contact-form input {
+          font-size: 1em;
+          margin-top: 0px;
+          padding-top: 0;
+          margin-bottom: 8.5px; } }
     .home section#contact .contact form.contact-form textarea {
       font-size: 2em;
       background: #B6FFCD;
@@ -950,6 +999,10 @@ a img {
       @media screen and (max-width: 768px) {
         .home section#contact .contact form.contact-form input[type="submit"] {
           font-size: 1em; } }
+      @media screen and (max-width: 380px) {
+        .home section#contact .contact form.contact-form input[type="submit"] {
+          font-size: 0.9em;
+          padding: 1em; } }
     .home section#contact .contact ::-webkit-input-placeholder {
       color: #000;
       font-family: 'GT Haptik Bold',sans-serif; }
@@ -983,6 +1036,8 @@ a img {
       @media screen and (max-width: 570px) {
         .home section#writing .writing ul.post-list {
           padding: 2em; } }
+      .home section#writing .writing ul.post-list li {
+        margin-bottom: 18px; }
 .home section#portfolio {
   background: #fff;
   z-index: 10; }
@@ -1022,7 +1077,9 @@ a img {
         width: 320px; } }
     @media screen and (max-width: 380px) {
       .home section#all-work a {
-        width: 300px; } }
+        width: 300px;
+        font-size: 0.8em;
+        padding: 1em; } }
     .home section#all-work a:hover {
       background: #FFDBFF; }
 .home section#newsletter {
@@ -1038,16 +1095,26 @@ a img {
     padding: 3em 2em;
     max-width: 850px;
     margin: 0 auto; }
+    @media screen and (max-width: 570px) {
+      .home section#newsletter .newsletter h3 {
+        font-size: 1.2rem; } }
     @media screen and (max-width: 768px) {
       .home section#newsletter .newsletter {
         padding: 2.5em 2em; } }
+    @media screen and (max-width: 380px) {
+      .home section#newsletter .newsletter {
+        padding: 1.5em 30px; } }
     .home section#newsletter .newsletter input {
       border-bottom: 1px solid #fff;
       border-radius: 0; }
+      @media screen and (max-width: 380px) {
+        .home section#newsletter .newsletter input {
+          padding-top: 0; } }
     .home section#newsletter .newsletter input[type="submit"] {
       border-bottom: none;
       -webkit-appearance: button;
-      border-radius: 5px; }
+      border-radius: 5px;
+      padding-top: 1em; }
 
 .home-intro {
   background: #5D47BA;
@@ -1070,7 +1137,8 @@ a img {
       height: 100vh; } }
   @media screen and (max-width: 380px) {
     .home-intro {
-      height: 100vh; } }
+      height: 100vh;
+      padding-top: 1em; } }
 
 .home-outer-wrap {
   width: 100%; }
@@ -1090,10 +1158,8 @@ a img {
       padding-right: 2.5em; } }
   @media screen and (max-width: 380px) {
     .home-inner-wrap h3.subheading {
-      padding-right: 3em; } }
-  @media screen and (max-width: 320px) {
-    .home-inner-wrap h3.subheading {
-      padding-right: 4em; } }
+      padding-right: 3.4em;
+      margin-bottom: 8px; } }
   .home-inner-wrap p.home-lead {
     font-size: 4.5rem;
     line-height: 1.1;
@@ -1111,7 +1177,8 @@ a img {
         font-size: 2.2rem; } }
     @media screen and (max-width: 380px) {
       .home-inner-wrap p.home-lead {
-        font-size: 1.8rem; } }
+        font-size: 1.8rem;
+        margin-bottom: 8px; } }
   .home-inner-wrap p {
     font-family: 'GT Haptik Black', sans-serif;
     font-weight: 900;
@@ -1165,6 +1232,10 @@ a img {
       @media screen and (max-width: 570px) {
         .home-inner-wrap .email-wrap .email-icon {
           top: 0; } }
+      @media screen and (max-width: 380px) {
+        .home-inner-wrap .email-wrap .email-icon {
+          width: 75px;
+          height: 75px; } }
 @keyframes roll {
   0% {
     transform: rotate(0); }
@@ -1217,6 +1288,12 @@ ul.portfolio-list {
       ul.portfolio-list li {
         width: 100%;
         padding-bottom: 1em; } }
+    @media screen and (max-width: 380px) {
+      ul.portfolio-list li {
+        padding-bottom: 0.5em; } }
+    @media screen and (max-width: 380px) {
+      ul.portfolio-list li h3 {
+        margin-bottom: 5px; } }
   ul.portfolio-list li:nth-child(odd) {
     padding-right: 2.5%; }
     @media screen and (max-width: 570px) {
@@ -1230,6 +1307,9 @@ ul.post-list li h3 {
   @media screen and (max-width: 992px) {
     ul.post-list li h3 {
       font-size: 1.6rem; } }
+  @media screen and (max-width: 380px) {
+    ul.post-list li h3 {
+      font-size: 1.3rem; } }
 ul.post-list li h3 a {
   text-decoration: underline;
   text-decoration-color: #04CEF9;
@@ -1238,6 +1318,9 @@ ul.post-list li h3 a {
 ul.post-list li h3 a:hover {
   text-decoration-color: #FB5435;
   background-image: none; }
+@media screen and (max-width: 380px) {
+  ul.post-list span {
+    font-size: 14px; } }
 
 .home-intro #trigger-1 {
   text-decoration: underline;
@@ -1272,6 +1355,9 @@ ul.post-list li h3 a:hover {
   @media screen and (max-width: 768px) {
     .home .portfolio-list {
       padding: 2.5em 30px 1em; } }
+  @media screen and (max-width: 380px) {
+    .home .portfolio-list {
+      padding: 1em 30px 1em; } }
   @media screen and (max-width: 768px) {
     .home .portfolio-list img {
       margin-bottom: 0; } }
@@ -1336,6 +1422,9 @@ ul.post-list li h3 a:hover {
   @media screen and (max-width: 570px) {
     .home #allison {
       display: block; } }
+  @media screen and (max-width: 380px) {
+    .home #allison {
+      padding: 1em 15px; } }
 
 .about .left-panel {
   background: #5D47BA;
@@ -1472,6 +1561,10 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
     text-transform: lowercase;
     font-weight: 300;
     font-size: 1.6em; }
+    @media screen and (max-width: 380px) {
+      .newsletter form label {
+        font-size: 0.8em;
+        text-transform: uppercase; } }
   .newsletter form input {
     width: 100%;
     border-bottom: 1px solid #000;
@@ -1487,7 +1580,7 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
     background: #04CEF9;
     border: 1px solid #04CEF9;
     color: #fff;
-    font-family: 'GT Haptik Bold', sans-serif;
+    font-family: 'GT Haptik Regular', sans-serif;
     font-size: 1.2em;
     padding: 1.05em;
     text-transform: uppercase;
@@ -1498,6 +1591,10 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
     @media screen and (max-width: 768px) {
       .newsletter form input[type="submit"] {
         font-size: 1em; } }
+    @media screen and (max-width: 380px) {
+      .newsletter form input[type="submit"] {
+        font-size: 0.9em;
+        padding: 1em; } }
   .newsletter form input[type="submit"]:hover, .newsletter form input[type="submit"]:focus {
     background: #FFDBFF;
     border: 1px solid #FFDBFF;
@@ -1839,6 +1936,9 @@ h2.tag-header {
     font-size: 20px;
     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(70%, transparent), color-stop(70%, rgba(255, 255, 0, 0.8)));
     background-image: linear-gradient(180deg, transparent 70%, rgba(255, 255, 0, 0.8) 0); }
+    @media screen and (max-width: 380px) {
+      .portfolio-list li .post-link {
+        font-size: 16px; } }
     .portfolio-list li .post-link:hover {
       background-image: -webkit-gradient(linear, left top, left bottom, color-stop(70%, transparent), color-stop(70%, rgba(255, 219, 255, 0.8)));
       background-image: linear-gradient(180deg, transparent 70%, rgba(255, 219, 255, 0.8) 0);

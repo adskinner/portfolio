@@ -116,6 +116,10 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
       text-transform: lowercase;
       font-weight: 300;
       font-size: 1.6em;
+      @media screen and (max-width: $xxs) {
+        font-size:0.8em;
+        text-transform:uppercase;
+      }
     }
     input {
       width: 100%;
@@ -133,7 +137,7 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
         background: $turquoise;
         border: 1px solid $turquoise;
         color: $white;
-        font-family: 'GT Haptik Bold', sans-serif;
+        font-family: 'GT Haptik Regular', sans-serif;
         font-size: 1.2em;
         padding: 1.05em;
         text-transform: uppercase;
@@ -143,6 +147,10 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
         -webkit-appearance: button;
         @media screen and (max-width: $med) {
           font-size: 1em;
+        }
+        @media screen and (max-width: $xxs) {
+          font-size: 0.9em;
+          padding: 1em;
         }
       }
       input[type="submit"]:hover, input[type="submit"]:focus {

@@ -26,6 +26,9 @@ h3.subheading {
   @media screen and (max-width: $sm) {
     font-size: 0.8rem;
   }
+  @media screen and (max-width: $xxs) {
+    font-size: 0.6rem;
+  }
 }
 h4 {
   font-family: 'GT Haptik Bold', monospace;

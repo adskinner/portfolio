@@ -47,6 +47,10 @@
     width: 65px;
     height: 65px;
   }
+  @media screen and (max-width: $xxs) {
+    width: 50px;
+    height: 50px;
+  }
 }
 
 #nav-icon3 {
@@ -70,6 +74,11 @@ cursor: pointer;
     position: absolute;
     right: 17px;
     top: 21px;
+  }
+  @media screen and (max-width: $xxs) {
+    width: 23px;
+    right: 14px;
+    top: 17.2px;
   }
 }
 
@@ -100,10 +109,16 @@ top: 0px;
 
 #nav-icon3 span:nth-child(2),#nav-icon3 span:nth-child(3) {
 top: 10px;
+@media screen and (max-width: $xxs) {
+  top:7px;
+}
 }
 
 #nav-icon3 span:nth-child(4) {
 top: 20px;
+@media screen and (max-width: $xxs) {
+  top: 14px;
+}
 }
 
 #nav-icon3.open span:nth-child(1) {
@@ -196,6 +211,10 @@ left: 50%;
       position: relative;
       z-index: -1;
       width: 250px;
+      @media screen and (max-width: $xxs) {
+        padding: 1em;
+        width: 200px;
+      }
 
     }
     input:checked ~ .menu-bg {
@@ -224,6 +243,10 @@ left: 50%;
       }
       @media screen and (max-width: 600px) {
         margin-left: 0;
+      }
+      @media screen and (max-width: $xxs) {
+        padding: 9px 10px;
+        font-size: 1.2rem;
       }
     }
     .page-link:before {
