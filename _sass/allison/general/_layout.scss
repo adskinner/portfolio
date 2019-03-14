@@ -30,8 +30,11 @@ body {
   }
     .wrap {
       padding: 1em 2em;
-      @media screen and (max-width: $sm) {
-        padding: 1em;
+      @media screen and (max-width: $med) {
+        padding: 1em 30px;
+      }
+      @media screen and (max-width: $xxs) {
+        padding: 1em 15px;
       }
     }
     a.highlight {
@@ -137,4 +140,14 @@ main {
 }
 a img {
   border:0px;
+}
+.wrapper {
+  @media screen and (max-width: $lg) {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+  @media screen and (max-width: $sm) {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
 }

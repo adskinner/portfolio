@@ -7,15 +7,26 @@
   height: 100%;
   .return-black {
     margin: 20px 0;
+    text-align: center;
+    width: 100%;
+    float: left;
+    &:hover {
+      border-bottom:none;
+    }
   }
 }
 .thank-you-box {
   background: $mint;
   color:$black;
-  max-width: 700px;
   padding: 2.5em;
   border-radius: 5px;
   text-align:center;
+  @media screen and (max-width: $sm) {
+    padding: 2em;
+  }
+  @media screen and (max-width: $xxs) {
+    padding: 1.5em;
+  }
   h1 {
     margin-bottom: 0;
   }
@@ -28,6 +39,12 @@
     font-weight: bold;
     font-size: 1.5em;
     margin-bottom: 0.1em;
+    @media screen and (max-width: $sm) {
+      font-size: 1.3em
+    }
+    @media screen and (max-width: $xxs) {
+      font-size: 1.2em
+    }
   }
 
 }
@@ -53,4 +70,13 @@
 }
 .missing-page .signature {
   margin-top: 20px;
+}
+.thank-you-container {
+  margin: 0 auto;
+  max-width: 750px;
+  padding: 0 30px;
+}
+
+.thank-you a.return-black:before {
+  left: inherit!important;
 }

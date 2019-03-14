@@ -12,6 +12,12 @@
       li {
         font-size: 1.5em;
         list-style:circle;
+        @media screen and (max-width: $sm) {
+          font-size:1.2em;
+        }
+        @media screen and (max-width: $xxs) {
+          font-size:1.15em;
+        }
       }
       li.active {
         list-style-type:disc;

@@ -446,6 +446,12 @@ h1 {
   font-family: 'GT Haptik Black', sans-serif;
   font-weight: 900;
   font-size: 3rem; }
+  @media screen and (max-width: 768px) {
+    h1 {
+      font-size: 2.5rem; } }
+  @media screen and (max-width: 570px) {
+    h1 {
+      font-size: 2rem; } }
 
 h2 {
   font-family: 'GT Haptik Bold', sans-serif;
@@ -454,7 +460,7 @@ h2 {
   line-height: 1.15; }
   @media screen and (max-width: 570px) {
     h2 {
-      font-size: 1.6rem; } }
+      font-size: 1.45rem; } }
 
 h3 {
   font-family: 'GT Haptik Bold',sans-serif;
@@ -488,6 +494,9 @@ p {
   font-size: 1.2rem;
   font-family: 'GT Haptik Regular', monospace; }
   @media screen and (max-width: 480px) {
+    p {
+      font-size: 1.1rem; } }
+  @media screen and (max-width: 380px) {
     p {
       font-size: 1.05rem; } }
 
@@ -599,9 +608,12 @@ body {
       top: 0; } }
   .left-panel .wrap {
     padding: 1em 2em; }
-    @media screen and (max-width: 570px) {
+    @media screen and (max-width: 768px) {
       .left-panel .wrap {
-        padding: 1em; } }
+        padding: 1em 30px; } }
+    @media screen and (max-width: 380px) {
+      .left-panel .wrap {
+        padding: 1em 15px; } }
   .left-panel a.highlight {
     color: inherit;
     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(70%, transparent), color-stop(70%, rgba(255, 255, 0, 0.8)));
@@ -695,6 +707,15 @@ main {
 
 a img {
   border: 0px; }
+
+@media screen and (max-width: 992px) {
+  .wrapper {
+    padding-right: 30px;
+    padding-left: 30px; } }
+@media screen and (max-width: 570px) {
+  .wrapper {
+    padding-right: 15px;
+    padding-left: 15px; } }
 
 .site-nav {
   float: none; }
@@ -967,7 +988,7 @@ a img {
           padding: 2.5em 2em; } }
       @media screen and (max-width: 380px) {
         .home section#contact .contact .contact-wrap {
-          padding: 1.5em 30px; } }
+          padding: 1.5em 15px; } }
     .home section#contact .contact form.contact-form label {
       color: #000;
       font-size: 1.6em;
@@ -1046,6 +1067,12 @@ a img {
       @media screen and (max-width: 768px) {
         .home section#contact .writing ul.post-list {
           padding: 2.5em 2em; } }
+      @media screen and (max-width: 480px) {
+        .home section#contact .writing ul.post-list {
+          padding: 2.5em 30px; } }
+      @media screen and (max-width: 380px) {
+        .home section#contact .writing ul.post-list {
+          padding: 2.5em 15px; } }
 .home section#writing {
   background: #fff;
   z-index: 10; }
@@ -1057,7 +1084,10 @@ a img {
       margin: 0 auto; }
       @media screen and (max-width: 570px) {
         .home section#writing .writing ul.post-list {
-          padding: 2em; } }
+          padding: 2em 30px; } }
+      @media screen and (max-width: 380px) {
+        .home section#writing .writing ul.post-list {
+          padding: 1.5em 15px; } }
       .home section#writing .writing ul.post-list li {
         margin-bottom: 18px; }
 .home section#portfolio {
@@ -1099,9 +1129,12 @@ a img {
         width: 320px; } }
     @media screen and (max-width: 380px) {
       .home section#all-work a {
-        width: 300px;
+        width: 280px;
         font-size: 0.8em;
         padding: 1em; } }
+    @media screen and (max-width: 320px) {
+      .home section#all-work a {
+        width: 250px; } }
     .home section#all-work a:hover {
       background: #FFDBFF; }
 .home section#newsletter {
@@ -1125,7 +1158,7 @@ a img {
         padding: 2.5em 2em; } }
     @media screen and (max-width: 380px) {
       .home section#newsletter .newsletter {
-        padding: 1.5em 30px; } }
+        padding: 1.5em 15px; } }
     .home section#newsletter .newsletter input {
       border-bottom: 1px solid #fff;
       border-radius: 0; }
@@ -1382,7 +1415,7 @@ ul.post-list li h3 a:hover {
       padding: 2.5em 30px 1em; } }
   @media screen and (max-width: 380px) {
     .home .portfolio-list {
-      padding: 1em 30px 1em; } }
+      padding: 1em 20px 1em; } }
   @media screen and (max-width: 768px) {
     .home .portfolio-list img {
       margin-bottom: 0; } }
@@ -1470,6 +1503,12 @@ ul.post-list li h3 a:hover {
   .process nav#myScrollspy ul li {
     font-size: 1.5em;
     list-style: circle; }
+    @media screen and (max-width: 570px) {
+      .process nav#myScrollspy ul li {
+        font-size: 1.2em; } }
+    @media screen and (max-width: 380px) {
+      .process nav#myScrollspy ul li {
+        font-size: 1.15em; } }
   .process nav#myScrollspy ul li.active {
     list-style-type: disc; }
 .process a.return {
@@ -1516,9 +1555,13 @@ ul.post-list li h3 a:hover {
 .contact form.contact-form label {
   font-family: 'GT Haptik Bold', sans-serif;
   font-weight: 500;
-  font-size: 2em;
+  font-size: 1.6em;
   color: #fff;
   text-transform: lowercase; }
+  @media screen and (max-width: 380px) {
+    .contact form.contact-form label {
+      font-size: 0.8em;
+      text-transform: uppercase; } }
 .contact form.contact-form input {
   background-color: #5D47BA;
   color: #fff;
@@ -1530,7 +1573,13 @@ ul.post-list li h3 a:hover {
   margin-bottom: 1em;
   font-size: 1.5em;
   padding: 10px 0 0 0;
-  font-family: 'GT Haptik Regular',sans-serif; }
+  font-family: 'GT Haptik Regular',sans-serif;
+  border-radius: 0; }
+  @media screen and (max-width: 380px) {
+    .contact form.contact-form input {
+      padding: 5px 0 0 0;
+      font-size: 1.2em;
+      margin-bottom: 0.7em; } }
 .contact form.contact-form textarea {
   background-color: #5D47BA;
   color: #fff;
@@ -1543,7 +1592,8 @@ ul.post-list li h3 a:hover {
   font-size: 1.5em;
   padding: 10px 0 0 0;
   height: 150px;
-  font-family: 'GT Haptik Regular',sans-serif; }
+  font-family: 'GT Haptik Regular',sans-serif;
+  border-radius: 0; }
 .contact form.contact-form input[type="submit"] {
   background: #FB5435;
   color: #fff;
@@ -1553,6 +1603,10 @@ ul.post-list li h3 a:hover {
   text-transform: uppercase;
   border-radius: 5px;
   -webkit-appearance: button; }
+  @media screen and (max-width: 570px) {
+    .contact form.contact-form input[type="submit"] {
+      padding: 1em;
+      font-size: 0.9em; } }
 .contact form.contact-form input[type="submit"]:hover, .contact form.contact-form input[type="submit"]:focus {
   cursor: pointer;
   background: #04CEF9; }
@@ -1602,8 +1656,8 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
     font-family: 'GT Haptik Bold';
     font-size: 1.3em; }
   .newsletter form input[type="submit"] {
-    background: #04CEF9;
-    border: 1px solid #04CEF9;
+    background: #E00A30;
+    border: 1px solid #E00A30;
     color: #fff;
     font-family: 'GT Haptik Regular', sans-serif;
     font-size: 1.2em;
@@ -1634,11 +1688,19 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
 
 .contact .newsletter {
   display: none;
-  background: #B6FFCD;
+  background: #FFDBFF;
   padding: 2.5em 2em; }
   @media screen and (max-width: 992px) {
     .contact .newsletter {
-      display: block; } }
+      display: block;
+      position: sticky;
+      position: -webkit-sticky; } }
+  @media screen and (max-width: 768px) {
+    .contact .newsletter {
+      padding: 2.5em 30px; } }
+  @media screen and (max-width: 570px) {
+    .contact .newsletter {
+      padding: 2.5em 15px; } }
 
 .contact main {
   position: fixed;
@@ -1657,15 +1719,25 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
   justify-content: center;
   height: 100%; }
   .thank-you .return-black {
-    margin: 20px 0; }
+    margin: 20px 0;
+    text-align: center;
+    width: 100%;
+    float: left; }
+    .thank-you .return-black:hover {
+      border-bottom: none; }
 
 .thank-you-box {
   background: #B6FFCD;
   color: #000;
-  max-width: 700px;
   padding: 2.5em;
   border-radius: 5px;
   text-align: center; }
+  @media screen and (max-width: 570px) {
+    .thank-you-box {
+      padding: 2em; } }
+  @media screen and (max-width: 380px) {
+    .thank-you-box {
+      padding: 1.5em; } }
   .thank-you-box h1 {
     margin-bottom: 0; }
   .thank-you-box .lead {
@@ -1676,6 +1748,12 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
     font-weight: bold;
     font-size: 1.5em;
     margin-bottom: 0.1em; }
+    @media screen and (max-width: 570px) {
+      .thank-you-box .signature {
+        font-size: 1.3em; } }
+    @media screen and (max-width: 380px) {
+      .thank-you-box .signature {
+        font-size: 1.2em; } }
 
 #particles-js {
   position: absolute;
@@ -1698,6 +1776,14 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
 
 .missing-page .signature {
   margin-top: 20px; }
+
+.thank-you-container {
+  margin: 0 auto;
+  max-width: 750px;
+  padding: 0 30px; }
+
+.thank-you a.return-black:before {
+  left: inherit !important; }
 
 .post .left-panel {
   background: #FFDBFF; }
@@ -1747,7 +1833,8 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
   @media screen and (max-width: 380px) {
     .post-header {
       width: calc(100% - 0px);
-      margin-bottom: 10px; } }
+      margin-bottom: 10px;
+      margin-top: 20px; } }
   .post-header .post-title {
     font-size: 3.5em;
     letter-spacing: 0;
@@ -1950,6 +2037,10 @@ h2.tag-header {
     @media screen and (max-width: 570px) {
       .writing a.return:before {
         left: 50px; } }
+
+@media screen and (max-width: 480px) {
+  .writing ul.post-list li h3 {
+    font-size: 1.15rem; } }
 
 .categories ul li, .tags ul li {
   margin-bottom: 10px; }

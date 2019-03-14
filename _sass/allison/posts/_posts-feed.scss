@@ -99,3 +99,8 @@ h2.tag-header {
   }
 }
 }
+.writing ul.post-list li h3 {
+  @media screen and (max-width: $xs) {
+    font-size: 1.15rem;
+  }
+}
