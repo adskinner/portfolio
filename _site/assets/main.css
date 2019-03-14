@@ -1154,10 +1154,7 @@ a img {
       transform: rotate(30deg); }
       @media screen and (max-width: 992px) {
         .home-inner-wrap .email-wrap .email-icon {
-          top: 30px; } }
-      @media screen and (max-width: 840px) {
-        .home-inner-wrap .email-wrap .email-icon {
-          top: 0px; } }
+          top: 220px; } }
       @media screen and (max-width: 768px) {
         .home-inner-wrap .email-wrap .email-icon {
           top: 250px; } }
@@ -1179,9 +1176,9 @@ a img {
       position: absolute;
       right: 3.5em;
       top: -550px; }
-      @media screen and (max-width: 992px) {
+      @media screen and (max-width: 1024px) {
         .home-inner-wrap .image-placeholder-wrap img {
-          top: -200px; } }
+          top: -150px; } }
       @media screen and (max-width: 768px) {
         .home-inner-wrap .image-placeholder-wrap img {
           right: 0em;
