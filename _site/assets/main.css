@@ -981,6 +981,7 @@ a img {
   display: flex;
   display: -ms-flexbox;
   align-items: center;
+  -ms-flex-align: center;
   overflow: hidden;
   z-index: 10; }
   .home section#all-work a {
@@ -1037,6 +1038,7 @@ a img {
   display: flex;
   display: -ms-flexbox;
   align-items: center;
+  -ms-flex-align: center;
   overflow: hidden;
   position: sticky; }
   @media screen and (max-width: 992px) {
