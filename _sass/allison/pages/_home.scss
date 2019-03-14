@@ -170,6 +170,8 @@
     z-index:10;
     .newsletter {
       padding: 3em 2em;
+      max-width: 850px;
+      margin: 0 auto;
       @media screen and (max-width: $med) {
         padding: 2.5em 2em;
       }
