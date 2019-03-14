@@ -1310,18 +1310,6 @@ ul.post-list li h3 a:hover {
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
   .home-outer-wrap {
     position: relative !important; } }
-/*IE9 CSS*/
-:root .home section#portfolio {
-  float: left \0/IE9;
-  width: 100% \0/IE9; }
-
-:root ul.portfolio-list {
-  float: left \0/IE9;
-  width: 100% \0/IE9; }
-
-:root ul.portfolio-list li {
-  float: left \0/IE9; }
-
 .about .left-panel {
   background: #5D47BA;
   color: #fff; }
