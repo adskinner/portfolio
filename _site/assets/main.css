@@ -697,7 +697,7 @@ a img {
   /*background: $white;*/
   top: 0;
   padding: 10px 0; }
-  @media screen and (max-width: 992px) {
+  @media screen and (max-width: 1024px) {
     :not(.home) header.site-header {
       width: 80px;
       right: 0; } }
@@ -712,7 +712,7 @@ a img {
   background: yellow;
   border-radius: 50%;
   float: right; }
-  @media screen and (max-width: 992px) {
+  @media screen and (max-width: 1024px) {
     .yellow-circle {
       width: 65px;
       height: 65px; } }
@@ -732,7 +732,7 @@ a img {
   -o-transition: .5s ease-in-out;
   transition: .5s ease-in-out;
   cursor: pointer; }
-  @media screen and (max-width: 992px) {
+  @media screen and (max-width: 1024px) {
     #nav-icon3 {
       width: 31px;
       height: 42px;
@@ -1213,13 +1213,13 @@ ul.portfolio-list {
     list-style: none;
     width: 48%;
     text-align: center; }
-    @media screen and (max-width: 768px) {
+    @media screen and (max-width: 570px) {
       ul.portfolio-list li {
         width: 100%;
         padding-bottom: 1em; } }
   ul.portfolio-list li:nth-child(odd) {
     padding-right: 2.5%; }
-    @media screen and (max-width: 768px) {
+    @media screen and (max-width: 570px) {
       ul.portfolio-list li:nth-child(odd) {
         padding-right: 0; } }
 

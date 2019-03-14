@@ -388,14 +388,14 @@ ul.portfolio-list {
     list-style:none;
     width: 48%;
     text-align:center;
-    @media screen and (max-width: $med) {
+    @media screen and (max-width: $sm) {
       width: 100%;
       padding-bottom: 1em;
     }
 }
   li:nth-child(odd) {
     padding-right:2.5%;
-    @media screen and (max-width: $med) {
+    @media screen and (max-width: $sm) {
       padding-right: 0;
     }
   }
