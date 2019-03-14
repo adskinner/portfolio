@@ -1807,6 +1807,12 @@ h2.tag-header {
     margin-left: -40px;
     margin-top: -5px; }
 
+.work .portfolio-list {
+  width: 100%;
+  float: left; }
+  .work .portfolio-list li {
+    float: left; }
+
 .portfolio .left-panel {
   background: #E00A30;
   color: #fff; }
