@@ -889,6 +889,7 @@ a img {
   top: 0; }
 .home section#contact {
   flex-direction: row;
+  display: table-cell;
   display: flex;
   display: -ms-flexbox;
   background: #fff;
@@ -978,6 +979,7 @@ a img {
   height: 12vh;
   flex-direction: row;
   flex-wrap: wrap;
+  display: table-cell;
   display: flex;
   display: -ms-flexbox;
   align-items: center;
@@ -1013,6 +1015,7 @@ a img {
   min-height: 40vh;
   background: #5D47BA;
   color: #fff;
+  display: table-cell;
   display: flex;
   width: 100%;
   align-items: center;
@@ -1037,6 +1040,7 @@ a img {
   background: #5D47BA;
   color: #fff;
   height: 80vh;
+  display: table-cell;
   display: flex;
   display: -ms-flexbox;
   align-items: center;
@@ -1186,6 +1190,7 @@ a img {
 ul.portfolio-list {
   max-width: 1330px;
   list-style: none;
+  display: table-cell;
   display: flex;
   display: -ms-flexbox;
   flex-direction: row;

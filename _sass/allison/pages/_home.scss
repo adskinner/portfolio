@@ -18,6 +18,7 @@
   }
   section#contact {
     flex-direction:row;
+    display:table-cell;
     display:flex;
     display:-ms-flexbox;
     background: $white;
@@ -125,6 +126,7 @@
     height: 12vh;
     flex-direction:row;
     flex-wrap:wrap;
+    display:table-cell;
     display:flex;
     display:-ms-flexbox;
     align-items:center;
@@ -163,6 +165,7 @@
     min-height: 40vh;
     background: $purple;
     color: $white;
+    display:table-cell;
     display: flex;
     width: 100%;
     align-items: center;
@@ -192,6 +195,7 @@
   background: $purple;
   color: $white;
   height: 80vh;
+  display:table-cell;
   display:flex;
   display:-ms-flexbox;
   align-items:center;
@@ -361,6 +365,7 @@ ul.portfolio-list {
   max-width: 1330px;
 
   list-style:none;
+  display:table-cell;
   display:flex;
   display:-ms-flexbox;
   flex-direction:row;
