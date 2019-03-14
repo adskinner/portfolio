@@ -67,6 +67,9 @@
 a.return {
   margin-left: 40px;
   color:$white;
+  @media screen and (max-width: $sm) {
+    margin-left: 20px;
+  }
   &:hover  {
     border-bottom: 1px solid $white;
     text-decoration: none;
@@ -75,6 +78,9 @@ a.return {
 a.return-black {
   color: $black;
   margin-left: 40px;
+  @media screen and (max-width: $sm) {
+    margin-left: 20px;
+  }
   &:hover  {
     border-bottom: 1px solid $black;
     text-decoration: none;

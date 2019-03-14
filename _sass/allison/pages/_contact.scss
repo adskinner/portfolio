@@ -185,12 +185,13 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
   }
     .contact .newsletter {
       display:none;
-      background: $pink;
-      padding: 2.5em 2em;
+
       @media screen and (max-width: $lg) {
         display:block;
         position: sticky;
         position: -webkit-sticky;
+        background: $pink;
+        padding: 2.5em 2em;
       }
       @media screen and (max-width: $med) {
         padding:2.5em 30px;

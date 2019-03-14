@@ -611,7 +611,7 @@ body {
     @media screen and (max-width: 768px) {
       .left-panel .wrap {
         padding: 1em 30px; } }
-    @media screen and (max-width: 380px) {
+    @media screen and (max-width: 570px) {
       .left-panel .wrap {
         padding: 1em 15px; } }
   .left-panel a.highlight {
@@ -1173,7 +1173,14 @@ a img {
       border-bottom: none;
       -webkit-appearance: button;
       border-radius: 5px;
-      padding-top: 1em; }
+      padding-top: 1em;
+      background-color: #FFDBFF;
+      border-color: #FFDBFF;
+      color: #000; }
+      .home section#newsletter .newsletter input[type="submit"]:hover {
+        background-color: #E00A30;
+        border-color: #E00A30;
+        color: #fff; }
 
 .home-intro {
   background: #5D47BA;
@@ -1185,6 +1192,9 @@ a img {
   -ms-flex-align: center;
   overflow: hidden;
   position: sticky; }
+  @media screen and (max-width: 1440px) {
+    .home-intro {
+      height: 100vh; } }
   @media screen and (max-width: 1024px) {
     .home-intro {
       align-items: start;
@@ -1224,6 +1234,10 @@ a img {
     line-height: 1.1;
     position: relative;
     z-index: 5; }
+    @media screen and (max-width: 1440px) {
+      .home-inner-wrap p.home-lead {
+        font-size: 3.9rem;
+        line-height: 1; } }
     @media screen and (max-width: 1024px) {
       .home-inner-wrap p.home-lead {
         font-size: 3.5rem; } }
@@ -1237,11 +1251,13 @@ a img {
     @media screen and (max-width: 380px) {
       .home-inner-wrap p.home-lead {
         font-size: 1.8rem;
-        margin-bottom: 8px; } }
+        margin-bottom: 8px;
+        padding-top: 5px; } }
     @media screen and (max-width: 320px) {
       .home-inner-wrap p.home-lead {
         font-size: 1.5rem;
-        margin-bottom: 8px; } }
+        margin-bottom: 8px;
+        padding-top: 5px; } }
   .home-inner-wrap p {
     font-family: 'GT Haptik Black', sans-serif;
     font-weight: 900;
@@ -1262,6 +1278,9 @@ a img {
   .home-inner-wrap p.sub-wrap {
     max-width: 850px;
     font-family: 'GT Haptik Bold', sans-serif; }
+    @media screen and (max-width: 1200px) {
+      .home-inner-wrap p.sub-wrap {
+        max-width: 700px; } }
     @media screen and (max-width: 1024px) {
       .home-inner-wrap p.sub-wrap {
         max-width: 630px; } }
@@ -1366,7 +1385,8 @@ ul.portfolio-list {
         padding-bottom: 0.5em; } }
     @media screen and (max-width: 570px) {
       ul.portfolio-list li h3 {
-        line-height: 0.7; } }
+        line-height: 0.8;
+        margin-top: 12px; } }
     @media screen and (max-width: 380px) {
       ul.portfolio-list li h3 {
         margin-bottom: 5px; } }
@@ -1448,16 +1468,16 @@ ul.post-list li h3 a:hover {
   display: inline-block;
   text-align: left;
   line-height: 40px;
-  position: absolute;
-  left: 2em;
   z-index: 10;
   width: 100%;
   height: 100%;
   padding-bottom: 15px;
-  color: yellow; }
-  @media screen and (max-width: 380px) {
+  color: yellow;
+  max-width: 1330px;
+  margin: 0 auto; }
+  @media screen and (min-width: 1440px) {
     .container-arrow {
-      left: 1em; } }
+      display: none; } }
   .container-arrow span {
     color: yellow;
     cursor: pointer; }
@@ -1705,14 +1725,14 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
       display: none; } }
 
 .contact .newsletter {
-  display: none;
-  background: #FFDBFF;
-  padding: 2.5em 2em; }
+  display: none; }
   @media screen and (max-width: 992px) {
     .contact .newsletter {
       display: block;
       position: sticky;
-      position: -webkit-sticky; } }
+      position: -webkit-sticky;
+      background: #FFDBFF;
+      padding: 2.5em 2em; } }
   @media screen and (max-width: 768px) {
     .contact .newsletter {
       padding: 2.5em 30px; } }
@@ -1848,7 +1868,7 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
   @media screen and (max-width: 992px) {
     .post-header {
       width: calc(100% - 65px); } }
-  @media screen and (max-width: 380px) {
+  @media screen and (max-width: 570px) {
     .post-header {
       width: calc(100% - 0px);
       margin-bottom: 10px;
@@ -2192,6 +2212,9 @@ h2.tag-header {
 a.return {
   margin-left: 40px;
   color: #fff; }
+  @media screen and (max-width: 570px) {
+    a.return {
+      margin-left: 20px; } }
   a.return:hover {
     border-bottom: 1px solid #fff;
     text-decoration: none; }
@@ -2199,6 +2222,9 @@ a.return {
 a.return-black {
   color: #000;
   margin-left: 40px; }
+  @media screen and (max-width: 570px) {
+    a.return-black {
+      margin-left: 20px; } }
   a.return-black:hover {
     border-bottom: 1px solid #000;
     text-decoration: none; }
