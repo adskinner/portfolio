@@ -975,7 +975,7 @@ a img {
   z-index: 10; }
 .home section#all-work {
   background: #E00A30;
-  min-height: 12vh;
+  height: 12vh;
   flex-direction: row;
   flex-wrap: wrap;
   display: flex;
