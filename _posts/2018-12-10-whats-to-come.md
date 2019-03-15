@@ -8,6 +8,7 @@ tags: [2019, goals]
 image: "writing/18-12-10/2019.jpg"
 permalink: /writing/:title
 description: Allison Skinner shares her goals for 2019.
+comments: true
 ---
 ![][1]
 # 2019 What's to Come
