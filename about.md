@@ -23,7 +23,7 @@ In fall 2017, my boyfriend and I renovated a 1970s A-Frame blocks from downtown.
 
 When I’m not making websites, you can find me tending to my vegetable garden, tackling a new recipe in the kitchen or trying to get some exercise after sitting in front of my desk all day (I love bootcamp classes at [Total Training Center](http://totaltrainingcenter.com/) and yoga at [Fuel Hot Yoga](http://www.fuelhotyoga.com/)).
 
-Entrepreneurialism runs in the family because my father, Paul Skinner, will be opening a craft brewery, [Athentic Brewing Company](https://athenticbrewing.com), in June 2019 in the normaltown neighborhood of Athens, Ga.  Check out their [website](https://athenticbrewing.com) (that I made of course!) and make sure to come get a beer when you’re in town.
+Entrepreneurialism runs in the family because my father, Paul Skinner, will be opening a craft brewery, [Athentic Brewing Company](https://athenticbrewing.com), in August 2019 in the normaltown neighborhood of Athens, Ga.  Check out their [website](https://athenticbrewing.com) (that I made of course!) and make sure to come get a beer when you’re in town.
 
 If you want to learn more about Allison Skinner Web Design and Development, continue onto my [blog](/writing)! That’s where I share my insights on business, code and design.
 

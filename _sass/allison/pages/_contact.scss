@@ -179,14 +179,14 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
   }
   .contact .left-panel .newsletter {
     display:block;
-    @media screen and (max-width: $lg) {
+    @media screen and (max-width: 1024px) {
       display:none;
     }
   }
     .contact .newsletter {
       display:none;
 
-      @media screen and (max-width: $lg) {
+      @media screen and (max-width: 1024px) {
         display:block;
         position: sticky;
         position: -webkit-sticky;
@@ -204,9 +204,27 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
   position: fixed;
   height: 100%;
   background: $purple;
-  @media screen and (max-width: $lg) {
+  @media screen and (max-width: 1024px) {
     position: sticky;
     position: -webkit-sticky;
 
+  }
+}
+.left-panel .newsletter {
+  input[type="submit"] {
+    background: $turquoise;
+    border: 1px solid $turquoise;
+    color: $white;
+    font-family: 'GT Haptik Regular', sans-serif;
+    font-size: 1.2em;
+    padding: 1.05em;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    border-radius: 5px;
+    font-style:normal;
+    -webkit-appearance: button;
+    &:hover {
+
+    }
   }
 }

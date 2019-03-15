@@ -4,7 +4,7 @@ title: Tags
 slug: categories
 ---
 {% for tag in site.tags %}
-  <h2 class='tag-header' id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
+  <h2 class='tag-header' id="{{ tag[0] }}">{{ tag[0] }}</h2>
   <ul>
     {% assign pages_list = tag[1] %}
 

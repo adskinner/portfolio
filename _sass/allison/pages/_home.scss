@@ -28,6 +28,12 @@
        width: 100%;
       }
       h4 {
+        @media screen and (max-width: $med) {
+        font-size: 2rem;
+      }
+      @media screen and (max-width: $sm) {
+      font-size: 1.2rem;
+    }
         @media screen and (max-width: $xxs) {
         margin-bottom: 5px;
       }
@@ -106,6 +112,9 @@
         background: $orange;
         color: $white;
         -webkit-appearance: button;
+        &:hover {
+          background: $red;
+        }
         @media screen and (max-width: $med) {
           font-size: 1em;
         }
@@ -196,7 +205,7 @@
       width: 500px;
       text-align: center;
       background: #fff;
-      font-family: 'GT Haptik Bold', sans-serif;
+      font-family: 'GT Haptik Regular', sans-serif;
       text-transform: uppercase;
       font-size: 1.2em;
       letter-spacing: 0.03em;
@@ -501,21 +510,26 @@ ul.portfolio-list {
     @media screen and (max-width: $xxs) {
       padding-bottom: 0.5em;
     }
-    h3 {
-      @media screen and (max-width: $sm) {
-        line-height:0.8;
-        margin-top:12px;
-      }
 
-      @media screen and (max-width: $xxs) {
-        margin-bottom: 5px;
-      }
-    }
 }
   li:nth-child(odd) {
     padding-right:2.5%;
     @media screen and (max-width: $sm) {
       padding-right: 0;
+    }
+  }
+}
+.home ul.portfolio-list {
+  h3 {
+    @media screen and (max-width: $med) {
+      line-height:0.85;
+
+    }
+    @media screen and (max-width: $sm) {
+      margin-top: 12px;
+    }
+    @media screen and (max-width: $xxs) {
+      margin-bottom: 5px;
     }
   }
 }
