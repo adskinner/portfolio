@@ -1563,7 +1563,7 @@ ul.post-list li h3 a:hover {
 .process a.return {
   color: #fff; }
   .process a.return:before {
-    content: url(/portfolio/assets/img/general/return-white.svg);
+    content: url(/assets/img/general/return-white.svg);
     display: inline-block;
     position: absolute;
     margin-left: -40px;
@@ -1590,7 +1590,7 @@ ul.post-list li h3 a:hover {
   .contact a.return:hover {
     border-bottom: 1px solid #000; }
   .contact a.return:before {
-    content: url(/portfolio/assets/img/general/return-black.svg);
+    content: url(/assets/img/general/return-black.svg);
     display: inline-block;
     position: absolute;
     margin-left: -40px;
@@ -2009,7 +2009,7 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
   .post a.return:hover {
     border-bottom: 1px solid #000; }
   .post a.return:before {
-    content: url(/portfolio/assets/img/general/return-black.svg);
+    content: url(/assets/img/general/return-black.svg);
     display: inline-block;
     position: absolute;
     margin-left: -40px;
@@ -2153,7 +2153,7 @@ h2.tag-header {
 .work a.return {
   color: #fff; }
   .work a.return:before {
-    content: url(/portfolio/assets/img/general/return-white.svg);
+    content: url(/assets/img/general/return-white.svg);
     display: inline-block;
     position: absolute;
     margin-left: -40px;
