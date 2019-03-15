@@ -9,6 +9,7 @@ categories:
 tags: [freelancing, web designer, web developer, devsigner]
 image: "post1/develop_cover.jpg"
 permalink: /writing/:title
+redirect_from: "/benefits-of-being-a-developer-and-designer.html"
 ---
 ![graphic for 3 Key Benefits of Being Designer and Developer][1]
 > It’s not common for someone to be a designer *and* a developer. Typically there is a designer and developer for each project. Two separate people with two separate roles.

@@ -4,6 +4,7 @@ title: About Allison Skinner Web Design and Development
 slug: about
 permalink: /about/
 description: Learn about Athens, Georgia's local web designer and developer, Allison Skinner, who runs Allison Skinner Web Design and Development.
+redirect_from: "/about.html"
 ---
 ![Allison Skinner Web Design and Development Athens, GA][1]
 

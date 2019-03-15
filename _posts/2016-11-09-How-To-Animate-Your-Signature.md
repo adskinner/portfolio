@@ -8,6 +8,7 @@ tags: [SVG animation]
 image: "writing/16-11-09/signature.jpg"
 permalink: /writing/:title
 description: Learn how to animate your signature using SVG and CSS
+redirect_from: "/animate-signature.html"
 ---
 > Exciting news, I animated my signature and I feel like all the hours I spent perfecting my signature when I was a fame-obsessed 15 year-old came in handy.
 

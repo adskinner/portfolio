@@ -4,6 +4,7 @@ title: Services
 slug: process
 permalink: /services/
 description: Allison Skinner provides web design and web development services that focus in custom theme development on a variety of platforms, such as Wordpress and Drupal.
+redirect_from: "/services.html"
 ---
 {:#section1}
 ## Web Design

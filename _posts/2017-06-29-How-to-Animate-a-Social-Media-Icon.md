@@ -8,6 +8,7 @@ tags: [CSS animation, SVG animation, icons]
 image: "writing/17-06-29/icon_Cover.gif"
 permalink: /writing/:title
 description: Learn how to animate a social media icon with CSS & SVG animations
+redirect_from: "/how-to-animate-social-media-icon.html"
 ---
 >One of my favorite things to incorporate into any web project is animation. Particularly CSS & SVG animations because they are lightweight, retina-level crisp & do not require adding complicated javascript libraries to your website. CSS & SVG animations combine the creative elements of design and the technical elements of development. As a designer and developer I love that. Dabbling with CSS & SVG animations as a developer (or designer) is a great introduction to going beyond basic HTML and CSS. Today I’m going to show you how to animate an instagram icon. You can use these same principles to animate any social media icon. This icon animation is featured on [trevblake.com](trevblake.com) , a portfolio site I made for my good friend & hard-working creative, Trevor Blake.
 

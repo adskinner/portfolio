@@ -8,6 +8,7 @@ tags: [websites, website redesign]
 image: "writing/17-09-01/website_cover.jpg"
 permalink: /writing/when-is-it-time-to-get-a-website
 description: Allison Skinner shares insights for people that are considering getting a website but don't know where to start.
+redirect_from: "/when-is-it-time-to-get-a-website.html"
 ---
 ![graphic for 'When is it time to get a website?'][1]
 > There are two questions you may be asking yourself: When is it a good time to get a website for my business? or I have a website, but it’s outdated. When should I get a website redesign?

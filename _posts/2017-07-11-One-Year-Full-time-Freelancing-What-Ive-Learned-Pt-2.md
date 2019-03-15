@@ -8,6 +8,7 @@ tags: [freelancing, goals]
 image: "writing/17-07-11/ft_freelance2_cover.jpg"
 permalink: /writing/:title
 description: Allison Skinner shares her story on what she has learned full-time freelancing in her first year (PART TWO)
+redirect_from: "/first-year-fulltime-freelancing-pt-2.html"
 ---
 ![graphic for One Year Full-Time Freelancing: What I've Learned Pt. 2][1]
 >Read part one here to learn how I started full-time freelancing and got through the early obstacles of getting clients and managing a cashflow with no steady paycheck.
