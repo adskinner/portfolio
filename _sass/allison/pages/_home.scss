@@ -183,10 +183,49 @@
   section#portfolio {
     background: $white;
     z-index:10;
+    @media screen and (max-width: $sm) {
+      display:none;
+    }
   }
   section#portfolio2 {
     background: $pink;
     z-index:10;
+    @media screen and (max-width: $sm) {
+      display:none;
+    }
+  }
+  section#mb-portfolio1 {
+    background: $pink;
+    display:none;
+    @media screen and (max-width: $sm) {
+      display:block;
+    }
+  }
+  section#mb-portfolio2{
+    background: $red;
+    display:none;
+    @media screen and (max-width: $sm) {
+      display:block;
+    }
+    h3 a {
+      color: $white;
+      background-image: -webkit-gradient(linear,left top,left bottom,color-stop(70%,transparent),color-stop(70%,rgba(80,60,173,.8)));
+      background-image: linear-gradient(180deg,transparent 70%,rgba(80,60,173,.8) 0);
+    }
+  }
+  section#mb-portfolio3{
+    background: $mint;
+    display:none;
+    @media screen and (max-width: $sm) {
+      display:block;
+    }
+  }
+  section#mb-portfolio4{
+    background: $white;
+    display:none;
+    @media screen and (max-width: $sm) {
+      display:block;
+    }
   }
   section#all-work {
     background:$red;

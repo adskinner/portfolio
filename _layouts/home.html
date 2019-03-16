@@ -88,6 +88,106 @@ slug: home
         </ul>
         {%- endif -%}
 </section>
+<section id="mb-portfolio1">
+	{%- if site.portfolio-examples.size > 0 -%}
+	<ul class="portfolio-list">
+		{%- for portfolio in site.portfolio-examples limit:1 -%}
+		<li style="perspective:500px;">
+			{% if portfolio.image %}
+
+			<a class="" href="{{ portfolio.url | relative_url }}">
+
+				<img data-tilt src="{{ site.baseurl }}/assets/img/{{ portfolio.image }}">
+
+			</a>
+
+			{% endif %}
+				<h3>
+					<a class="post-link" href="{{ portfolio.url | relative_url }}">
+						{{ portfolio.title | escape }}
+					</a>
+				</h3>
+
+		</li>
+			{%- endfor -%}
+		</ul>
+		{%- endif -%}
+</section>
+<section id="mb-portfolio2">
+	{%- if site.portfolio-examples.size > 0 -%}
+	<ul class="portfolio-list">
+		{%- for portfolio in site.portfolio-examples limit:1 offset:1 -%}
+		<li style="perspective:500px;">
+			{% if portfolio.image %}
+
+			<a class="" href="{{ portfolio.url | relative_url }}">
+
+				<img data-tilt src="{{ site.baseurl }}/assets/img/{{ portfolio.image }}">
+
+			</a>
+
+			{% endif %}
+				<h3>
+					<a class="post-link" href="{{ portfolio.url | relative_url }}">
+						{{ portfolio.title | escape }}
+					</a>
+				</h3>
+
+		</li>
+			{%- endfor -%}
+		</ul>
+		{%- endif -%}
+</section>
+<section id="mb-portfolio3">
+	{%- if site.portfolio-examples.size > 0 -%}
+	<ul class="portfolio-list">
+		{%- for portfolio in site.portfolio-examples limit:1 offset:2 -%}
+		<li style="perspective:500px;">
+			{% if portfolio.image %}
+
+			<a class="" href="{{ portfolio.url | relative_url }}">
+
+				<img data-tilt src="{{ site.baseurl }}/assets/img/{{ portfolio.image }}">
+
+			</a>
+
+			{% endif %}
+				<h3>
+					<a class="post-link" href="{{ portfolio.url | relative_url }}">
+						{{ portfolio.title | escape }}
+					</a>
+				</h3>
+
+		</li>
+			{%- endfor -%}
+		</ul>
+		{%- endif -%}
+</section>
+<section id="mb-portfolio4">
+	{%- if site.portfolio-examples.size > 0 -%}
+	<ul class="portfolio-list">
+		{%- for portfolio in site.portfolio-examples limit:1 offset:3 -%}
+		<li style="perspective:500px;">
+			{% if portfolio.image %}
+
+			<a class="" href="{{ portfolio.url | relative_url }}">
+
+				<img data-tilt src="{{ site.baseurl }}/assets/img/{{ portfolio.image }}">
+
+			</a>
+
+			{% endif %}
+				<h3>
+					<a class="post-link" href="{{ portfolio.url | relative_url }}">
+						{{ portfolio.title | escape }}
+					</a>
+				</h3>
+
+		</li>
+			{%- endfor -%}
+		</ul>
+		{%- endif -%}
+</section>
 <section id="all-work">
   <div class="wrap">
     <a href="/work" class="btn-primary">View All Work</a>
