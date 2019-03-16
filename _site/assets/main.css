@@ -444,7 +444,7 @@ table {
 
 h1 {
   font-family: 'GT Haptik Black', sans-serif;
-  font-weight: 400;
+  font-weight: 900;
   font-size: 3rem; }
   @media screen and (max-width: 768px) {
     h1 {
@@ -455,7 +455,7 @@ h1 {
 
 h2 {
   font-family: 'GT Haptik Bold', sans-serif;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 2.5rem;
   line-height: 1.15; }
   @media screen and (max-width: 570px) {
@@ -465,11 +465,14 @@ h2 {
 h3 {
   font-family: 'GT Haptik Bold',sans-serif;
   font-size: 2rem;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 1.1; }
   @media screen and (max-width: 570px) {
     h3 {
       font-size: 1.3rem; } }
+
+.no-fontface h3 {
+  font-size: 1.8rem; }
 
 h3.subheading {
   font-family: 'GT Haptik Regular', sans-serif;
@@ -488,7 +491,7 @@ h3.subheading {
 h4 {
   font-family: 'GT Haptik Bold', sans-serif;
   font-size: 1.2rem;
-  font-weight: 400; }
+  font-weight: 600; }
 
 p {
   font-size: 1.2rem;
@@ -535,7 +538,7 @@ blockquote {
   color: #000; }
   blockquote p {
     font-family: 'GT Haptik Bold',sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     font-size: 1.3em;
     color: #000;
     font-style: normal; }
@@ -1001,7 +1004,8 @@ a img {
     .home section#contact .contact form.contact-form label {
       color: #000;
       font-size: 1.6em;
-      text-transform: lowercase; }
+      text-transform: lowercase;
+      font-weight: 600; }
       @media screen and (max-width: 380px) {
         .home section#contact .contact form.contact-form label {
           font-size: 0.8em;
@@ -1176,7 +1180,8 @@ a img {
         padding: 1.5em 15px; } }
     .home section#newsletter .newsletter input {
       border-bottom: 1px solid #fff;
-      border-radius: 0; }
+      border-radius: 0;
+      color: #fff; }
       @media screen and (max-width: 380px) {
         .home section#newsletter .newsletter input {
           padding-top: 0; } }
@@ -1243,6 +1248,7 @@ a img {
   .home-inner-wrap p.home-lead {
     font-size: 4.5rem;
     line-height: 1.1;
+    font-weight: 900;
     position: relative;
     z-index: 5; }
     @media screen and (max-width: 1440px) {
@@ -1271,7 +1277,7 @@ a img {
         padding-top: 5px; } }
   .home-inner-wrap p {
     font-family: 'GT Haptik Black', sans-serif;
-    font-weight: 900;
+    font-weight: 600;
     font-size: 1.8rem;
     line-height: 1.45;
     position: relative;
@@ -1536,6 +1542,17 @@ ul.post-list li h3 a:hover {
     .home #allison {
       padding: 1em 15px; } }
 
+.no-fontface p.home-lead {
+  font-size: 3.5em;
+  line-height: 1.1; }
+
+.no-fontface p.sub-wrap {
+  font-size: 1.5rem;
+  line-height: 1.2; }
+
+.no-fontface input[type="submit"] {
+  font-weight: bold; }
+
 .about .left-panel {
   background: #5D47BA;
   color: #fff; }
@@ -1606,7 +1623,7 @@ ul.post-list li h3 a:hover {
   background: #B6FFCD; }
 .contact form.contact-form label {
   font-family: 'GT Haptik Bold', sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 1.6em;
   color: #fff;
   text-transform: lowercase; }
@@ -1690,7 +1707,7 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
   .newsletter form label {
     font-family: 'GT Haptik Bold',sans-serif;
     text-transform: lowercase;
-    font-weight: 300;
+    font-weight: 600;
     font-size: 1.6em; }
     @media screen and (max-width: 380px) {
       .newsletter form label {
@@ -1753,6 +1770,10 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
   @media screen and (max-width: 570px) {
     .contact .newsletter {
       padding: 2.5em 15px; } }
+  .contact .newsletter input {
+    border-radius: 0px; }
+  .contact .newsletter input[type="submit"] {
+    border-radius: 5px; }
 
 .contact main {
   position: fixed;
