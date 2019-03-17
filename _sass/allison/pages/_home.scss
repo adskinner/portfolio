@@ -70,7 +70,7 @@
         }
       }
       form.contact-form input {
-        font-size: 2em;
+        font-size: 1.2em;
         background: $mint;
         color: $black;
         border-bottom: 1px solid $black;
@@ -90,13 +90,16 @@
         }
       }
       form.contact-form textarea {
-        font-size: 2em;
+        font-size: 1.2em;
         background: $mint;
         color: $black;
         border-bottom: 1px solid $black;
         border-radius:0;
+        @media screen and (max-width: 1440px ) {
+         height: auto;
+        }
         @media screen and (max-width: $lg) {
-         font-size: 1.6em;
+         font-size: 1.2em;
         }
         @media screen and (max-width: $sm) {
          font-size: 1em;
@@ -344,7 +347,7 @@
   @media screen and (max-width: 1024px) {
     align-items:start;
     padding-top: 4em;
-    height: 75vh;
+    height: 100vh;
   }
   @media screen and (max-width: $med) {
     padding-top:2.5em;
@@ -388,9 +391,11 @@
     @media screen and (max-width: 1440px) {
       font-size: 3.9rem;
       line-height:1;
+      width: calc(100% - 3em);
     }
     @media screen and (max-width: 1024px) {
       font-size: 3.5rem;
+      width: 100%;
     }
     @media screen and (max-width: $med) {
       font-size: 3rem;

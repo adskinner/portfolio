@@ -1011,7 +1011,7 @@ a img {
           font-size: 0.8em;
           text-transform: uppercase; } }
     .home section#contact .contact form.contact-form input {
-      font-size: 2em;
+      font-size: 1.2em;
       background: #B6FFCD;
       color: #000;
       border-bottom: 1px solid #000;
@@ -1030,14 +1030,17 @@ a img {
           padding-top: 0;
           margin-bottom: 8.5px; } }
     .home section#contact .contact form.contact-form textarea {
-      font-size: 2em;
+      font-size: 1.2em;
       background: #B6FFCD;
       color: #000;
       border-bottom: 1px solid #000;
       border-radius: 0; }
+      @media screen and (max-width: 1440px) {
+        .home section#contact .contact form.contact-form textarea {
+          height: auto; } }
       @media screen and (max-width: 992px) {
         .home section#contact .contact form.contact-form textarea {
-          font-size: 1.6em; } }
+          font-size: 1.2em; } }
       @media screen and (max-width: 570px) {
         .home section#contact .contact form.contact-form textarea {
           font-size: 1em;
@@ -1249,7 +1252,7 @@ a img {
     .home-intro {
       align-items: start;
       padding-top: 4em;
-      height: 75vh; } }
+      height: 100vh; } }
   @media screen and (max-width: 768px) {
     .home-intro {
       padding-top: 2.5em;
@@ -1288,10 +1291,12 @@ a img {
     @media screen and (max-width: 1440px) {
       .home-inner-wrap p.home-lead {
         font-size: 3.9rem;
-        line-height: 1; } }
+        line-height: 1;
+        width: calc(100% - 3em); } }
     @media screen and (max-width: 1024px) {
       .home-inner-wrap p.home-lead {
-        font-size: 3.5rem; } }
+        font-size: 3.5rem;
+        width: 100%; } }
     @media screen and (max-width: 768px) {
       .home-inner-wrap p.home-lead {
         font-size: 3rem;
