@@ -35,5 +35,19 @@ Particles.js is very easy to use.
 
 1. First, I use the handy simulator on the particles.js website to decide the type of animation I want.
 You can decide shape, direction, speed, density, color, etc. Play around and decide what you'd like.
-2. You should then download the JSON of your custom particles.js configuration.
- 
+The simulator only allows for one color. I created an array to achieve multiple colors.
+2. Then click the "codepen" button in the top right corner. This will create a code pen with your custom parameters.
+4. Take a look at the HTML. You need to add a js file to your site's html with 
+`// this tiggers the animation
+<div id="particles-js"></div>
+//this is the universal cdn of the particles.min.js code you don't need to change. just add it to your page
+<script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+//then you need to add your custom parameters for your animation. mine is linked below. I added my custom json data to this js file.
+<script src="https://allisondskinner.com/assets/js/app.js"></script>
+`
+
+
+<iframe height="605" style="width: 100%;" scrolling="no" title="particles.js demo" src="//codepen.io/adskinner/embed/drjvZY/?height=605&theme-id=light&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/adskinner/pen/drjvZY/'>particles.js demo</a> by Allison Skinner
+  (<a href='https://codepen.io/adskinner'>@adskinner</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
