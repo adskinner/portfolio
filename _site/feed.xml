@@ -1,5 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-18T09:50:54-04:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
-</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">Why I wanted to redesign my portfolio website</title><link href="http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site" rel="alternate" type="text/html" title="Why I wanted to redesign my portfolio website" /><published>2018-12-29T00:00:00-05:00</published><updated>2018-12-29T00:00:00-05:00</updated><id>http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site</id><content type="html" xml:base="http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-29/old-allison-homepage.jpg&quot; alt=&quot;Homepage of 2016 version of Allison Skinner Web Design and Development website&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-22T10:48:32-04:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
+</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">Why I chose to build a portfolio site with Jekyll and host it with Github pages</title><link href="http://localhost:4000/writing/Why-I-chose-to-build-my-portfolio-site-on-jekyll" rel="alternate" type="text/html" title="Why I chose to build a portfolio site with Jekyll and host it with Github pages" /><published>2019-03-22T00:00:00-04:00</published><updated>2019-03-22T00:00:00-04:00</updated><id>http://localhost:4000/writing/Why-I-chose-to-build-my-portfolio-site-on-jekyll</id><content type="html" xml:base="http://localhost:4000/writing/Why-I-chose-to-build-my-portfolio-site-on-jekyll">&lt;h2 id=&quot;1-why-didnt-i-build-my-website-in-wordpress-or-drupal-because-thats-what-i-build-most-of-my-client-websites-with&quot;&gt;1. Why didn’t I build my website in Wordpress or Drupal? (Because that’s what I build most of my client websites with)&lt;/h2&gt;
+&lt;p&gt;For my clients, I primarily build websites on &lt;a href=&quot;https://wordpress.org/&quot;&gt;Wordpress&lt;/a&gt;, &lt;a href=&quot;https://drupal.org&quot;&gt;Drupal&lt;/a&gt; or &lt;a href=&quot;https://shopify.com&quot;&gt;Shopify&lt;/a&gt;. I love working on these platforms because it gives my clients with limited technical expertise the ability to update and manage their own websites.
+However, I do have the technical experience to update/edit my personal website without any admin interface or user dashboard. I wanted a lean publishing platform that would allow for me push changes and manage a blog with ease – that’s why I chose Jekyll!&lt;/p&gt;
+
+&lt;h2 id=&quot;2-why-jekyll-whats-so-great-about-it&quot;&gt;2. Why Jekyll? What’s so great about it.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; is a static site generator. A static site has no database, it’s really just turning simple markup (text, images, etc.) into a web page. You install Jekyll into a Git repo, add some files, push the changes and &lt;em&gt;voila&lt;/em&gt; there’s your website. The lack of a database is impossible for some businesses (online shops) but can be beneficial for others.&lt;/p&gt;
+
+&lt;h3 id=&quot;jekyll-has-a-variety-of-benefits&quot;&gt;Jekyll has a variety of benefits…&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;They load super fast.&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;A database-less static website usually loads 10x faster than a website with a CMS. Wow!&lt;/li&gt;
+      &lt;li&gt;For example, even the most image-heavy pages of my website load in under 1.2 seconds. That’s a speed a Wordpress site could only dream of!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;They are very secure&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Since a Jekyll website is only serving static files there are no scripting or database security exploits possible for hackers.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SEO benefits&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Wordpress and other CMS have a lot of SEO tools, but they don’t have this level of site speed on their side. And Google loves fast websites! Also, it’s easier to maintain a clean file path structure in Jekyll (in my opinion) and Google loves clean file path structures.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Built-in blogging platform.&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Jekyll has blogging functionality out of the box.&lt;/li&gt;
+      &lt;li&gt;Adding a blog post is as simple as adding a markdown file to your posts folder. There is no content editor or admin dashboard to deal with!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Has SASS compiler pre-installed.&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;SASS can be fairly straightforward to write, but setting up a server-compatible compiler is sometimes not that easy. Luckily, Jekyll has your SASS compiler already set up for you.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;You can serve website on local computer&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;If you want to view your Jekyll site before publishing to the production, all you have to do is run “jekyll serve” from your terminal. It will run your SASS compiler and all the other Jekyll magic and serve your website on your local IP.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Built with liquid&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Liquid is PHP’s more attractive cousin and it’s a lot of fun to code in.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;“Layouts” and “Includes” allow for fast building&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;If you are building a raw HTML site and you need to add a new page, you’ll have to copy over the head, header, main menu, footer, etc. It’s a tedious process and makes changes/updates to your code difficult to manage.&lt;/li&gt;
+      &lt;li&gt;Jekyll has support for ‘layouts’ and ‘includes’. ‘Layouts’ allow you to create a structure for different page templates, such as ‘posts’ or ‘portfolio examples’.&lt;/li&gt;
+      &lt;li&gt;“Includes” are like blocks, they are snippets of HTML that you can &lt;em&gt;include&lt;/em&gt; anywhere on your site. If you ever update your “layout” or an “include”, it’ll update sitewide.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;3-why-host-on-github-pages&quot;&gt;3. Why host on &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;?&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;The simplest answer is that it’s FREE.&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Most hosting plans start at least at $10/month, but decent hosting plans are usually $35/month or higher. So with Github pages, I’m saving hundreds of dollars a year. (GH Pages is only compatible with static sites, so this isn’t free hosting for all!)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The SSL certificate is free &amp;amp; pre-installed.&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;All Github Pages hosted websites have a free, automatic SSL certificate.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;You can manage your website directly from your git repo.&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Once you push your changes to your gh-pages branch, it’s pushed to your production site. Easy as that!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Would a Jekyll website be a good fit for your business? Read my post that breaks down the pros and cons of Jekyll websites [COMING SOON].&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="Jekyll" /><category term="Portfolio Website" /><category term="Static Sites" /><category term="Github Pages" /><summary type="html">1. Why didn’t I build my website in Wordpress or Drupal? (Because that’s what I build most of my client websites with) For my clients, I primarily build websites on Wordpress, Drupal or Shopify. I love working on these platforms because it gives my clients with limited technical expertise the ability to update and manage their own websites. However, I do have the technical experience to update/edit my personal website without any admin interface or user dashboard. I wanted a lean publishing platform that would allow for me push changes and manage a blog with ease – that’s why I chose Jekyll!</summary></entry><entry><title type="html">Why I wanted to redesign my portfolio website</title><link href="http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site" rel="alternate" type="text/html" title="Why I wanted to redesign my portfolio website" /><published>2018-12-29T00:00:00-05:00</published><updated>2018-12-29T00:00:00-05:00</updated><id>http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site</id><content type="html" xml:base="http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-29/old-allison-homepage.jpg&quot; alt=&quot;Homepage of 2016 version of Allison Skinner Web Design and Development website&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;In August 2016, I launched &lt;a href=&quot;https://allisondskinner.com&quot;&gt;allisondskinner.com&lt;/a&gt;. At the time, I thought it was going to be a basic portfolio site that would garner a few freelance clients to supplement my full-time job income. However, two days after launching my portfolio site, I didn’t have a full-time job anymore and now my portfolio website represented my full-time business.&lt;/p&gt;
@@ -31,7 +106,7 @@ By 2018, I wanted to redo my portfolio site because my business had evolved in s
 &lt;p&gt;The two big things that worked on my portfolio website was that it ranked well on google search results and that it loaded really fast. I can attribute this to having a raw HTML website with no heavy CMS or database to load. It was clean, lean code and google rewarded me for it. And I want to keep it that way!&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;After reviewing my goals for my next portfolio site, the path was clear for me — I wanted to build a static site with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and host it on &lt;a href=&quot;https://pages.github.com/&quot;&gt;github pages&lt;/a&gt;. What is Jekyll and why am I using it for my portfolio website? What does it mean to host with github pages? Keep reading in my next post [COMING SOON]!&lt;/p&gt;
+  &lt;p&gt;After reviewing my goals for my next portfolio site, the path was clear for me — I wanted to build a static site with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and host it on &lt;a href=&quot;https://pages.github.com/&quot;&gt;github pages&lt;/a&gt;. What is Jekyll and why am I using it for my portfolio website? What does it mean to host with github pages? Keep reading in my &lt;a href=&quot;/writing/Why-I-chose-to-build-my-portfolio-site-on-jekyll&quot;&gt;next post&lt;/a&gt;!&lt;/p&gt;
 &lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="Portfolio Website" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/18-12-29/old-allison-homepage.jpg" /></entry><entry><title type="html">2019: What’s to Come</title><link href="http://localhost:4000/writing/whats-to-come" rel="alternate" type="text/html" title="2019: What's to Come" /><published>2018-12-10T00:00:00-05:00</published><updated>2018-12-10T00:00:00-05:00</updated><id>http://localhost:4000/writing/whats-to-come</id><content type="html" xml:base="http://localhost:4000/writing/whats-to-come">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-10/share.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h1 id=&quot;2019-whats-to-come&quot;&gt;2019 What’s to Come&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -697,18 +772,4 @@ left:-2px;
 
 &lt;blockquote&gt;
   &lt;p&gt;Checkout my &lt;a href=&quot;https://codepen.io/adskinner/pen/OgjvJX&quot;&gt;CodePen&lt;/a&gt; of my flat design 3D button animation.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="CSS animation" /><category term="flat design" /><summary type="html">Flat design has been on trend in the web design world for quite some time. Flat design uses a minimum amount of stylistic elements. There are no gradients, drop shadows or texture. But that doesn’t mean there’s no animation. A flat design button deserves some movement! In this tutorial, I will show you how to animate a flat design 3D button. I’ve seen this particular button on many sites I admire, but I couldn’t find a codepen or jsfiddle replicating it. So I owed it to the internet to make my own.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/17-06-23/smash_button.gif" /></entry><entry><title type="html">How to Animate Your Signature</title><link href="http://localhost:4000/writing/How-To-Animate-Your-Signature" rel="alternate" type="text/html" title="How to Animate Your Signature" /><published>2016-11-09T00:00:00-05:00</published><updated>2016-11-09T00:00:00-05:00</updated><id>http://localhost:4000/writing/How-To-Animate-Your-Signature</id><content type="html" xml:base="http://localhost:4000/writing/How-To-Animate-Your-Signature">&lt;blockquote&gt;
-  &lt;p&gt;Exciting news, I animated my signature and I feel like all the hours I spent perfecting my signature when I was a fame-obsessed 15 year-old came in handy.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/16-11-09/signature.gif&quot; alt=&quot;animated signature gif&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I achieved this animation by creating my signature with the pencil tool in Adobe Illustrator. I then saved it as an .svg file and copied the svg code into a text editor.&lt;/p&gt;
-
-&lt;p&gt;From there I assigned unique classes to all the paths in my signature and added styling. The styling included adding a “stroke-dasharray” to each path class, this gave a length to each path, and I also added sequential keyframe animations.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Do you want to animate your signature? &lt;a href=&quot;https://webdesign.tutsplus.com/tutorials/sign-on-the-dotted-line-animating-your-own-svg-signature--cms-23846&quot;&gt;Follow this tutorial from Envato’s Tuts+&lt;/a&gt; step by step, and you’ll have your own animated signature!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There are so many things that I want to learn in the realm of web design. I have at least 80 tutorials bookmarked, which span a variety of programming languages, design styles and animations. I’ll keep sharing my experiments :) .&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="SVG animation" /><summary type="html">Exciting news, I animated my signature and I feel like all the hours I spent perfecting my signature when I was a fame-obsessed 15 year-old came in handy.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/16-11-09/signature.jpg" /></entry></feed>
+&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="CSS animation" /><category term="flat design" /><summary type="html">Flat design has been on trend in the web design world for quite some time. Flat design uses a minimum amount of stylistic elements. There are no gradients, drop shadows or texture. But that doesn’t mean there’s no animation. A flat design button deserves some movement! In this tutorial, I will show you how to animate a flat design 3D button. I’ve seen this particular button on many sites I admire, but I couldn’t find a codepen or jsfiddle replicating it. So I owed it to the internet to make my own.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/17-06-23/smash_button.gif" /></entry></feed>

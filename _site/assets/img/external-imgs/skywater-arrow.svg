@@ -1,0 +1,65 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 163.5 95.3" style="enable-background:new 0 0 163.5 95.3;" xml:space="preserve" width="20" height="20">
+<style type="text/css">
+	.st0{fill:#fff;}
+    #arrow {
+    animation: bounce infinite 1s;
+    }
+    
+    
+    @-moz-keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -moz-transform: translateY(0);
+    transform: translateY(0);
+  }
+  40% {
+    -moz-transform: translateY(-30px);
+    transform: translateY(-30px);
+  }
+  60% {
+    -moz-transform: translateY(-15px);
+    transform: translateY(-15px);
+  }
+}
+@-webkit-keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  40% {
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px);
+  }
+  60% {
+    -webkit-transform: translateY(-15px);
+    transform: translateY(-15px);
+  }
+}
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  40% {
+    -moz-transform: translateY(-30px);
+    -ms-transform: translateY(-30px);
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px);
+  }
+  60% {
+    -moz-transform: translateY(-15px);
+    -ms-transform: translateY(-15px);
+    -webkit-transform: translateY(-15px);
+    transform: translateY(-15px);
+  }
+
+    }
+</style>
+<g>
+	<path id="arrow" class="st0" d="M163.5,13.6c0,1.4-0.5,2.7-1.6,3.8L85.5,93.7c-1.1,1.1-2.3,1.6-3.8,1.6c-1.4,0-2.7-0.5-3.8-1.6
+		L1.6,17.4C0.5,16.3,0,15,0,13.6c0-1.4,0.5-2.7,1.6-3.8l8.2-8.2C10.9,0.5,12.2,0,13.6,0c1.4,0,2.7,0.5,3.8,1.6L81.7,66l64.4-64.4
+		c1.1-1.1,2.3-1.6,3.8-1.6c1.4,0,2.7,0.5,3.8,1.6l8.2,8.2C162.9,10.9,163.5,12.2,163.5,13.6z"/>
+</g>
+</svg>

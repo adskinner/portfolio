@@ -503,6 +503,9 @@ p {
     p {
       font-size: 1.05rem; } }
 
+strong, b {
+  font-family: 'GT Haptik Bold', sans-serif; }
+
 p.caption {
   font-size: 0.7rem;
   font-style: italic; }
@@ -1238,7 +1241,7 @@ a img {
 .home-intro {
   background: #5D47BA;
   color: #fff;
-  height: 80vh;
+  height: 90vh;
   display: flex;
   display: -ms-flexbox;
   align-items: center;
