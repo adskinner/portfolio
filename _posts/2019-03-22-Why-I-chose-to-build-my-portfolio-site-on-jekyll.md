@@ -7,6 +7,7 @@ categories:
 tags: [Jekyll, Portfolio Website, Static Sites, Github Pages]
 permalink: /writing/:title
 description: I didn't build my website on Wordpress, Drupal, Squarespace, or Wix. I chose to not use a CMS platform to build my website, instead I chose Jekyll, a static site generator. I also chose to host my site on Github Pages. Read along to learn why!
+comments: true
 ---
 ## 1. Why didn’t I build my website in Wordpress or Drupal? (Because that’s what I build most of my client websites with)
 For my clients, I primarily build websites on [Wordpress](https://wordpress.org/), [Drupal](https://drupal.org) or [Shopify](https://shopify.com). I love working on these platforms because it gives my clients with limited technical expertise the ability to update and manage their own websites.
