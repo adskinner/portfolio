@@ -7,13 +7,14 @@ categories:
 tags: [Jekyll, Static Sites]
 permalink: /writing/:title
 description: I used Jekyll, a static site generator, for my portfolio website's platform. It's an unconventional choice compared to the conventional Wordpress, Shopify or Squarespace platforms. Could Jekyll be the right fit for your business website?
+comments: true
 ---
 
 >Let's start by learning some basics...
 
 ### What is Jekyll?
 
-Jekyll is a static site generator.
+[Jekyll](https://jekyllrb.com) is a static site generator.
 
 ### What is a static site generator?
 
@@ -28,14 +29,14 @@ David Walsh says static site generators "can be for everyone, just not for every
 
 ### 1. You want real-time content on your website.
 
-Examples of real-time content is a "current temperature" block, a "popular posts" block that lists the most viewed articles today, a "reccommeded articles" block based on what you've been reading. This real-time content is possible through a database.
+Examples of real-time content is a "popular posts" block that lists the most viewed articles today, a "recommended articles" block based on what you've been reading. This real-time content is possible through a database.
 If this type of content is important to you, then Jekyll is likely not the best fit for your business.
 
 ### 2. You want to run an online store.
 
 Running an online store requires a database for multiple reasons -- customer profiles, customer orders, products, coupons, etc. Also you need to be able to link third-party payment methods like Square, Paypal, Stripe, etc. to your website. If you want to run an online shop, I'd recommend Wordpress or Shopify.
 
-I would like to add that if you only want to sell a few items or you are simply trying to raise donations, Jekyll could still be an appropriate fit for you. You can embed paypal buttons to your website. For example, Barack Obama raised $250 million of donations through his Jekyll campaign website!
+I would like to add that if you only want to sell a few items or you are simply trying to raise donations, Jekyll could still be an appropriate fit for you. You can embed paypal buttons to your website. For example, [Barack Obama raised $250 million of donations through his Jekyll 2012 campaign website](https://moz.com/blog/kyle-rush-reveals-how-the-obama-campaign-broke-every-online-fundraising-record-free-mozcon-video)!
 
 ### 3. You want a UI (user interface) to be able to manage/update your website.
 
@@ -51,7 +52,7 @@ I would say your website is relatively simple if your site only needs a few info
 
 ### 2. You want your website to run FAST
 
-Static site generators, like Jekyll, typically load 10x faster than a CMS website. My most image-heavy pages load in under 1.2 seconds. That is unbeatable speed compared to Wordpress or Squarespace site loads.
+Static site generators, like Jekyll, typically load 10x faster than a CMS website. My most image-heavy pages load in under 1.2 seconds. That is unbeatable speed compared to Wordpress or Squarespace site loads. This could be especially beneficial to websites that have many large, high-resolution images.
 
 ### 3. You want a secure website
 
@@ -59,7 +60,7 @@ Most hackers use database exploits to hack your website. Without a database, the
 
 ### 4. You want version control for your entire website (content and code)
 
-With Jekyll, you can manage your entire site from a [git repository](https://github.com/). (You can also host it for free with [Github Pages](https://pages.github.com/)!) This is a developer standard for most projects, but usually the actual content (posts, pages, images) sits in a database that's completely separate from your repository.
+With Jekyll, you can manage your entire site from a [git repository](https://github.com/). (You can also host it for free with [Github Pages](https://pages.github.com/)!) This is a developer standard for most projects, but usually the actual content (posts, pages, images) sits in a database that's completely separate from your repository. On a jekyll site, *all* your content will be in your git repo.
 
 
 ## Ok I want a Jekyll website for my business, now what?

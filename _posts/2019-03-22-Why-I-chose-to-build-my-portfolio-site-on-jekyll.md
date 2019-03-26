@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Why I chose to build a portfolio site with Jekyll and host it with Github pages"
+title: "Why I chose to build a portfolio site with Jekyll and host it on Github Pages"
 author: "Allison Skinner"
 categories:
   - code

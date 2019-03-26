@@ -34,16 +34,17 @@ What determines the haves and have nots? That’s what I’ll be breaking down t
 ### Have a local, physical location (with a Google Business profile)
   - If you are a local business with a physical location you will organically have an easier time getting to the first page of google search results. This is because you have a regional audience so you will show up for regional keyword searches.
   - For example, let’s say you are a Veterinarian with a vet clinic in Athens, Georgia. If someone searches “vet athens, ga” your only competition in the search results is other vet clinics in Athens, Georgia. Your competition is not every vet clinic in the USA.
-  - If you do have a physical location, you should have a Google Business profile. This means your business will show up in Google maps and that Google can better index your website and location. If someone searches for you on Google, your profile is what will show up on the right-hand side.
+  - If you do have a physical location, you should have a [Google Business](https://www.google.com/business/) profile. This means your business will show up in Google maps and that Google can better index your website and location. If someone searches for you on Google, your profile is what will show up on the right-hand side.
+  - If you want a funny read, my father, co-founder of [Athentic Brewing Company](https://athenticbrewing.com), wrote a blog post about the baffling (to him) process of getting their location verified on Google.
 ### Do not have a lot of competition with similar businesses
   - Whenever someone searches on Google for your type of service or product, you are in competition with others that sell similar services or products.
-  - For example, let’s say you’re still a veterinarian with a vet clinic in Athens, Ga. Your success in search results will depend on how many other vet clinics there are in Athens, Ga. If there are only ~5 vet clinics in Athens, GA then you will have a good chance of appearing high in the search results. However, if there’s ~50 vet clinics in Athens, GA then you will have a harder time getting to top of search results because you’ll be competing with all 50 other vet clinics.
+  - For example, let’s say you’re still a veterinarian with a vet clinic in Athens, Ga. Your success in search results will depend on how many other vet clinics there are in Athens, Ga. If there are only ~5 vet clinics in Athens, GA then you will have a good chance of appearing high in the search results. However, if there’s ~50 vet clinics in Athens, GA then you will have a harder time getting to the top of search results because you’ll be competing with all 50 other vet clinics.
 ### Provide a service or sell a product that is universally known/understood
   - Having a universally known/understood product or service means that people know how to search for your product or service on Google.
   - Keeping with the vet example, anyone who is a pet owner knows what a veterinarian is and knows the basic services a veterinarian can provide. That means people know what to search for when they looking for a veterinarian.
   - However, if your business is a totally new concept that people need to learn about before understanding it, then google search will be more difficult. If someone doesn’t know it exists they won’t search for it!
 ### Have been in business and have had a website for their business for years.
-  - If your business has been open for 10 years and you’ve had a website for your business for 10 years, Google will recognize that and give your business more validity than a newcomer.
+  - If your business has been open for 10 years and you’ve had a website for your business for 10 years, Google will recognize that and give your business more validity than a new business.
 
 ## SEO will be *tougher* for businesses that…
 
@@ -66,6 +67,6 @@ What determines the haves and have nots? That’s what I’ll be breaking down t
 
 >Now you likely have an idea of whether it’ll be hard or easy to have SEO success for your business.
 
-**For those that will have an easier time with SEO**, I suggest you read Part 2: On Page SEO Basics. Applying these basics will set-up a foundation for your SEO that will likely give you the success you are looking for.
+**For those that will have an easier time with SEO**, good for you! To secure your high rankings, you should keep reading parts 2 & 3 of my SEO series. Also read part 4, so you can get set-up with the proper tracking tools.
 
 **For those that will have a harder time with SEO**, I suggest you read Part 2 & 3 of my SEO Basics series. That’s because Part 2 will give you a foundation for SEO success, but Part 3 will give you the steps to grow past your foundation.

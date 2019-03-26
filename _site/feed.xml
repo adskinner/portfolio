@@ -1,5 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-22T10:51:55-04:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
-</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">Why I chose to build a portfolio site with Jekyll and host it with Github pages</title><link href="http://localhost:4000/writing/Why-I-chose-to-build-my-portfolio-site-on-jekyll" rel="alternate" type="text/html" title="Why I chose to build a portfolio site with Jekyll and host it with Github pages" /><published>2019-03-22T00:00:00-04:00</published><updated>2019-03-22T00:00:00-04:00</updated><id>http://localhost:4000/writing/Why-I-chose-to-build-my-portfolio-site-on-jekyll</id><content type="html" xml:base="http://localhost:4000/writing/Why-I-chose-to-build-my-portfolio-site-on-jekyll">&lt;h2 id=&quot;1-why-didnt-i-build-my-website-in-wordpress-or-drupal-because-thats-what-i-build-most-of-my-client-websites-with&quot;&gt;1. Why didn’t I build my website in Wordpress or Drupal? (Because that’s what I build most of my client websites with)&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-26T09:01:45-04:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
+</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">Is Jekyll the right platform for your website?</title><link href="http://localhost:4000/writing/is-jekyll-the-right-platform-for-your-website" rel="alternate" type="text/html" title="Is Jekyll the right platform for your website?" /><published>2019-03-26T00:00:00-04:00</published><updated>2019-03-26T00:00:00-04:00</updated><id>http://localhost:4000/writing/is-jekyll-the-right-platform-for-your-website</id><content type="html" xml:base="http://localhost:4000/writing/is-jekyll-the-right-platform-for-your-website">&lt;blockquote&gt;
+  &lt;p&gt;Let’s start by learning some basics…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;what-is-jekyll&quot;&gt;What is Jekyll?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-a-static-site-generator&quot;&gt;What is a static site generator?&lt;/h3&gt;
+
+&lt;p&gt;A static site generator compiles your text, css and javascript files and spits out a templated website of static HTML files &lt;em&gt;without&lt;/em&gt; a database. A CMS, like Wordpress, holds your content in a database and the server will query the database(s) to generate HTML files for your website.&lt;/p&gt;
+
+&lt;p&gt;If you’d like to continue reading about what static site generators are, I think David Walsh provides a great explanation in his article, “&lt;a href=&quot;https://davidwalsh.name/introduction-static-site-generators&quot;&gt;An Introduction to Static Site Generators&lt;/a&gt;”.&lt;/p&gt;
+
+&lt;p&gt;David Walsh says static site generators “can be for everyone, just not for everything”. Anyone can setup and manage a Jekyll website, but is a Jekyll website the right fit for their business? I’m going to try to answer that for you today!&lt;/p&gt;
+
+&lt;h2 id=&quot;jekyll-is-not-the-right-fit-for-you-if&quot;&gt;Jekyll IS NOT the right fit for you if…&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-you-want-real-time-content-on-your-website&quot;&gt;1. You want real-time content on your website.&lt;/h3&gt;
+
+&lt;p&gt;Examples of real-time content is a “popular posts” block that lists the most viewed articles today, a “recommended articles” block based on what you’ve been reading. This real-time content is possible through a database.
+If this type of content is important to you, then Jekyll is likely not the best fit for your business.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-you-want-to-run-an-online-store&quot;&gt;2. You want to run an online store.&lt;/h3&gt;
+
+&lt;p&gt;Running an online store requires a database for multiple reasons – customer profiles, customer orders, products, coupons, etc. Also you need to be able to link third-party payment methods like Square, Paypal, Stripe, etc. to your website. If you want to run an online shop, I’d recommend Wordpress or Shopify.&lt;/p&gt;
+
+&lt;p&gt;I would like to add that if you only want to sell a few items or you are simply trying to raise donations, Jekyll could still be an appropriate fit for you. You can embed paypal buttons to your website. For example, &lt;a href=&quot;https://moz.com/blog/kyle-rush-reveals-how-the-obama-campaign-broke-every-online-fundraising-record-free-mozcon-video&quot;&gt;Barack Obama raised $250 million of donations through his Jekyll 2012 campaign website&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h3 id=&quot;3-you-want-a-ui-user-interface-to-be-able-to-manageupdate-your-website&quot;&gt;3. You want a UI (user interface) to be able to manage/update your website.&lt;/h3&gt;
+
+&lt;p&gt;Having a UI is important for website managers that have limited technical experience. A UI allows you to have dashboard with clear buttons that say “add new post” or “add new page”. A UI allows you to have a content editor to format text. A UI allows you to push your changes by clicking the “publish now” button.&lt;/p&gt;
+
+&lt;p&gt;When working with Jekyll, you won’t have a UI. To add a new post, you won’t be clicking any clearly labelled buttons. Instead, you will add a markdown file to your “posts” folder and then push your changes to your live repo. This could be a little overwhelming to some, but I think these skills that can be quickly learned!&lt;/p&gt;
+
+&lt;h2 id=&quot;jekyll-is-the-right-fit-for-you-if&quot;&gt;Jekyll IS the right fit for you if…&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-your-website-is-relatively-simple&quot;&gt;1. Your website is relatively simple&lt;/h3&gt;
+
+&lt;p&gt;I would say your website is relatively simple if your site only needs a few informational pages (“about” page for example), a blog and a contact page with a contact form. That’s essentially how simple my website is! If you don’t need real-time content, a robust online store or user-generated content…then yes, Jekyll could be a great option for you.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-you-want-your-website-to-run-fast&quot;&gt;2. You want your website to run FAST&lt;/h3&gt;
+
+&lt;p&gt;Static site generators, like Jekyll, typically load 10x faster than a CMS website. My most image-heavy pages load in under 1.2 seconds. That is unbeatable speed compared to Wordpress or Squarespace site loads. This could be especially beneficial to websites that have many large, high-resolution images.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-you-want-a-secure-website&quot;&gt;3. You want a secure website&lt;/h3&gt;
+
+&lt;p&gt;Most hackers use database exploits to hack your website. Without a database, the possibility for hacking is greatly reduced.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-you-want-version-control-for-your-entire-website-content-and-code&quot;&gt;4. You want version control for your entire website (content and code)&lt;/h3&gt;
+
+&lt;p&gt;With Jekyll, you can manage your entire site from a &lt;a href=&quot;https://github.com/&quot;&gt;git repository&lt;/a&gt;. (You can also host it for free with &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;!) This is a developer standard for most projects, but usually the actual content (posts, pages, images) sits in a database that’s completely separate from your repository. On a jekyll site, &lt;em&gt;all&lt;/em&gt; your content will be in your git repo.&lt;/p&gt;
+
+&lt;h2 id=&quot;ok-i-want-a-jekyll-website-for-my-business-now-what&quot;&gt;Ok I want a Jekyll website for my business, now what?&lt;/h2&gt;
+
+&lt;p&gt;Awesome!!&lt;/p&gt;
+
+&lt;p&gt;If you’d like to get started on your own, visit Jekyll’s &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;website&lt;/a&gt; and get started with their documentation. I’d also recommend &lt;a href=&quot;https://www.youtube.com/watch?v=T1itpPvFWHI&amp;amp;list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&quot;&gt;Mike Dane’s youtube series&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you’d like help with website design, Jekyll installation or Jekyll training – please get in &lt;a href=&quot;/contact&quot;&gt;touch&lt;/a&gt;! I’d love to help.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="Jekyll" /><category term="Static Sites" /><summary type="html">Let’s start by learning some basics…</summary></entry><entry><title type="html">Why I chose to build a portfolio site with Jekyll and host it on Github Pages</title><link href="http://localhost:4000/writing/Why-I-chose-to-build-my-portfolio-site-on-jekyll" rel="alternate" type="text/html" title="Why I chose to build a portfolio site with Jekyll and host it on Github Pages" /><published>2019-03-22T00:00:00-04:00</published><updated>2019-03-22T00:00:00-04:00</updated><id>http://localhost:4000/writing/Why-I-chose-to-build-my-portfolio-site-on-jekyll</id><content type="html" xml:base="http://localhost:4000/writing/Why-I-chose-to-build-my-portfolio-site-on-jekyll">&lt;h2 id=&quot;1-why-didnt-i-build-my-website-in-wordpress-or-drupal-because-thats-what-i-build-most-of-my-client-websites-with&quot;&gt;1. Why didn’t I build my website in Wordpress or Drupal? (Because that’s what I build most of my client websites with)&lt;/h2&gt;
 &lt;p&gt;For my clients, I primarily build websites on &lt;a href=&quot;https://wordpress.org/&quot;&gt;Wordpress&lt;/a&gt;, &lt;a href=&quot;https://drupal.org&quot;&gt;Drupal&lt;/a&gt; or &lt;a href=&quot;https://shopify.com&quot;&gt;Shopify&lt;/a&gt;. I love working on these platforms because it gives my clients with limited technical expertise the ability to update and manage their own websites.
 However, I do have the technical experience to update/edit my personal website without any admin interface or user dashboard. I wanted a lean publishing platform that would allow for me push changes and manage a blog with ease – that’s why I chose Jekyll!&lt;/p&gt;
 
@@ -684,92 +743,4 @@ For my first few months freelancing, I didn’t do the tax math when providing q
 
 &lt;h2 id=&quot;2-open-svg-icon-in-text-editor&quot;&gt;2. Open SVG icon in text editor&lt;/h2&gt;
 &lt;p&gt;In this tutorial I’m using brackets. Here you can see the code of the icon. Now we’ve got something we can apply some CSS animations to!
-SVG code always looks intimidating, but noticed that all the IDs are the layers we named when we were in Adobe Illustrator.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="CSS animation" /><category term="SVG animation" /><category term="icons" /><summary type="html">One of my favorite things to incorporate into any web project is animation. Particularly CSS &amp;amp; SVG animations because they are lightweight, retina-level crisp &amp;amp; do not require adding complicated javascript libraries to your website. CSS &amp;amp; SVG animations combine the creative elements of design and the technical elements of development. As a designer and developer I love that. Dabbling with CSS &amp;amp; SVG animations as a developer (or designer) is a great introduction to going beyond basic HTML and CSS. Today I’m going to show you how to animate an instagram icon. You can use these same principles to animate any social media icon. This icon animation is featured on trevblake.com , a portfolio site I made for my good friend &amp;amp; hard-working creative, Trevor Blake.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/17-06-29/icon_Cover.gif" /></entry><entry><title type="html">How to Make a Flat Design Animated Button</title><link href="http://localhost:4000/writing/How-To-Make-a-Flat-Design-Animated-Button" rel="alternate" type="text/html" title="How to Make a Flat Design Animated Button" /><published>2017-06-23T00:00:00-04:00</published><updated>2017-06-23T00:00:00-04:00</updated><id>http://localhost:4000/writing/How-To-Make-a-Flat-Design-Animated-Button</id><content type="html" xml:base="http://localhost:4000/writing/How-To-Make-a-Flat-Design-Animated-Button">&lt;blockquote&gt;
-  &lt;p&gt;Flat design has been on trend in the web design world for quite some time. &lt;a href=&quot;https://www.creativebloq.com/graphic-design/what-flat-design-3132112&quot;&gt;Flat design&lt;/a&gt; uses a minimum amount of stylistic elements. There are no gradients, drop shadows or texture. But that doesn’t mean there’s no animation. A flat design button deserves some movement! In this tutorial, I will show you how to animate a flat design 3D button. I’ve seen this particular button on many &lt;a href=&quot;http://www.thingofwonder.com/&quot;&gt;sites&lt;/a&gt; I admire, but I couldn’t find a codepen or jsfiddle replicating it. So I owed it to the internet to make my &lt;a href=&quot;https://codepen.io/adskinner/pen/OgjvJX&quot;&gt;own&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/17-06-23/smash_button.gif&quot; alt=&quot;animated flat design button&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;First let’s style the button. No 3D or hover effects yet…let’s just make a plain ol’ button&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;a {
-/*Button Text Style*/
-font-family:'Inconsolata', 'Helvetica', 'Arial', sans-serif;
-font-size: inherit;
-text-align: center;
-font-weight: bold;
-letter-spacing: 3px;
-text-transform: uppercase;
-text-decoration:none;
-/*Button Color &amp;amp; Border*/
-border: 4px solid #3C14D0 ;
-color: #3C14D0;
-background: #fff;
-outline: none;
-/*Position, Display, Size*/
-position: relative;
-display: inline-block;
-padding: 15px 10px 14px;
-cursor: pointer;
-width: auto;
-}&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Result&lt;/strong&gt;
-&lt;img src=&quot;../assets/img/writing/17-06-23/step1.png&quot; alt=&quot;flat design button&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Let’s make the button look 3D. We’ll achieve this by styling a:after. You can style the :before and :after of any HTML element.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/17-06-23/inspect_button.png&quot; alt=&quot;inspect element of button code&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;a:after {
-/*Make a:after be as big as button*/
-position: absolute;
-width: 100%;
-height: 100%;
-/Give a:after Border &amp;amp; Background color/
-border: 2px solid #3C14D0;
-background-color: #3C14D0;
-/*Decide Location of a:after..this gives a bottom right shadow*/
-left: 4px;
-top: 4px;
-/Place a:after behind button/
-z-index: -1
-content: '';
-/*Animation/Transition Speed*/
--webkit-transition: all 0.5s;
--moz-transition: all 0.5s;
--o-transition: all 0.5s; }&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Result&lt;/strong&gt;
-&lt;img src=&quot;../assets/img/writing/17-06-23/step2.png&quot; alt=&quot;flat design button with 3D edge&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Let’s add the hover animation! We want it to feel like we are pressing the button. Or smashing it.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;a:hover {
-top:2px;
-left:2px;
-}&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;This brings the top part of the button with text a little down and a little to the right because top:2px means 2px away from the top and left: 2px means 2px away from the left. Aka down and right.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;a:hover:after {
-top:-2px;
-left:-2px;
-}&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;This brings the background blue rectangle up and right. If top:2px brings the button down 2px then top: -2px brings the background blue rectangle up 2px. Also, a:hover:after means when you hover on a link, this is what happens to the :after part. It’s micromanaging the hover of a link to a specific part.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Now you’ve got a really cool button.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Result&lt;/strong&gt;
-&lt;img src=&quot;../assets/img/writing/17-06-23/animated_button3.gif&quot; alt=&quot;animated flat design button&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Checkout my &lt;a href=&quot;https://codepen.io/adskinner/pen/OgjvJX&quot;&gt;CodePen&lt;/a&gt; of my flat design 3D button animation.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="CSS animation" /><category term="flat design" /><summary type="html">Flat design has been on trend in the web design world for quite some time. Flat design uses a minimum amount of stylistic elements. There are no gradients, drop shadows or texture. But that doesn’t mean there’s no animation. A flat design button deserves some movement! In this tutorial, I will show you how to animate a flat design 3D button. I’ve seen this particular button on many sites I admire, but I couldn’t find a codepen or jsfiddle replicating it. So I owed it to the internet to make my own.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/17-06-23/smash_button.gif" /></entry></feed>
+SVG code always looks intimidating, but noticed that all the IDs are the layers we named when we were in Adobe Illustrator.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="CSS animation" /><category term="SVG animation" /><category term="icons" /><summary type="html">One of my favorite things to incorporate into any web project is animation. Particularly CSS &amp;amp; SVG animations because they are lightweight, retina-level crisp &amp;amp; do not require adding complicated javascript libraries to your website. CSS &amp;amp; SVG animations combine the creative elements of design and the technical elements of development. As a designer and developer I love that. Dabbling with CSS &amp;amp; SVG animations as a developer (or designer) is a great introduction to going beyond basic HTML and CSS. Today I’m going to show you how to animate an instagram icon. You can use these same principles to animate any social media icon. This icon animation is featured on trevblake.com , a portfolio site I made for my good friend &amp;amp; hard-working creative, Trevor Blake.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/writing/17-06-29/icon_Cover.gif" /></entry></feed>
