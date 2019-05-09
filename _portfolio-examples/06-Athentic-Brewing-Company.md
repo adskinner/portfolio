@@ -53,7 +53,7 @@ The crowdfunding takes place directly on the Athentic website, with multiple tie
 
 ![Athentic Brewing Company crowdfunding][9]
 
-My work will likely never end with the Athentic website because the website will grow as the the business grows! I'm grateful that I can be part of my father's lifelong dream of opening a brewery! Please visit [Athentic Brewing](https://athenticbrewing.com) to learn more about the brewery coming to the normaltown neighborhood of Athents, Ga. 
+My work will likely never end with the Athentic website because the website will grow as the the business grows! I'm grateful that I can be part of my father's lifelong dream of opening a brewery! Please visit [Athentic Brewing](https://athenticbrewing.com) to learn more about the brewery coming to the normaltown neighborhood of Athents, Ga.
 
 [1]: ../assets/img/portfolio/athentic/athentic-homeScreen.gif
 [2]: ../assets/img/portfolio/athentic/home-mobile.jpg

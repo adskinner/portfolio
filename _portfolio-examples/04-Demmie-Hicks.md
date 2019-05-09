@@ -8,7 +8,7 @@ image: "portfolio/demmie-hicks/dh-home.jpg"
 description: "Demmie Hicks is a consultant for executive leaders; guiding them through complexities such as mergers and acquisitions, managing employees and insurance. Demmie Hicks needed a website that captured her energy as a consultant: professional and welcoming. Demmie Hicks' website has a cohesive design that's inspired by nature. This was achieved through custom logo design, photography and web design."
 ---
 
->For Demmie Hicks' consulting website, I had the priviledge to collaborate with other independent professionals in my network for logo design and photography.
+>For Demmie Hicks' consulting website, I had the privilege to collaborate with other independent professionals in my network for logo design and photography.
 
 [Meredith Elder](https://meredithelder.com/) provided the logo design for Demmie Hicks.
 
@@ -37,7 +37,7 @@ Demmie Hicks' establishes herself as an expert on her website through her blog. 
 
 ![Demmie Hicks blog][6]
 
-Working with Demmie Hicks was unique and rewarding experience because she is a professional that is concerned about the *heart* of everything. She wanted the website to capture her *energy* above all else, and I was proud to deliver that for her. 
+Working with Demmie Hicks was unique and rewarding experience because she is a professional that is concerned about the *heart* of everything. She wanted the website to capture her *energy* above all else, and I was proud to deliver that for her.
 
 ![Demmie Hicks blog post latop and mobile][7]
 
