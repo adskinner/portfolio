@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>files</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-panel-2" transform="translate(-737.000000, -757.000000)">
+            <g id="services" transform="translate(737.000000, 231.000000)">
+                <g id="files" transform="translate(0.000000, 526.000000)">
+                    <circle id="Oval" fill="#EEEEEE" cx="37.5" cy="37.5" r="37.5"></circle>
+                    <path d="M24.246401,22.8729241 C24.1644152,22.8666904 24.0822224,22.8635702 24,22.8635702 C22.2050746,22.8635702 20.75,24.3186447 20.75,26.1135702 L20.75,54 C20.75,55.7949254 22.2050746,57.25 24,57.25 L45.9044662,57.25 C45.9663664,57.25 46.028254,57.2482316 46.0900532,57.2446968 C47.8820498,57.1421999 49.2516599,55.6064096 49.149163,53.814413 L47.6428526,27.4789475 C47.5498692,25.8532793 46.2681955,24.5473412 44.6445568,24.4238885 L24.246401,22.8729241 Z" id="Rectangle" stroke="#4A4A4A" stroke-width="1.5" fill="#FFFFFF"></path>
+                    <g id="top-page" transform="translate(24.000000, 18.000000)" stroke="#4A4A4A" stroke-width="1.5">
+                        <path d="M4,0.75 C2.20507456,0.75 0.75,2.20507456 0.75,4 L0.75,32 C0.75,33.7949254 2.20507456,35.25 4,35.25 L27,35.25 C28.7949254,35.25 30.25,33.7949254 30.25,32 L30.25,4 C30.25,2.20507456 28.7949254,0.75 27,0.75 L4,0.75 Z" id="Rectangle" fill="#FFFFFF"></path>
+                        <path d="M5,9.5 L26,9.5" id="Line-7" stroke-linecap="round"></path>
+                        <path d="M5,15.0774648 L26,15.0774648" id="Line-7" stroke-linecap="round"></path>
+                        <path d="M5,20.6549296 L26,20.6549296" id="Line-7" stroke-linecap="round"></path>
+                        <path d="M5,26.2323944 L26,26.2323944" id="Line-7" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

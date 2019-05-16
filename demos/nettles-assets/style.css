@@ -1,0 +1,230 @@
+
+body {
+  margin: 0;
+  font-size: 16px;
+  background: #EFF9FF;
+  font-family: acumin-pro, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.panel-wrap {
+  flex-direction: row;
+  flex-wrap: wrap;
+  display: flex;
+  z-index: 1;
+  position: relative;
+  height: 100%
+}
+.left-panel {
+  width: 33.3%;
+  overflow-y: auto;
+  height: 100%;
+  position: fixed;
+  background: #0C164F;
+}
+.left-panel .wrap {
+  padding: 1em 2em;
+}
+
+main {
+  width: 66.7%;
+  margin-left: 33.3%;
+  height: 100%;
+  background: #EFF9FF;
+}
+.wrapper {
+  max-width: 550px;
+  margin: 0 auto;
+  /*padding: 0 1em;*/
+}
+/*buttons*/
+.btn {
+  padding: 15px 20px 15px 20px;
+  border-radius: 5px;
+  text-decoration:none;
+  font-size: 1.1em;
+}
+.btn-primary {
+  background: #EC4A4C;
+  color: #fff;
+}
+.btn-primary:hover, .btn-primary:focus {
+  background: #DC373A;
+}
+/*typography*/
+p.lead {
+  color: #0C164F;
+  font-size: 1.875em;
+  font-family: poynter-oldstyle-display, serif;
+  font-weight: 600;
+  font-style: normal;
+}
+p.large {
+  font-size: 1.25em;
+}
+h2 {
+  font-size:3.125em;
+  font-family: poynter-oldstyle-display,serif;
+  font-weight: 700;
+  font-style: normal;
+  color:#0C164F;
+}
+h3 {
+  font-size: 1.375em;
+  font-family: acumin-pro, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #4a4a4a;
+}
+a.link-lg {
+  font-size: 1.375em;
+  border-bottom: 1px solid #FFCF91;
+  text-decoration: none;
+  color: #0C164F;
+}
+a.link-lg:hover, a.link-lg:focus {
+  border-bottom: none;
+}
+/*main menu*/
+.site-header{
+  padding: 2em 0;
+}
+.site-header a {
+  color: #0C164F;
+  text-transform: uppercase;
+  border-bottom: 2px solid #FFCF91;
+  text-decoration:none;
+  margin: 1em 1em 0 1em;
+  font-family: acumin-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.site-header a:hover, .site-header a:focus {
+  border-bottom:none;
+}
+/*left panel content */
+.logo-placeholder {
+  width: 125px;
+  height: 125px;
+  background: #fff;
+  border-radius: 100%;
+  margin-bottom: 1.5em;
+}
+.left-panel h1 {
+  color: #fff;
+  font-size: 3.75em;
+  margin: 0 0 0.75em 0;
+  font-family: poynter-oldstyle-display,serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.1;
+}
+.left-panel p.subheading {
+  color: #fff;
+  text-transform:uppercase;
+  letter-spacing: 1.5px;
+  font-family: acumin-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-bottom: 0;
+}
+/*main content*/
+.intro-text p {
+  font-size: 1.375em;
+}
+.intro-text p.lead {
+  font-size: 1.875em;
+}
+ul.services {
+  list-style:none;
+  padding-inline-start: 0;
+  float:left;
+  margin-bottom: 1.5em;
+}
+ul.services .icon {
+  /*width: 75px;
+  height: 75px;
+  background: #eee;
+  border-radius: 100px;*/
+  float:left;
+  margin-right: 1.5em;
+}
+ul.services .service-content {
+  float: left;
+  width: calc(100% - 100px);
+}
+ul.services .service-content h3 {
+  margin: 0;
+}
+ul.services .service-content p {
+  margin: 0;
+}
+ul.services li {
+  width: 100%;
+  float:left;
+  padding-bottom: 2.5em;
+}
+.affiliations {
+  margin-bottom: 3em;
+  width: 100%;
+  float:left;
+
+}
+.affiliations ul {
+  list-style: none;
+  padding-inline-start: 0;
+}
+.affiliations ul li {
+  margin-bottom: 1.5em;
+}
+.testimonial {
+  padding: 2em 0 1em 0;
+}
+
+.testimonial p {
+  font-size: 1.25em;
+}
+.testimonial span.author {
+  font-size: 1.25em;
+  font-family: acumin-pro, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.testimonial span.position {
+  font-size: 1em;
+}
+.testimonial span.company {
+  font-size: 1em;
+  font-style:italic;
+}
+/*form*/
+.contact h2 {
+  margin-bottom: 0;
+}
+input {
+  width: 100%;
+  height: 65px;
+  padding: 0.5em;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  margin-bottom: 1.5em;
+  font-size: 1em;
+}
+input[type=textarea] {
+  height: 200px;
+}
+input[type=submit] {
+  -webkit-appearance:none;
+  background: #EC4A4C;
+  border-color: #EC4A4C;
+  color: #fff;
+  font-size: 1em;
+  height: 60px;
+}
+input[type=submit]:hover, input[type=submit]:focus {
+
+}
+label {
+  font-size: 1em;
+}

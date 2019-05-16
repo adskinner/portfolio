@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>workflow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-panel-2" transform="translate(-739.000000, -622.000000)">
+            <g id="services" transform="translate(737.000000, 231.000000)">
+                <g id="workflow" transform="translate(2.000000, 391.000000)">
+                    <circle id="Oval" fill="#EEEEEE" cx="37.5" cy="37.5" r="37.5"></circle>
+                    <path d="M40.1951964,34.4660336 L34.6383527,28.0339664" id="Line-6" stroke="#4A4A4A" stroke-width="1.5" stroke-linecap="square" transform="translate(37.416775, 31.250000) rotate(220.824658) translate(-37.416775, -31.250000) "></path>
+                    <path d="M25.9833621,44.4660336 L20.4265184,38.0339664" id="Line-6" stroke="#4A4A4A" stroke-width="1.5" stroke-linecap="square" transform="translate(23.204940, 41.250000) rotate(220.824658) translate(-23.204940, -41.250000) "></path>
+                    <path d="M46.3524487,47.039199 L28.0475513,25.8512135" id="Line-6" stroke="#4A4A4A" stroke-width="1.5" stroke-linecap="square" transform="translate(37.200000, 36.445206) rotate(130.824658) translate(-37.200000, -36.445206) "></path>
+                    <circle id="Oval" stroke="#4A4A4A" stroke-width="1.5" fill="#FFFFFF" cx="37.0312864" cy="21" r="5"></circle>
+                    <circle id="Oval" stroke="#4A4A4A" stroke-width="1.5" fill="#FFFFFF" cx="23" cy="50" r="4"></circle>
+                    <path d="M53.966386,45.0090594 L48.4095423,38.5769923" id="Line-6" stroke="#4A4A4A" stroke-width="1.5" stroke-linecap="square" transform="translate(51.187964, 41.793026) rotate(220.824658) translate(-51.187964, -41.793026) "></path>
+                    <circle id="Oval" stroke="#4A4A4A" stroke-width="1.5" fill="#FFFFFF" cx="51" cy="50" r="4"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
