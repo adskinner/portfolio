@@ -40,7 +40,7 @@ main {
 }
 /*buttons*/
 .btn {
-  padding: 15px 20px 15px 20px;
+  padding: 15px 20px 17px 20px;
   border-radius: 5px;
   text-decoration:none;
   font-size: 1.1em;
@@ -95,10 +95,14 @@ a.link-lg:hover, a.link-lg:focus {
   text-transform: uppercase;
   border-bottom: 2px solid #FFCF91;
   text-decoration:none;
-  margin: 1em 1em 0 1em;
+  margin: 1em 1.3em 0 1.3em;
   font-family: acumin-pro, sans-serif;
   font-weight: 400;
   font-style: normal;
+  font-size: 0.95em;
+}
+.site-header a:first-child {
+  margin-left: 0;
 }
 .site-header a:hover, .site-header a:focus {
   border-bottom:none;
@@ -127,7 +131,8 @@ a.link-lg:hover, a.link-lg:focus {
   font-family: acumin-pro, sans-serif;
   font-weight: 400;
   font-style: normal;
-  margin-bottom: 0;
+  margin-bottom: 0.35em;
+  margin-top:2.5em;
 }
 /*main content*/
 .intro-text p {
