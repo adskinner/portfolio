@@ -25,7 +25,7 @@ I've also included a color-coded ledger for the house status (available, sold, u
 
 ![The Georgia Club Real Estate available homes main][3]
 
-The individual available home pages features a wealth of information for prosepctive buyers. At the top is the street address, price and main exterior image.
+The individual available home pages features a wealth of information for prospective buyers. At the top is the street address, price and main exterior image.
 
 Then there is a grid of important information that shouldn't be lost in a paragraph of text, such as bedrooms, bathrooms, location, square feet, house status, etc.
 
