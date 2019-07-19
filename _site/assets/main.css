@@ -2355,3 +2355,8 @@ a.return-black:before {
 
 .work .progress-container, .portfolio .progress-container {
   background: #FFDBFF; }
+
+.A-Lamar_Dodd_School_of_Art2 .post img:first-child {
+  -webkit-box-shadow: 1px 3px 12px 0px #a8a8a8;
+  -moz-box-shadow: 1px 3px 12px 0px #a8a8a8;
+  box-shadow: 1px 3px 12px 0px #a8a8a8; }

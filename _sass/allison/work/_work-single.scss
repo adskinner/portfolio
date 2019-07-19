@@ -111,3 +111,9 @@ a.return-black:before {
 .work .progress-container, .portfolio .progress-container {
   background: $pink;
 }
+
+.A-Lamar_Dodd_School_of_Art2 .post img:first-child {
+  -webkit-box-shadow: 1px 3px 12px 0px rgba(168,168,168,1);
+-moz-box-shadow: 1px 3px 12px 0px rgba(168,168,168,1);
+box-shadow: 1px 3px 12px 0px rgba(168,168,168,1);
+}
