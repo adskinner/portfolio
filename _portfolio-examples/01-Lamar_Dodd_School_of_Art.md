@@ -77,17 +77,17 @@ Every element of the Lamar Dodd School of Art website is mobile-friendly. Studen
 The Lamar Dodd website features a continuous design throughout that includes large visuals, gradients and bold typography.
 
 
-[1]: ../assets/img/portfolio/ld/home.png
-[2]: ../assets/img/portfolio/ld/home-mobile.png
-[3]: ../assets/img/portfolio/ld/recent-news.png
-[4]: ../assets/img/portfolio/ld/news-mobile.png
-[5]: ../assets/img/portfolio/ld/news-story.png
-[6]: ../assets/img/portfolio/ld/upcoming-events.png
-[7]: ../assets/img/portfolio/ld/event.png
-[8]: ../assets/img/portfolio/ld/directory.png
-[9]: ../assets/img/portfolio/ld/profile.png
-[10]: ../assets/img/portfolio/ld/profile-mobile.png
-[11]: ../assets/img/portfolio/ld/acad-area.png
-[12]: ../assets/img/portfolio/ld/galleries.png
-[13]: ../assets/img/portfolio/ld/galleries-mobile.png
-[14]:  ../assets/img/portfolio/ld/gallery.png
+[1]: ../assets/img/portfolio/LD/home.png
+[2]: ../assets/img/portfolio/LD/home-mobile.png
+[3]: ../assets/img/portfolio/LD/recent-news.png
+[4]: ../assets/img/portfolio/LD/news-mobile.png
+[5]: ../assets/img/portfolio/LD/news-story.png
+[6]: ../assets/img/portfolio/LD/upcoming-events.png
+[7]: ../assets/img/portfolio/LD/event.png
+[8]: ../assets/img/portfolio/LD/directory.png
+[9]: ../assets/img/portfolio/LD/profile.png
+[10]: ../assets/img/portfolio/LD/profile-mobile.png
+[11]: ../assets/img/portfolio/LD/acad-area.png
+[12]: ../assets/img/portfolio/LD/galleries.png
+[13]: ../assets/img/portfolio/LD/galleries-mobile.png
+[14]:  ../assets/img/portfolio/LD/gallery.png
