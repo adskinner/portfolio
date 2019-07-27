@@ -2097,6 +2097,11 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
       .post a.return:before {
         left: 50px; } }
 
+.midyear-review-19 img {
+  -webkit-box-shadow: 5px 5px 8px 0px rgba(133, 133, 133, 0.43);
+  -moz-box-shadow: 5px 5px 8px 0px rgba(133, 133, 133, 0.43);
+  box-shadow: 5px 5px 8px 0px rgba(133, 133, 133, 0.43); }
+
 .writing .left-panel {
   background: #FFDBFF; }
   @media screen and (max-width: 992px) {
