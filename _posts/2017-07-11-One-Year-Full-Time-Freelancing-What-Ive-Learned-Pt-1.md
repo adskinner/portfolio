@@ -5,7 +5,7 @@ author: "Allison Skinner"
 categories:
   - business
 tags: [freelancing]
-image: "writing/17-07-05/fulltime_freelanceCover.png"
+image: "assets/img/writing/17-07-05/fulltime_freelanceCover.png"
 permalink: /writing/:title
 description: Allison Skinner shares her story on how she started full-time freelancing as a web designer and developer (PART 1)
 redirect_from: "/first-year-fulltime-freelancing.html"

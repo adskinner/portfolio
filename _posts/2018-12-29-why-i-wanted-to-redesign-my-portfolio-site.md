@@ -6,7 +6,7 @@ categories:
   - design
   - business
 tags: [Portfolio Website]
-image: "writing/18-12-29/old-allison-homepage.jpg"
+image: "assets/img/writing/18-12-29/old-allison-homepage.jpg"
 permalink: /writing/:title
 description: Allison Skinner shares why she wanted to redesign her portfolio website for her business Allison Skinner Web Design and Development
 comments: true

@@ -5,7 +5,7 @@ author: "Allison Skinner"
 categories:
   - business
 tags: [taxes]
-image: "writing/19-03-28/taxes.gif"
+image: "assets/img/writing/19-03-28/taxes.gif"
 permalink: /writing/:title
 description: Allison Skinner shares how she saves, prepares and files her taxes as a freelancer for her business, Allison Skinner Web Design and Development.
 comments: true

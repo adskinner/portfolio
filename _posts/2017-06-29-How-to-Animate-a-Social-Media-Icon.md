@@ -5,7 +5,7 @@ author: "Allison Skinner"
 categories:
   - code
 tags: [CSS animation, SVG animation, icons]
-image: "writing/17-06-29/icon_Cover.gif"
+image: "assets/img/writing/17-06-29/icon_Cover.gif"
 permalink: /writing/:title
 description: Learn how to animate a social media icon with CSS & SVG animations
 redirect_from: "/how-to-animate-social-media-icon.html"

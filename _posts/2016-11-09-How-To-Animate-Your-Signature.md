@@ -5,7 +5,7 @@ author: "Allison Skinner"
 categories:
   - code
 tags: [SVG animation]
-image: "writing/16-11-09/signature.jpg"
+image: "assets/img/writing/16-11-09/signature.jpg"
 permalink: /writing/:title
 description: Learn how to animate your signature using SVG and CSS
 redirect_from: "/animate-signature.html"

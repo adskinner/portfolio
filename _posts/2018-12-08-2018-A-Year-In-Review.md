@@ -5,7 +5,7 @@ author: "Allison Skinner"
 categories:
   - business
 tags: [2018, Review]
-image: "writing/18-12-08/2018-review.jpg"
+image: "assets/img/writing/18-12-08/2018-review.jpg"
 permalink: /writing/:title
 description: Allison Skinner looks back on 2018 -- from website launches to memorable moments running Allison Skinner Web Design and Development.
 comments: true

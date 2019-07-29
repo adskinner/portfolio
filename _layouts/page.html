@@ -63,7 +63,7 @@ layout: default
             <li>
               {% if post.image %}
                 <a href="{{ post.url | relative_url }}">
-                  <img src="{{ site.baseurl }}/assets/img/{{ post.image }}">
+                  <img src="{{ site.baseurl }}/{{ post.image }}">
                 </a>
               {% endif %}
 

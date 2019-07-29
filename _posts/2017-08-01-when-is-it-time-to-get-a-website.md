@@ -5,7 +5,7 @@ author: "Allison Skinner"
 categories:
   - business
 tags: [websites, website redesign]
-image: "writing/17-09-01/website_cover.jpg"
+image: "assets/img/writing/17-09-01/website_cover.jpg"
 permalink: /writing/when-is-it-time-to-get-a-website
 description: Allison Skinner shares insights for people that are considering getting a website but don't know where to start.
 redirect_from: "/when-is-it-time-to-get-a-website.html"

@@ -5,7 +5,7 @@ author: "Allison Skinner"
 categories:
   - business
 tags: [2019, goals]
-image: "writing/18-12-10/2019.jpg"
+image: "assets/img/writing/18-12-10/2019.jpg"
 permalink: /writing/:title
 description: Allison Skinner shares her goals for 2019.
 comments: true

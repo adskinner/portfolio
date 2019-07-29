@@ -7,7 +7,7 @@ categories:
   - code
   - design
 tags: [freelancing, web designer, web developer, devsigner]
-image: "post1/develop_cover.jpg"
+image: "assets/img/post1/develop_cover.jpg"
 permalink: /writing/:title
 redirect_from: "/benefits-of-being-a-developer-and-designer.html"
 ---

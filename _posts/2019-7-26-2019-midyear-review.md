@@ -5,7 +5,7 @@ author: "Allison Skinner"
 categories:
   - business
 tags: [2019, Review]
-image: "writing/2019-midyear/midyear-2019.gif"
+image: "assets/img/writing/2019-midyear/midyear-2019.gif"
 permalink: /writing/:title
 description: We are now halfway through 2019 -- the work I've done, the books I've read and the places I've gone!
 slug: midyear-review-19

@@ -6,7 +6,7 @@ categories:
   - code
   - design
 tags: [CSS animation, flat design]
-image: "writing/17-06-23/smash_button.gif"
+image: "assets/img/writing/17-06-23/smash_button.gif"
 permalink: /writing/:title
 description: Learn how to make an animated button with a flat design using CSS
 ---
