@@ -1,5 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-29T08:53:28-04:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
-</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">2019: Mid-year Review</title><link href="http://localhost:4000/writing/midyear-review-19" rel="alternate" type="text/html" title="2019: Mid-year Review" /><published>2019-07-26T00:00:00-04:00</published><updated>2019-07-26T00:00:00-04:00</updated><id>http://localhost:4000/writing/midyear-review-19</id><content type="html" xml:base="http://localhost:4000/writing/midyear-review-19">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-18T09:42:10-04:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
+</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">How I built my custom ‘Thank You’ redirection page</title><link href="http://localhost:4000/writing/19-contact-form" rel="alternate" type="text/html" title="How I built my custom 'Thank You' redirection page" /><published>2019-08-16T00:00:00-04:00</published><updated>2019-08-16T00:00:00-04:00</updated><id>http://localhost:4000/writing/19-contact-form</id><content type="html" xml:base="http://localhost:4000/writing/19-contact-form">&lt;iframe height=&quot;605&quot; style=&quot;width: 100%;&quot; scrolling=&quot;no&quot; title=&quot;particles.js demo&quot; src=&quot;//codepen.io/adskinner/embed/drjvZY/?height=605&amp;amp;theme-id=light&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
+  See the Pen &lt;a href=&quot;https://codepen.io/adskinner/pen/drjvZY/&quot;&gt;particles.js demo&lt;/a&gt; by Allison Skinner
+  (&lt;a href=&quot;https://codepen.io/adskinner&quot;&gt;@adskinner&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+&lt;h2 id=&quot;why-redirection-to-a-thank-you-page&quot;&gt;Why Redirection to a Thank You page?&lt;/h2&gt;
+&lt;p&gt;I wanted anyone that fills out my contact form get redirected to a “thank you” page for a few reasons…&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;They know the form submission successfully sent.&lt;/strong&gt; When you fill out a form online and click submit, it’s nice to have confirmation that it has been received. Otherwise you are left wondering if it got sent at all!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Provide a note from myself about next steps.&lt;/strong&gt; On my thank you page I let my leads know that I’ll respond to them in 1-3 business days. This sets the expectation that I will be getting back to them, but it likely won’t happen within the next few minutes or over the weekend.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;It’s always nice to say thank you!&lt;/strong&gt; My mom always made me write thank you notes growing up. As a teenager, it felt like a chore. Now I think it’s an opportunity! I wish I could send written thank you notes to everyone that contacted me, but I can at least dedicate a moment to thanking them on my website. That’s because I am very thankful! The majority of my client relationships start with a contact form submission.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;how-did-i-set-up-the-redirection&quot;&gt;How did I set up the Redirection?&lt;/h2&gt;
+&lt;p&gt;Since I built my site on Jekyll, a static site generator, I had to use a third party to handle my contact form submissions. I chose &lt;a href=&quot;https://www.formbucket.com/&quot;&gt;Form Bucket&lt;/a&gt; because it was customizable at a developer level, dependable and had spam protection.
+In the form settings, there is an option for a ‘custom redirect’, I provided the thank you page URL in this field.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-did-i-do-the-animation&quot;&gt;How did I do the animation?&lt;/h2&gt;
+
+&lt;p&gt;The animated stars is achieved through particles.js, a javascript library for animating “particles” (or other objects like stars!).
+I used particles.js on the Athentic Brewing Company’s homepage as well. The effect is like bubbles coming up in a glass.&lt;/p&gt;
+
+&lt;p&gt;Particles.js is very easy to use.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;First, I use the handy simulator on the &lt;a href=&quot;https://vincentgarreau.com/particles.js/&quot;&gt;particles.js&lt;/a&gt; website to decide the type of animation I want.
+You can decide shape, direction, speed, density, color, etc. Play around and decide what you’d like.
+&lt;img src=&quot;../assets/img/writing/19-3-19/screenshot1.jpg&quot; alt=&quot;Particles.js simulator&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Then click the “codepen” button in the top right corner. This will create a code pen with your custom parameters.
+&lt;img src=&quot;../assets/img/writing/19-3-19/screenshot2.jpg&quot; alt=&quot;codepen button on particle.js simulator&quot; /&gt;
+You can adjust your parameters further if you’d like.
+&lt;img src=&quot;../assets/img/writing/19-3-19/screenshot4.png&quot; alt=&quot;screenshot of codepen page&quot; /&gt;
+For example, &lt;strong&gt;if you’d like there to be more than one color for the animated objects, you can create an array like so..&lt;/strong&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;color&quot;: {
+  &quot;value&quot;: [&quot;#5D47BA&quot;,&quot;#FFDBFF&quot;,&quot;#FB5435&quot;,&quot;#E00A30&quot;,&quot;#04CEF9&quot;]
+  },&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The codepen will have you set up for success. If you are going to add the particles.js animation to your site you should add the “custom” js (what’s in the righthand side) as seperate JS file &lt;em&gt;below&lt;/em&gt; your universal particles.min.js file, that way it can pick up your custom parameters.
+This is how it looks on my site…
+&lt;img src=&quot;../assets/img/writing/19-3-19/screenshot3.png&quot; alt=&quot;screenshot of code on my site for particles.js simulator&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Final Result!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;iframe height=&quot;605&quot; style=&quot;width: 100%;&quot; scrolling=&quot;no&quot; title=&quot;particles.js demo&quot; src=&quot;//codepen.io/adskinner/embed/drjvZY/?height=605&amp;amp;theme-id=light&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
+  See the Pen &lt;a href=&quot;https://codepen.io/adskinner/pen/drjvZY/&quot;&gt;particles.js demo&lt;/a&gt; by Allison Skinner
+  (&lt;a href=&quot;https://codepen.io/adskinner&quot;&gt;@adskinner&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;</content><author><name>Allison Skinner</name></author><category term="particles.js" /><category term="contact form" /><summary type="html">See the Pen particles.js demo by Allison Skinner (@adskinner) on CodePen. Why Redirection to a Thank You page? I wanted anyone that fills out my contact form get redirected to a “thank you” page for a few reasons… They know the form submission successfully sent. When you fill out a form online and click submit, it’s nice to have confirmation that it has been received. Otherwise you are left wondering if it got sent at all! Provide a note from myself about next steps. On my thank you page I let my leads know that I’ll respond to them in 1-3 business days. This sets the expectation that I will be getting back to them, but it likely won’t happen within the next few minutes or over the weekend. It’s always nice to say thank you! My mom always made me write thank you notes growing up. As a teenager, it felt like a chore. Now I think it’s an opportunity! I wish I could send written thank you notes to everyone that contacted me, but I can at least dedicate a moment to thanking them on my website. That’s because I am very thankful! The majority of my client relationships start with a contact form submission.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/writing/19-3-19/contact-redirect-wide.gif" /></entry><entry><title type="html">2019: Mid-year Review</title><link href="http://localhost:4000/writing/midyear-review-19" rel="alternate" type="text/html" title="2019: Mid-year Review" /><published>2019-07-26T00:00:00-04:00</published><updated>2019-07-26T00:00:00-04:00</updated><id>http://localhost:4000/writing/midyear-review-19</id><content type="html" xml:base="http://localhost:4000/writing/midyear-review-19">&lt;blockquote&gt;
   &lt;p&gt;We’re already halfway through 2019, crazy right?
 I’m saying that’s “crazy” when really 2019 has been very…chill. And I like it. I like it a LOT.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -782,107 +833,4 @@ It proves that you are capable and credible to run a business—to yourself and 
 &lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
 &lt;p&gt;Being a designer and developer was an easy decision for me because it’s all I know. I have a natural eye for design, while loving the technical challenge of development. At first, I decided to be designer and developer because it felt natural to me, but I soon came to learn that it provides a unique advantage for my clients. My clients also benefit from someone who’s considering functionality, maintenance, performance and interaction from the beginning.&lt;/p&gt;
 
-&lt;p&gt;I design with a developer’s critical eye for functionality and I develop with a designer’s attention to beauty. I wouldn’t have it any other way.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="freelancing" /><category term="web designer" /><category term="web developer" /><category term="devsigner" /><summary type="html">It’s not common for someone to be a designer and a developer. Typically there is a designer and developer for each project. Two separate people with two separate roles.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/post1/develop_cover.jpg" /></entry><entry><title type="html">One Year Full-time Freelancing: What I’ve Learned Pt. 2</title><link href="http://localhost:4000/writing/One-Year-Full-time-Freelancing-What-Ive-Learned-Pt-2" rel="alternate" type="text/html" title="One Year Full-time Freelancing: What I've Learned Pt. 2" /><published>2017-07-11T00:00:00-04:00</published><updated>2017-07-11T00:00:00-04:00</updated><id>http://localhost:4000/writing/One-Year-Full-time-Freelancing-What-Ive-Learned-Pt-2</id><content type="html" xml:base="http://localhost:4000/writing/One-Year-Full-time-Freelancing-What-Ive-Learned-Pt-2">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/17-07-11/ft_freelance2_cover.jpg&quot; alt=&quot;graphic for One Year Full-Time Freelancing: What I've Learned Pt. 2&quot; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Read part one here to learn how I started full-time freelancing and got through the early obstacles of getting clients and managing a cashflow with no steady paycheck.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;months-6-12-ive-got-plenty-of-work-now-what&quot;&gt;Months 6-12: I’ve got plenty of work. Now what?&lt;/h2&gt;
-&lt;p&gt;By Feburary 2017, the model of my business shifted. Prospective clients found me and wanted help with their businesses. I didn’t find them and show up on their doorstep.&lt;/p&gt;
-
-&lt;p&gt;My inbox was full of businesses who needed websites! Woohoo.&lt;/p&gt;
-
-&lt;p&gt;I jumped at every opportunity because I finally had the chance to make steady money. I started to buy groceries regularly and I paid off almost all of my debt.&lt;/p&gt;
-
-&lt;p&gt;However, once I got steady work and steady clients, I realized that a one-woman business can only take on so much work. There are only so many hours in a day! Also, I learned that not every client and every project is ideal for my business. I decided it was time to focus my business goals.&lt;/p&gt;
-
-&lt;p&gt;I want to make amazing websites for dream clients, get a following, meet people in the industry, learn a whole lot and travel abroad for at least one month.&lt;/p&gt;
-
-&lt;h2 id=&quot;going-forward-goals-for-full-time-freelancing&quot;&gt;Going Forward: Goals for Full-Time Freelancing&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Amazing Websites for Dream Clients&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Every freelancer should know exactly what types of businesses are their dream clients. Even better, a freelancer should have a list of specific businesses that fit this criteria.&lt;/p&gt;
-
-&lt;p&gt;My Dream Client Is:&lt;/p&gt;
-
-&lt;p&gt;A business that wants a creative &amp;amp; innovative website.
-A business that knows a unique &amp;amp; well-functioning website is an investment and is willing to pay for that type of investment.
-A business that is run by good, genuine people.
-Does the above sound like you? Cool! &lt;a href=&quot;/contact&quot;&gt;Let’s talk&lt;/a&gt; :)&lt;/p&gt;
-
-&lt;p&gt;I want to devote my limited time to clients that I am passionate about. I want to create dynamic, innovative websites that push the boundaries in design and development. Many businesses want a simple, no-frills website to get their information online. That makes sense for many businesses starting out. I want to be the designer and developer for businesses that want the website of their dreams.&lt;/p&gt;
-
-&lt;h2 id=&quot;1000-true-fans&quot;&gt;1,000 True Fans&lt;/h2&gt;
-&lt;p&gt;The &lt;a href=&quot;https://kk.org/thetechnium/1000-true-fans/&quot;&gt;1,000 True Fans theory&lt;/a&gt;, proposed by &lt;a href=&quot;https://kk.org/&quot;&gt;Kevin Kelly&lt;/a&gt; in his popular 2008 article “1,000 True Fans”, is the idea that you really only need 1,000 true fans, or “super fans”, to be successful.&lt;/p&gt;
-
-&lt;p&gt;A true fan, by Kevin Kelly’s definition, is someone who will buy any product of yours. They will buy your book in hardback and audio, they will travel a hundred miles to see you speak or perform, they will fund your kickstarter campaign.&lt;/p&gt;
-
-&lt;p&gt;If you had 1,000 true fans that would spend $100 on your products/services in a year, then you could make $100,000 just off your true fans. That’s a more than livable income!&lt;/p&gt;
-
-&lt;p&gt;For every true fan, it’s typical to have a two or three regular fans. A regular fan follows your work, but may only occasionally buy a product of yours. Let’s say you have 1,000 true fans and 2,000 regular fans. A true fan spends $100 on your products each year, but a regular fan only spends $30. With 2,000 regular fans spending $30 per year, you’d make $60,000 in addition to the $100,000 from your true fans. Making $160,000 is an achievable goal and gives you a good quality of life.&lt;/p&gt;
-
-&lt;p&gt;My goal for the next year is to work towards gaining my 1,000 true fans. I don’t have any products for sale yet, I only provide my services as a web designer and developer. I want to sell a product, or products, in the future, either through my web design and development skills or possibly through a side business. But I don’t want to sell anything until I grow my fan base.&lt;/p&gt;
-
-&lt;p&gt;The 1,000 true fans goal may sound a bit profit &amp;amp; numbers focused, but that’s not the main drive for me. The main drive for me is that I want to use my business and brand to connect with people. I am a true fan of many entrepreneurs, freelancers &amp;amp; creators. My relationship with their work, products, and them personally is more important than my relationship with any corporation. When I buy deodorant from CVS it’s not a true fan moment. When you buy a product as a true fan, it’s so much more than exchanging money for goods. You feel like you’re a part of something, you feel connected to that creator! You want to personally thank the creator for making such a great product and then tell everyone about it. I want that for my business.&lt;/p&gt;
-
-&lt;h2 id=&quot;meet-people-in-the-industry-irl&quot;&gt;Meet People in the industry IRL&lt;/h2&gt;
-&lt;p&gt;I went to my first &lt;a href=&quot;https://www.fourathens.com/&quot;&gt;Four Athens&lt;/a&gt; tech industry Happy Hour last week. I’ve been freelancing as a designer and developer for a whole year, and only last week did I go to a tech happy hour in my hometown. It was a five minute walk from my apartment! And everyone was super nice! Why did it take me so long??&lt;/p&gt;
-
-&lt;p&gt;I’m so glad I went because I actually got to meet and talk with people in real life. As someone who works from home (#wfh life) and runs an online business, it’s become hard for me to leave my house. Going to the post office once a week becomes this looming event that I keep pushing off til the next day.&lt;/p&gt;
-
-&lt;p&gt;I realized two things when I went to my first tech meetup.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;The true way to gain fans &amp;amp; grow a network is through personal, real-life connections&lt;/strong&gt;
-I can tweet all day. I can like &amp;amp; favorite people’s posts. But the way to really gain a presence in the tech industry is to actually be physically present.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I want to start small &amp;amp; local through Four Athens.
-Then branch into Atlanta tech meetups.
-And then start going to at least one or two tech conferences each year.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Don’t let imposter syndrome stop you&lt;/strong&gt;
-I have imposter syndrome, and I want to be more comfortable about it. Imposter syndrome is when you work in an industry but feel like you don’t belong because you don’t think you are as talented as everyone else.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I’m a female journalism major that took a few coding classes in college. I’m a front end developer from a small town in the south. I’m 24 years old.&lt;/p&gt;
-
-&lt;p&gt;These are all things that make me feel teeny tiny compared to the tech bros that have CS majors and have worked for major tech companies on the west coast. Imposter syndrome makes me not want to attend meetups because I’m afraid someone will ask me a question about programming and I won’t know what they are talking about. Then it’ll be obvious that I don’t belong there.&lt;/p&gt;
-
-&lt;p&gt;Thankfully, imposter syndrome is now recognized as a real issue in the tech industry. Experienced developers and designers that I look up to are speaking about their own issues with imposter syndrome (example 1, 2 ,3). They are making a point to make everyone feel like they belong.&lt;/p&gt;
-
-&lt;p&gt;I clutch to these kind, inspiring words when I enter networking events now. &lt;em&gt;I do belong in this industry. I am talented. It’s okay to feel uncomfortable. It’s okay that I don’t know everything.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;youve-still-have-got-a-lot-to-learn-so-put-real-time-towards-towards-learning-things-deeply&quot;&gt;You’ve still have got a lot to learn. So put real time towards towards learning things deeply.&lt;/h2&gt;
-&lt;p&gt;Last January, I bought a &lt;a href=&quot;http://eloquentjavascript.net/&quot;&gt;textbook&lt;/a&gt; on JavaScript. One of my top New Year’s Resolutions was ‘learn JavaScript deeply’.&lt;/p&gt;
-
-&lt;p&gt;The textbook has sat, untouched, on my desk for almost seven months. I use custom JavaScript &amp;amp; jQuery on many projects. I write successful code through a myriad of Stack Overflow forums, JSfiddles &amp;amp; tutorials. What I have in the end works, but I wouldn’t say I deeply understand JavaScript &amp;amp; jQuery.&lt;/p&gt;
-
-&lt;p&gt;In the last year, I’ve learned that freelancing is not just full-time billable hours of deep work. You also have to run a business (finances &amp;amp; communication) and you have to market your business (blogging &amp;amp; social media). The fourth component that I’m realizing needs dedicated time is education. I need to continue learning to improve my work. Improving my work improves my credibility, which improves my marketing.&lt;/p&gt;
-
-&lt;p&gt;I learn everyday on the job. Fixing problems &amp;amp; finding solutions is the crux of a developer’s job.&lt;/p&gt;
-
-&lt;p&gt;However, I’m having a challenging time learning on-the-go when it involves a programming language that I don’t have deep knowledge or experience in. That’s where I want to take a step back and really learn. It’s fascinating how I’ve gone through 20 years of schooling, I have a college degree, and I’ve only scratched the surface on what I will learn.&lt;/p&gt;
-
-&lt;h2 id=&quot;travel-and-work-abroad-for-at-least-one-month&quot;&gt;Travel and work abroad for at least one month&lt;/h2&gt;
-&lt;p&gt;One of the main reasons why I decided to go full-time freelancing is because of the flexibility it provides for vacation time and working remotely. Some freelancers are “digital nomads” that live and work abroad year-round.&lt;/p&gt;
-
-&lt;p&gt;I don’t plan to work abroad full-time, but I’d like to at least go abroad for a month, possibly two months in 2018. I haven’t had many opportunities to travel in the past year because initially I couldn’t afford to travel and lately I’ve been focused on paying off debt.&lt;/p&gt;
-
-&lt;p&gt;This month, July 2017, will be the first month I start regularly saving money (!!!), so I hope working abroad will be achievable in the upcoming year.&lt;/p&gt;
-
-&lt;p&gt;Right now, I’m hoping to live and work in Barcelona — I’ve never been to Europe and I’d love to put my Spanish minor to use :) .&lt;/p&gt;
-
-&lt;p&gt;I’m planning on getting a two bedroom Airbnb for my stay there, so hopefully friends and family can come visit.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;This concludes my series on “My First Year Full-Tim Freelancing”. This year has been emotional, challenging and rewarding. I thought fulltime freelancing was only possible for professionals that had many years of experience and a large network. I didn’t think it was possible for a 23 year old journalism graduate living in a small southern town to bootstrap her way to running a successful web design and development business. I had no money or clients starting out, but tenacity and the desire to deliver excellent work.&lt;/p&gt;
-
-&lt;p&gt;Do you have a passion that you wish would replace your “real” job? Do you want to freelance, but are scared of not having a steady paycheck?&lt;/p&gt;
-
-&lt;p&gt;Freelancing may not be for everyone, but I believe it’s an opportunity that is well-suited for those that want ownership of their lives.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions on freelancing or running an online business, don’t hesitate to email me. I’d love to hear from you!&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="freelancing" /><category term="goals" /><summary type="html">Read part one here to learn how I started full-time freelancing and got through the early obstacles of getting clients and managing a cashflow with no steady paycheck.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/writing/17-07-11/ft_freelance2_cover.jpg" /></entry></feed>
+&lt;p&gt;I design with a developer’s critical eye for functionality and I develop with a designer’s attention to beauty. I wouldn’t have it any other way.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="freelancing" /><category term="web designer" /><category term="web developer" /><category term="devsigner" /><summary type="html">It’s not common for someone to be a designer and a developer. Typically there is a designer and developer for each project. Two separate people with two separate roles.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/post1/develop_cover.jpg" /></entry></feed>

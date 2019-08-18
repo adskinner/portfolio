@@ -5,6 +5,7 @@ author: "Allison Skinner"
 categories:
   - code
 tags: [particles.js , contact form]
+image: "assets/img/writing/19-3-19/contact-redirect-wide.gif"
 permalink: /writing/:title
 description: A great way to track your leads and give
 ---
@@ -46,6 +47,14 @@ For example, **if you'd like there to be more than one color for the animated ob
 3. The codepen will have you set up for success. If you are going to add the particles.js animation to your site you should add the "custom" js (what's in the righthand side) as seperate JS file *below* your universal particles.min.js file, that way it can pick up your custom parameters.
 This is how it looks on my site...
 ![screenshot of code on my site for particles.js simulator][4]
+
+4. Final Result!
+<iframe height="605" style="width: 100%;" scrolling="no" title="particles.js demo" src="//codepen.io/adskinner/embed/drjvZY/?height=605&theme-id=light&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/adskinner/pen/drjvZY/'>particles.js demo</a> by Allison Skinner
+  (<a href='https://codepen.io/adskinner'>@adskinner</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+
 
 [1]:../assets/img/writing/19-3-19/screenshot1.jpg
 [2]:../assets/img/writing/19-3-19/screenshot2.jpg
