@@ -19,7 +19,7 @@ I thought this would be one post, but then it got very long — so I’ve broken
 
 I should start by saying that I do not consider myself an SEO expert. There are agencies and professionals that do SEO full-time.
 
-However, I do consider myself SEO smart.
+However, I do consider myself SEO *smart*.
 
 I focus on organic (aka FREE) search growth for my clients. I do this through on-page SEO optimization. I then equip my clients with advice and tools to continue their SEO growth.
 
@@ -54,7 +54,7 @@ What determines the haves and have nots? That’s what I’ll be breaking down t
   - In these cases, I suggest that you focus on long tail keywords or niche keywords for better rankings. For example, your pillow website might have a better chance ranking for “indigo dyed pillows” or “organic linen pillows”
   - I also recommend that small online shops focus on social media to grow their brand and followers. You’re more likely to get someone to visit your pillow website from your instagram account than someone finding your pillow website on page 7 of google search results for “decorative pillows”.
 ### Have a lot of similar competition
-  - The more saturated a market is, the more difficult it is to rank on google search results. Going back to my veterinarian example…if there are only 5 vet clinics in Athens, GA, your vet clinic is likely to rank well, but if there are 50 vet clinics in Athens, GA, you will have to put in more effort to rank as well.
+  - The more saturated a market is, the more difficult it is to rank on google search results. Going back to my veterinarian example…if there are only 5 vet clinics in Athens, GA, your vet clinic is likely to rank well, but if there are 50 vet clinics in Athens, GA, you will have to put in more effort to rank high.
 ### Have services  and/or products that are not universally known/understood
   - If you are a start-up with a revolutionary idea — that’s amazing! However, people won’t know to search for your product or service if they don’t know it exists. Therefore high google search rankings won’t come organically.
   - These types of businesses need to “disrupt” the market. They need to change the status quo of purchasing decisions through smart marketing campaigns. For example, before [Blue Apron](https://www.blueapron.com/) disrupted grocery shopping, no one was searching for “meal delivery subscriptions”.
