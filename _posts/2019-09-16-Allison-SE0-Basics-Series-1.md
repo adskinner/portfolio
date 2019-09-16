@@ -6,16 +6,17 @@ categories:
   - business
 tags: [SEO]
 permalink: /writing/:title
+image: "assets/img/writing/seo1/seocover-1.jpg"
 description: I used Jekyll, a static site generator, for my portfolio website's platform. It's an unconventional choice compared to the conventional Wordpress, Shopify or Squarespace platforms. Could Jekyll be the right fit for your business website?
 ---
 
 ## Welcome to Part One of my SEO Basics series!
 I thought this would be one post, but then it got very long — so I’ve broken it up into four parts
 
-1. How Hard will SEO be for your business?
-2. On-Page SEO Optimization tips
-3. How Content can drive SEO results
-4. SEO Tools and How to use them
+1. **How Hard will SEO be for your business?**
+2. **On-Page SEO Optimization tips** [coming soon!]
+3. **How Content can drive SEO results** [coming soon!]
+4. **SEO Tools and How to use them** [coming soon!]
 
 I should start by saying that I do not consider myself an SEO expert. There are agencies and professionals that do SEO full-time.
 
@@ -67,6 +68,6 @@ What determines the haves and have nots? That’s what I’ll be breaking down t
 
 >Now you likely have an idea of whether it’ll be hard or easy to have SEO success for your business.
 
-**For those that will have an easier time with SEO**, good for you! To secure your high rankings, you should keep reading parts 2 & 3 of my SEO series. Also read part 4, so you can get set-up with the proper tracking tools.
+**For those that will have an easier time with SEO**, good for you! To secure your high rankings, continue reading parts 2, 3 & 4 of my SEO Basics series.
 
-**For those that will have a harder time with SEO**, I suggest you read Part 2 & 3 of my SEO Basics series. That’s because Part 2 will give you a foundation for SEO success, but Part 3 will give you the steps to grow past your foundation.
+**For those that will have a harder time with SEO**, let's get to work! The first step will be to improve your organic search engine rankings. Continue with parts 2, 3 & 4 of my SEO Basics series.

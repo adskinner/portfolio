@@ -1,5 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-12T22:45:41-04:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
-</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">How I built my custom ‘Thank You’ redirection page</title><link href="http://localhost:4000/writing/19-contact-form" rel="alternate" type="text/html" title="How I built my custom 'Thank You' redirection page" /><published>2019-08-16T00:00:00-04:00</published><updated>2019-08-16T00:00:00-04:00</updated><id>http://localhost:4000/writing/19-contact-form</id><content type="html" xml:base="http://localhost:4000/writing/19-contact-form">&lt;iframe height=&quot;605&quot; style=&quot;width: 100%;&quot; scrolling=&quot;no&quot; title=&quot;particles.js demo&quot; src=&quot;//codepen.io/adskinner/embed/drjvZY/?height=605&amp;amp;theme-id=light&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-16T14:19:54-04:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
+</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">Allison’s SEO Basics Series: Pt 1. How hard will SEO be for your business?</title><link href="http://localhost:4000/writing/Allison-SE0-Basics-Series-1" rel="alternate" type="text/html" title="Allison’s SEO Basics Series: Pt 1. How hard will SEO be for your business?" /><published>2019-09-16T00:00:00-04:00</published><updated>2019-09-16T00:00:00-04:00</updated><id>http://localhost:4000/writing/Allison-SE0-Basics-Series-1</id><content type="html" xml:base="http://localhost:4000/writing/Allison-SE0-Basics-Series-1">&lt;h2 id=&quot;welcome-to-part-one-of-my-seo-basics-series&quot;&gt;Welcome to Part One of my SEO Basics series!&lt;/h2&gt;
+&lt;p&gt;I thought this would be one post, but then it got very long — so I’ve broken it up into four parts&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;How Hard will SEO be for your business?&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;On-Page SEO Optimization tips&lt;/strong&gt; [coming soon!]&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;How Content can drive SEO results&lt;/strong&gt; [coming soon!]&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SEO Tools and How to use them&lt;/strong&gt; [coming soon!]&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I should start by saying that I do not consider myself an SEO expert. There are agencies and professionals that do SEO full-time.&lt;/p&gt;
+
+&lt;p&gt;However, I do consider myself SEO &lt;em&gt;smart&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I focus on organic (aka FREE) search growth for my clients. I do this through on-page SEO optimization. I then equip my clients with advice and tools to continue their SEO growth.&lt;/p&gt;
+
+&lt;p&gt;One of the first conversations I have with my clients is how &lt;em&gt;hard&lt;/em&gt; SEO is going to be for their business.&lt;/p&gt;
+
+&lt;p&gt;Some businesses can put in minimal effort and they will rank at the top of the first page in Google. Other businesses have to put in consistent, valuable effort to be able to rank as well.&lt;/p&gt;
+
+&lt;p&gt;What determines the haves and have nots? That’s what I’ll be breaking down today.&lt;/p&gt;
+
+&lt;h2 id=&quot;seo-will-come-easier-for-businesses-that&quot;&gt;SEO will come &lt;em&gt;easier&lt;/em&gt; for businesses that…&lt;/h2&gt;
+
+&lt;h3 id=&quot;have-a-local-physical-location-with-a-google-business-profile&quot;&gt;Have a local, physical location (with a Google Business profile)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;If you are a local business with a physical location you will organically have an easier time getting to the first page of google search results. This is because you have a regional audience so you will show up for regional keyword searches.&lt;/li&gt;
+  &lt;li&gt;For example, let’s say you are a Veterinarian with a vet clinic in Athens, Georgia. If someone searches “vet athens, ga” your only competition in the search results is other vet clinics in Athens, Georgia. Your competition is not every vet clinic in the USA.&lt;/li&gt;
+  &lt;li&gt;If you do have a physical location, you should have a &lt;a href=&quot;https://www.google.com/business/&quot;&gt;Google Business&lt;/a&gt; profile. This means your business will show up in Google maps and that Google can better index your website and location. If someone searches for you on Google, your profile is what will show up on the right-hand side.&lt;/li&gt;
+  &lt;li&gt;If you want a funny read, my father, co-founder of &lt;a href=&quot;https://athenticbrewing.com&quot;&gt;Athentic Brewing Company&lt;/a&gt;, wrote a blog post about the baffling (to him) process of getting their location verified on Google.
+    &lt;h3 id=&quot;do-not-have-a-lot-of-competition-with-similar-businesses&quot;&gt;Do not have a lot of competition with similar businesses&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Whenever someone searches on Google for your type of service or product, you are in competition with others that sell similar services or products.&lt;/li&gt;
+  &lt;li&gt;For example, let’s say you’re still a veterinarian with a vet clinic in Athens, Ga. Your success in search results will depend on how many other vet clinics there are in Athens, Ga. If there are only ~5 vet clinics in Athens, GA then you will have a good chance of appearing high in the search results. However, if there’s ~50 vet clinics in Athens, GA then you will have a harder time getting to the top of search results because you’ll be competing with all 50 other vet clinics.
+    &lt;h3 id=&quot;provide-a-service-or-sell-a-product-that-is-universally-knownunderstood&quot;&gt;Provide a service or sell a product that is universally known/understood&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Having a universally known/understood product or service means that people know how to search for your product or service on Google.&lt;/li&gt;
+  &lt;li&gt;Keeping with the vet example, anyone who is a pet owner knows what a veterinarian is and knows the basic services a veterinarian can provide. That means people know what to search for when they looking for a veterinarian.&lt;/li&gt;
+  &lt;li&gt;However, if your business is a totally new concept that people need to learn about before understanding it, then google search will be more difficult. If someone doesn’t know it exists they won’t search for it!
+    &lt;h3 id=&quot;have-been-in-business-and-have-had-a-website-for-their-business-for-years&quot;&gt;Have been in business and have had a website for their business for years.&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If your business has been open for 10 years and you’ve had a website for your business for 10 years, Google will recognize that and give your business more validity than a new business.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;seo-will-be-tougher-for-businesses-that&quot;&gt;SEO will be &lt;em&gt;tougher&lt;/em&gt; for businesses that…&lt;/h2&gt;
+
+&lt;h3 id=&quot;have-no-localphysical-location-and-sellprovide-services-nationwide&quot;&gt;Have no local/physical location and sell/provide services nationwide&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Having an online shop with no physical location or regional focus means you can sell your products nationwide but it also means that you are in competition with every other similar online shop nationwide.&lt;/li&gt;
+  &lt;li&gt;Let’s say that you make beautiful pillows that you sell online. If someone searches “decorative pillows” on google search, your small, successful business may never get to the first page of google search results. That’s because the big companies like Target, Walmart, Amazon, Wayfair, etc. will always rank above you.&lt;/li&gt;
+  &lt;li&gt;In these cases, I suggest that you focus on long tail keywords or niche keywords for better rankings. For example, your pillow website might have a better chance ranking for “indigo dyed pillows” or “organic linen pillows”&lt;/li&gt;
+  &lt;li&gt;I also recommend that small online shops focus on social media to grow their brand and followers. You’re more likely to get someone to visit your pillow website from your instagram account than someone finding your pillow website on page 7 of google search results for “decorative pillows”.
+    &lt;h3 id=&quot;have-a-lot-of-similar-competition&quot;&gt;Have a lot of similar competition&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The more saturated a market is, the more difficult it is to rank on google search results. Going back to my veterinarian example…if there are only 5 vet clinics in Athens, GA, your vet clinic is likely to rank well, but if there are 50 vet clinics in Athens, GA, you will have to put in more effort to rank high.
+    &lt;h3 id=&quot;have-services--andor-products-that-are-not-universally-knownunderstood&quot;&gt;Have services  and/or products that are not universally known/understood&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If you are a start-up with a revolutionary idea — that’s amazing! However, people won’t know to search for your product or service if they don’t know it exists. Therefore high google search rankings won’t come organically.&lt;/li&gt;
+  &lt;li&gt;These types of businesses need to “disrupt” the market. They need to change the status quo of purchasing decisions through smart marketing campaigns. For example, before &lt;a href=&quot;https://www.blueapron.com/&quot;&gt;Blue Apron&lt;/a&gt; disrupted grocery shopping, no one was searching for “meal delivery subscriptions”.&lt;/li&gt;
+  &lt;li&gt;These types of businesses need to focus on social media and advertising before they’ll see the SEO results they desire.
+    &lt;h3 id=&quot;are-a-new-business&quot;&gt;are a NEW business&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If you are opening a brand-spanking new business, congratulations! I love and support entrepreneurialism. However, be prepared to be patient for Google to show you the same kind of love in search rankings.&lt;/li&gt;
+  &lt;li&gt;This is because, first off, it will take time for Google to fully index your website. In my experience, this usually take 2 weeks and sometimes up to a month.&lt;/li&gt;
+  &lt;li&gt;Then, you need to wait for Google to recognize you as the best search result. It can be tough to beat out businesses that have been around longer than you. However, if you put in consistent, valuable effort you’ll see the benefits.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Now you likely have an idea of whether it’ll be hard or easy to have SEO success for your business.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;For those that will have an easier time with SEO&lt;/strong&gt;, good for you! To secure your high rankings, continue reading parts 2, 3 &amp;amp; 4 of my SEO Basics series.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For those that will have a harder time with SEO&lt;/strong&gt;, let’s get to work! The first step will be to improve your organic search engine rankings. Continue with parts 2, 3 &amp;amp; 4 of my SEO Basics series.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="SEO" /><summary type="html">Welcome to Part One of my SEO Basics series! I thought this would be one post, but then it got very long — so I’ve broken it up into four parts</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/writing/seo1/seocover-1.jpg" /></entry><entry><title type="html">How I built my custom ‘Thank You’ redirection page</title><link href="http://localhost:4000/writing/19-contact-form" rel="alternate" type="text/html" title="How I built my custom 'Thank You' redirection page" /><published>2019-08-16T00:00:00-04:00</published><updated>2019-08-16T00:00:00-04:00</updated><id>http://localhost:4000/writing/19-contact-form</id><content type="html" xml:base="http://localhost:4000/writing/19-contact-form">&lt;iframe height=&quot;605&quot; style=&quot;width: 100%;&quot; scrolling=&quot;no&quot; title=&quot;particles.js demo&quot; src=&quot;//codepen.io/adskinner/embed/drjvZY/?height=605&amp;amp;theme-id=light&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
   See the Pen &lt;a href=&quot;https://codepen.io/adskinner/pen/drjvZY/&quot;&gt;particles.js demo&lt;/a&gt; by Allison Skinner
   (&lt;a href=&quot;https://codepen.io/adskinner&quot;&gt;@adskinner&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
 &lt;/iframe&gt;
@@ -770,67 +843,4 @@ Once you’ve done your homework, now it’s time to reconnect with the person o
 
 &lt;h2 id=&quot;conclusion&quot;&gt;Conclusion:&lt;/h2&gt;
 &lt;p&gt;Making a website is work, not only for me, but also for you, the client. When you hire someone to make your website, you’re not completely off the hook. No one knows your business better than you do, so you want to be involved! A website forces you to get all your ducks in a row — photography, copy, contact information, products ready to be sold.
-It proves that you are capable and credible to run a business—to yourself and the world.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="websites" /><category term="website redesign" /><summary type="html">There are two questions you may be asking yourself: When is it a good time to get a website for my business? or I have a website, but it’s outdated. When should I get a website redesign? My answer to both of those questions is: Now.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/writing/17-09-01/website_cover.jpg" /></entry><entry><title type="html">3 Key Benefits of Being a Designer and Developer</title><link href="http://localhost:4000/writing/3-key-benefits-of-being-a-designer-and-developer" rel="alternate" type="text/html" title="3 Key Benefits of Being a Designer and Developer" /><published>2017-07-19T00:00:00-04:00</published><updated>2017-07-19T00:00:00-04:00</updated><id>http://localhost:4000/writing/3-key-benefits-of-being-a-designer-and-developer</id><content type="html" xml:base="http://localhost:4000/writing/3-key-benefits-of-being-a-designer-and-developer">&lt;p&gt;&lt;img src=&quot;../assets/img/post1/develop_cover.jpg&quot; alt=&quot;graphic for 3 Key Benefits of Being Designer and Developer&quot; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;It’s not common for someone to be a designer &lt;em&gt;and&lt;/em&gt; a developer. Typically there is a designer and developer for each project. Two separate people with two separate roles.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A designer is someone who decides what a website will look like — color, fonts, layout—while a developer is someone who builds the website &amp;amp; makes it actually function. A designer creates mockups for a website and then the developer builds the interactive website based on those mockups.&lt;/p&gt;
-
-&lt;p&gt;I’ve always been a designer and developer, even before I knew what the distinction meant. When I graduated college, I thought people who “made websites” designed them and then built them. And at my first agency job that’s exactly what I did. I made the mockups for the website and then I built that website. It wasn’t until I went full-time freelancing that people started asking me if I was a designer or a developer. I felt like I had to choose between the two because almost everyone in the industry does.&lt;/p&gt;
-
-&lt;p&gt;I asked myself, would I rather design websites or build them? I slept on it and still couldn’t come up with a decision. I loved design and I loved to code, and I didn’t want that to change. Deciding to be a designer and developer made sense to me, and I think it also makes sense for many businesses that need help with a website.&lt;/p&gt;
-
-&lt;p&gt;Businesses typically either hire an agency that has in-house designers and developers or a business hires a freelance designer and a freelance developer to work together and create a website. However, hiring someone who’s a designer &lt;em&gt;and&lt;/em&gt; developer provides benefits beyond only having to hire one person for the job.&lt;/p&gt;
-
-&lt;h2 id=&quot;1-designing-with-code-in-mind&quot;&gt;1. Designing with Code in Mind&lt;/h2&gt;
-&lt;p&gt;When I design mockups for a website, I know exactly how I will build it. Sometimes developers are handed the mockups to websites that were designed to look good but won’t, in reality, function well.&lt;/p&gt;
-
-&lt;p&gt;Factors such as page load times, flexibility of device-widths and cross-browser support are sometimes overlooked in design but need to be considered during development.&lt;/p&gt;
-
-&lt;p&gt;Then the developer has a challenging tightrope to walk. The developer wants to honor the mockups provided by the designer, but also knows some of the design decisions will affect the website’s performance.&lt;/p&gt;
-
-&lt;p&gt;The time it takes for a developer and designer to work through these issues of design vs. performance can eat up a lot of time.&lt;/p&gt;
-
-&lt;p&gt;When I design websites I’m thinking 10 steps ahead. I’m thinking about the unique challenges my design will create when I’m building the website.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Will a client be able to easily update this?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;How will this feature look on Internet Explorer?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Will this page load quickly?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;How will this absolute positioned SVG shape look when the device-width changes?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Many skilled designers these days learn enough about code and CMS frameworks to be able to make design decisions that look and function well. On some projects, I’m solely the developer and a project is always more enjoyable when I work with a designer that at least understands how a website comes together — from the website’s framework to it’s performance.&lt;/p&gt;
-
-&lt;h2 id=&quot;2-integration-of-interaction-and-animation&quot;&gt;2. Integration of interaction and animation&lt;/h2&gt;
-&lt;p&gt;Design mockups are typically created using static tools — Adobe Photoshop and Sketch — and it makes it difficult for animation, movement &amp;amp; interactivity to be considered and then communicated. Many times mockups only include animation notes for hyperlinks, buttons and menu items.&lt;/p&gt;
-
-&lt;p&gt;Prototyping tools like &lt;a href=&quot;https://www.invisionapp.com/&quot;&gt;InVision&lt;/a&gt; allow designers to design complex animations, but I still think having experience as a developer helps when it comes to interactivity.&lt;/p&gt;
-
-&lt;p&gt;As a designer and developer, I design with interactivity in the forefront of my mind. I love to build animations with code and therefore I include it in my designs. I see a website with stunning animations, and it becomes a personal challenge to know how it was made. When a designer creates mockups with static tools it’s challenging to think critically and creatively about how the website will move. As a developer, you know interaction and animation intimately because you build it everyday.&lt;/p&gt;
-
-&lt;p&gt;I believe interaction is the perfect marriage of design and development. It’s best when it’s creative and functions well.&lt;/p&gt;
-
-&lt;h2 id=&quot;3-making-a-custom-website-that-a-client-can-maintain&quot;&gt;3. Making a custom website that a client can maintain&lt;/h2&gt;
-&lt;p&gt;Today, a website not only has to look good and function well, many times it also needs to be easily managed &amp;amp; updated by clients.&lt;/p&gt;
-
-&lt;p&gt;For example, a publication site like Man Repeller needs to have a framework that allows any person in the office to easily post an article, gallery or blog post. And when any person hits publish, the finished product should look good every time.&lt;/p&gt;
-
-&lt;p&gt;Making a durable, flexible and attractive framework is a challenge, and it’s a challenge best suited for someone who has the mind of a designer and developer.&lt;/p&gt;
-
-&lt;p&gt;I approach these types of websites development first.&lt;/p&gt;
-
-&lt;p&gt;I first construct a framework that I know will work. All custom functionality needs to be tucked in the backend and the CMS should remain user-friendly. No HTML markup in the text editor.&lt;/p&gt;
-
-&lt;p&gt;The framework needs to be flexible. The design should look good if the article title is one word or ten words, or if the article has no images or twenty images.&lt;/p&gt;
-
-&lt;p&gt;Once you have a user-friendly and flexible framework, then you can add design details that make the website look more unique than an out-of-the-box Wordpress blog. These custom details should not intrude on any user-friendly features.&lt;/p&gt;
-
-&lt;p&gt;Being a designer and developer is an indispensable advantage when creating websites that need hands-off maintenance from the clients. I can make a custom, beautiful website that can be updated by any intern.&lt;/p&gt;
-
-&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
-&lt;p&gt;Being a designer and developer was an easy decision for me because it’s all I know. I have a natural eye for design, while loving the technical challenge of development. At first, I decided to be designer and developer because it felt natural to me, but I soon came to learn that it provides a unique advantage for my clients. My clients also benefit from someone who’s considering functionality, maintenance, performance and interaction from the beginning.&lt;/p&gt;
-
-&lt;p&gt;I design with a developer’s critical eye for functionality and I develop with a designer’s attention to beauty. I wouldn’t have it any other way.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="freelancing" /><category term="web designer" /><category term="web developer" /><category term="devsigner" /><summary type="html">It’s not common for someone to be a designer and a developer. Typically there is a designer and developer for each project. Two separate people with two separate roles.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/post1/develop_cover.jpg" /></entry></feed>
+It proves that you are capable and credible to run a business—to yourself and the world.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="websites" /><category term="website redesign" /><summary type="html">There are two questions you may be asking yourself: When is it a good time to get a website for my business? or I have a website, but it’s outdated. When should I get a website redesign? My answer to both of those questions is: Now.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/writing/17-09-01/website_cover.jpg" /></entry></feed>
