@@ -7,7 +7,7 @@ categories:
 tags: [SEO]
 permalink: /writing/:title
 image: "assets/img/writing/seo1/seocover-1.jpg"
-description: I used Jekyll, a static site generator, for my portfolio website's platform. It's an unconventional choice compared to the conventional Wordpress, Shopify or Squarespace platforms. Could Jekyll be the right fit for your business website?
+description: Some businesses can put in minimal effort and they will rank at the top of the first page in Google. Other businesses have to put in consistent, valuable effort to be able to rank as well.
 ---
 
 ## Welcome to Part One of my SEO Basics series!

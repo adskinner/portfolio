@@ -7,7 +7,7 @@ categories:
 tags: [particles.js , contact form]
 image: "assets/img/writing/19-3-19/contact-redirect-wide.gif"
 permalink: /writing/:title
-description: A great way to track your leads and give
+description: Learn how I build a custom 'Thank You' redirection page for my portfolio website.
 ---
 
 <iframe height="605" style="width: 100%;" scrolling="no" title="particles.js demo" src="//codepen.io/adskinner/embed/drjvZY/?height=605&theme-id=light&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
