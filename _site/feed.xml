@@ -1,10 +1,237 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-16T14:19:54-04:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
-</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">Allison’s SEO Basics Series: Pt 1. How hard will SEO be for your business?</title><link href="http://localhost:4000/writing/Allison-SE0-Basics-Series-1" rel="alternate" type="text/html" title="Allison’s SEO Basics Series: Pt 1. How hard will SEO be for your business?" /><published>2019-09-16T00:00:00-04:00</published><updated>2019-09-16T00:00:00-04:00</updated><id>http://localhost:4000/writing/Allison-SE0-Basics-Series-1</id><content type="html" xml:base="http://localhost:4000/writing/Allison-SE0-Basics-Series-1">&lt;h2 id=&quot;welcome-to-part-one-of-my-seo-basics-series&quot;&gt;Welcome to Part One of my SEO Basics series!&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-23T09:18:34-04:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
+</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">Allison’s SEO Basics Series: Pt 2. On-page SEO Optimization</title><link href="http://localhost:4000/writing/Allison-SEO-Basics-Pt-2-On-Page-SEO-Optimization" rel="alternate" type="text/html" title="Allison’s SEO Basics Series: Pt 2. On-page SEO Optimization" /><published>2019-09-23T00:00:00-04:00</published><updated>2019-09-23T00:00:00-04:00</updated><id>http://localhost:4000/writing/Allison-SEO-Basics-Pt-2-On-Page-SEO-Optimization</id><content type="html" xml:base="http://localhost:4000/writing/Allison-SEO-Basics-Pt-2-On-Page-SEO-Optimization">&lt;h2 id=&quot;welcome-to-part-️of-my-four-part-seo-series&quot;&gt;Welcome to Part ✌️of my four part SEO Series.&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;'/writing/Allison-SE0-Basics-Series-1'&quot;&gt;How hard will SEO be for your business?&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;On-page SEO optimization (you’re here!)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;How Content can drive SEO results [coming soon!]&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SEO Tools and How to use them [coming soon!]&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;On-page SEO optimization includes a variety improvements you can make to the pages of your website that can improve your search rankings. These improvements are free and fairly easy to do, and will improve your organic search rankings.
+Many on-page optimizations will be a part of the basic structure of your website, which means that the optimizations will have lasting effects with minimal effort.
+Or, the on-page optimizations will be incorporated into the basic workflow of managing your website. If you start adding re-sized, optimized images with descriptive alt texts, it’ll become habit for you. Good SEO comes from good habits.&lt;/p&gt;
+
+&lt;h2 id=&quot;choosing-your-keywords&quot;&gt;Choosing your Keywords&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-is-a-keyword&quot;&gt;What is a keyword?&lt;/h3&gt;
+
+&lt;p&gt;A “keyword” is simply the phrase you type into a search engine (like Google) to search the internet.
+For example, if you are looking for carpet cleaning company in Athens, Georgia you’ll likely search something along the lines of “carpet cleaners athens, ga”.
+In this example, “carpet cleaners athens, ga” is the keyword.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/seo2/keyword.gif&quot; alt=&quot;Person typing into google search &amp;quot;Whatever I type in here is a keyword!!!&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you want to optimize your website for certain keywords, you first need to determine which keywords will be the best fit and drive the best results for your business.&lt;/p&gt;
+
+&lt;p&gt;Start by asking yourself what people will likely search for when they are looking of your business’s goods or services.&lt;/p&gt;
+
+&lt;p&gt;For my business, I provide custom web design and web development services for clients nationwide.&lt;/p&gt;
+
+&lt;p&gt;A prospective client is most likely to search “web design”, “web development”, “web designer”, etc.&lt;/p&gt;
+
+&lt;p&gt;Since I mostly serve the Athens, Georgia area, my prospective clients are likely going to search “web design athens, ga” or “web development athens, ga”.&lt;/p&gt;
+
+&lt;h3 id=&quot;keyword-tools&quot;&gt;Keyword Tools&lt;/h3&gt;
+
+&lt;p&gt;See what keywords your competition ranks for.  I like to use &lt;a href=&quot;https://www.spyfu.com/&quot;&gt;SpyFu&lt;/a&gt; for this. You can enter the domain of your competitor’s website and see all of the keywords they rank for.&lt;/p&gt;
+
+&lt;p&gt;See what keywords you already rank for.  I like to use &lt;a href=&quot;https://search.google.com/search-console/about&quot;&gt;Google Search Console&lt;/a&gt;. After you connect your domain to a google search console account, you can track what people are searching to find your website.&lt;/p&gt;
+
+&lt;p&gt;See how likely you’ll rank for a kewyord. I liek to use &lt;a href=&quot;https://moz.com/explorer&quot;&gt;Moz’s keyword explorer&lt;/a&gt;. Moz will rank the strength of each keyword and give you an assessment of how likely you’ll be able to rank high for the keyword.&lt;/p&gt;
+
+&lt;h2 id=&quot;structuring-copy&quot;&gt;Structuring Copy&lt;/h2&gt;
+
+&lt;p&gt;The “copy” on your website is the words on your website. Headings, subheadings, body copy, image captions, menu links, etc.
+All website copy is structured through some basic HTML tags.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/seo2/h1-h6.jpg&quot; alt=&quot;example of h1-h6 copy structure. With h1 title being largest and h6 being the smallest&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;h1&quot;&gt;h1&lt;/h3&gt;
+&lt;p&gt;H1 should be the main page title for your web page. For example the &amp;lt;h1&amp;gt; tag for my About page is “About Allison Skinner Web Design &amp;amp; Development”.
+There should only be one &amp;lt;h1&amp;gt; title and it should clearly convey what your web page is about. If your web page has a desired keyword, it’s also beneficial to have it included in your H1 title.&lt;/p&gt;
+
+&lt;h3 id=&quot;h2-h3-h4-h5-h6&quot;&gt;h2, h3, h4, h5, h6&lt;/h3&gt;
+&lt;p&gt;The remaining h tags serve as subheadings below your H1 page title.
+When you are structuring your copy, you should follow the proper order of the H tags for your subheadings.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/seo2/correct-copy.jpg&quot; alt=&quot;example of copy structure that follows correct linear path from h1 to h2 to h3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the above example the order of htags goes from H1 → H2 → H3. This is good for accessibility and improving search engine results.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/seo2/incorrect-copy.jpg&quot; alt=&quot;example of copy structure that follows a incorrect, non-linear copy structure from h1 to h3 to h2 to h4 to h2 &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the above incorrect example the order of htags goes from H1 → H3 → H2 → H4 → H2.&lt;/p&gt;
+
+&lt;p&gt;Correct copy structure is also important for accessibility.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-is-accessiblity&quot;&gt;What is accessiblity?&lt;/h4&gt;
+
+&lt;p&gt;To have an “accessible” website means that people with disabilities, especially those with vision impairment or motor impairment, can successfully navigate and understand your website.&lt;/p&gt;
+
+&lt;p&gt;Most people with disabilities use a screen reader to navigate websites. Screen readers depend on correct H tag copy structures to know the order of importance for copy on the website.&lt;/p&gt;
+
+&lt;p&gt;Check your site’s accessibility &lt;a href=&quot;https://achecker.ca/checker/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;url-path-structure&quot;&gt;URL Path Structure&lt;/h2&gt;
+
+&lt;p&gt;Your URL path structure is the url patterns your web pages follow.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/seo2/site-url.png&quot; alt=&quot;image of browser toolbar with the url allisondskinner.com/work/the-lamar-dodd-school-of-art entered&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For example, on my website, my portfolio examples follow a linear url pattern.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/seo2/correct-path.jpg&quot; alt=&quot;image of how url path structure is broken down from main site url, archive title, post title&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here would be an example of a NON linear URL pattern.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/seo2/incorrect-path.jpg&quot; alt=&quot;image of how url path structure can become non-linear by not having consistent path patterns.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s easy to create non-linear URLs on your website. This usually occurs if you duplicates pages or posts. When you duplicate a page or a post, it’ll copy the url and add a “-2” to the end or include “copy” in the url.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;For example:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;allisondskinner.com/about-2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;^ This would happen if I duplicated my “About” page to start my “Process” page but never changed the url to “/process” instead of “/about-2”&lt;/p&gt;
+
+&lt;p&gt;When Google crawls and indexes your website, it will create a site map of all the links on your website. If you site map follows a clear, linear path pattern and the urls correctly describe the purpose of the page, Google will be able to correctly index and rank the content on your site.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-create-a-correct-url-path-structures-on-your-website&quot;&gt;How to create a correct URL path structures on your website.&lt;/h3&gt;
+
+&lt;p&gt;First, create a site map of your website and determine the URL path patterns you desire&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/seo2/site-tree.jpg&quot; alt=&quot;a visual aid of my site map. Site map is included in blog copy below.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Main Page&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;allisondskinner.com [main site url]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Top Level pages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Path pattern: [main site url]/[page title]&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;allisondskinner.com/about&lt;/li&gt;
+  &lt;li&gt;allisondskinner.com/process&lt;/li&gt;
+  &lt;li&gt;allisondskinner.com/services&lt;/li&gt;
+  &lt;li&gt;allisondskinner.com/contact&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Archive Level pages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Path pattern: [main site url]/[archive title]&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;allisondskinner.com/work&lt;/li&gt;
+  &lt;li&gt;allisondskinner.com/writing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Archive sub level pages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Path pattern: [main site url / archive title / post title ]&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;allisondskinner.com/work/[portfolio post title]&lt;/li&gt;
+  &lt;li&gt;allisondskinner.com/work/[writing post title]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then make sure that all of the pages on your website follow the correct path structure.
+If they do not, change the URL path structure and create a redirect from your old url to your new url.&lt;/p&gt;
+
+&lt;p&gt;Depending on the platform you are using (wordpress, drupal, shopify, squarespace, wix, etc.) the steps will be different for this.&lt;/p&gt;
+
+&lt;p&gt;Every online platform makes it possible for you to augment your URL and create redirects. Simply google search how to do it, explore your website platform’s knowledge base, or open a support ticket with your website platform. (Also an option is to hire me, I’ve done this for many clients!)&lt;/p&gt;
+
+&lt;h2 id=&quot;meta-information&quot;&gt;Meta Information&lt;/h2&gt;
+
+&lt;p&gt;Every web page or post on the internet has “meta” information. This information is usually located in the &amp;lt;head&amp;gt; of your &amp;lt;html&amp;gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/seo2/meta.png&quot; alt=&quot;screenshot of meta information in the html head of my website. Includes site title and description&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you see a search engine result, it’s pulling the meta title and meta description. For example:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/seo2/google-result.png&quot; alt=&quot;screenshot of how my meta information, site title and description, show up in google search result&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By default, your meta title will be your page or post title and your meta description will be the first ~160 words of copy found beneath your page or post title.&lt;/p&gt;
+
+&lt;p&gt;Your meta title and your meta description should accurately describe the purpose of your web page, include your desired keyword and include your region if you are a local business.&lt;/p&gt;
+
+&lt;p&gt;If the default meta title and meta description do not accurately describe the purpose of your web page or do not include the keywords you wish to rank for, you can manually change the meta title and meta description of your web page.&lt;/p&gt;
+
+&lt;p&gt;You can do this in the HTML of your web page, but most of us don’t have raw HTML sites. Most of us use a platform like wordpress, drupal, shopify, squarepace, wix, etc.&lt;/p&gt;
+
+&lt;p&gt;Some platforms allow you to edit your meta title and meta description and will provide you a preview of how your web page will look in Google search results.&lt;/p&gt;
+
+&lt;p&gt;On other platforms, you will need to download a plugin to make these changes.&lt;/p&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/seo2/image-alt.jpg&quot; alt=&quot;This will be a bit meta, but this is an image of an image with the alt tag marked. The image is of my pug named cooper sitting on a decorative dog pillow.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Images, many times, can be the most visually intriguing part of a website.
+However, images offer the least amount of information to search engines.
+When you consider the saying “a picture is worth a thousand words”, for SEO the thousand words is actually more valuable than the picture.
+Whenever you add an image to your website, you need to add a detailed description of the image to the image’s ALT Tag.
+Every website platform offer’s an easy way to do this.
+A descriptive ALT tag allows search engines to better index your images and it also provides context to visually impaired users that visit your website.&lt;/p&gt;
+
+&lt;h2 id=&quot;page-load-time-ie-page-performance&quot;&gt;Page load time, i.e page performance&lt;/h2&gt;
+
+&lt;p&gt;It’s annoying when you’re quickly trying to visit a website, but it takes forever to load. Google finds it annoying too, and if your website loads slow, Google will lower your ranking because of it.
+You can test the speed of your website on &lt;a href=&quot;https://gtmetrix.com&quot;&gt;GT Metrix&lt;/a&gt;.
+&lt;img src=&quot;../assets/img/writing/seo2/gtmetrix.png&quot; alt=&quot;Screenshot of GT Metrix score for GT Metrix site&quot; /&gt;
+GT Metrix will scan your web page and provide your page load time and overall page speed score.
+Your speed score is broken down into ways you can improve the site load time of your website.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-few-basic-ways-you-can-dramatically-improve-page-performance-include&quot;&gt;A few basic ways you can dramatically improve page performance include:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Optimizing images.&lt;/strong&gt;
+ When you take a picture on your smart phone or camera, the original image file will be a large, high-resolution image. In many cases, the image file size will be larger than you need it to be. For example, a 5000px wide image is not necessary on a website because desktop screens don’t even stretch to 5000px wide.&lt;/p&gt;
+
+    &lt;p&gt;Before adding images to your website, you should resize your images to be at least less than 500k in file size (Even better 250k). You can do this using the “Preview” application on Macs or using other photo editing software, like Photoshop. You can also adjust the quality of your image in Photoshop to further decrease image sizes. Most platforms (Wordpress, Squarespace, Shopify, etc.) allow you edit images directly on your website.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Leveraging browser cache.&lt;/strong&gt;
+ Your GT Metrix page speed score may fail you for “Leveraging browser cache”. This is a simple fix that can lead to big page speed improvements.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.collectiveray.com/wp/tips/leverage-browser-caching-wordpress&quot;&gt;Here’s an article&lt;/a&gt; that offers a variety of ways you can leverage browser cache.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Less is more”.&lt;/strong&gt;
+ The less “stuff” you have weighing your website down, the faster your website will load. This means you should only have what’s vital on your website.&lt;/p&gt;
+
+    &lt;p&gt;The includes plugins, scripts, stylesheets, fonts, images, etc. on your website. The less of that stuff, the faster your website will load.&lt;/p&gt;
+
+    &lt;p&gt;Many websites do need a lot of that “stuff” to run a more complex website, for instance an online shop. In that case, you’ll need to be smart about how your content loads. For example, placing any extra javascript files in the footer of your website so they don’t halt the initial load of your web page. Another example would be merging and minifying stylesheets and scripts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Keep everything updated.&lt;/strong&gt;
+ Most likely your website runs on a CMS platform such as Wordpress or Drupal. These CMS platforms regularly have updates that will improve security and performance for your website. Third party plugins also require frequent updates. It’s important to stay on top of updating your cms system, themes and plugins because it will ensure that everything is running at it’s best efficiency.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;in-conclusion&quot;&gt;In conclusion&lt;/h2&gt;
+
+&lt;p&gt;These fairly basic steps will set your site up for SEO success.&lt;/p&gt;
+
+&lt;p&gt;On-page SEO optimization provides a structure for your website that allows search engines, such as Google, to properly index your website.&lt;/p&gt;
+
+&lt;p&gt;On-page SEO optimization is FREE to do and can have lasting effects for your website’s rankings.&lt;/p&gt;
+
+&lt;p&gt;In the &lt;a href=&quot;/writing/Allison-SE0-Basics-Series-1&quot;&gt;first part of my SEO series&lt;/a&gt;, I discussed whether SEO will be hard or easy for your website.&lt;/p&gt;
+
+&lt;p&gt;If you fall into the camp of “easy” (physical location, little competition, universally understood product or service, have been around for years) then following basic on-page SEO optimization will likely drive your business to the top of google rankings.&lt;/p&gt;
+
+&lt;p&gt;If you fall into the camp of “hard” (online only business, lots of competition, new type of product or service, haven’t been around for long) then on-page SEO optimization is an important start. The next step will be creating content that will bring site traffic and improve search rankings.
+That will be covered in Part 3 of my SEO Basics series, “How Content Can Drive SEO Results” [COMING SOON!].&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="SEO" /><summary type="html">Welcome to Part ✌️of my four part SEO Series.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/writing/seo2/seo2-cover.jpg" /></entry><entry><title type="html">Allison’s SEO Basics Series: Pt 1. How hard will SEO be for your business?</title><link href="http://localhost:4000/writing/Allison-SE0-Basics-Series-1" rel="alternate" type="text/html" title="Allison’s SEO Basics Series: Pt 1. How hard will SEO be for your business?" /><published>2019-09-16T00:00:00-04:00</published><updated>2019-09-16T00:00:00-04:00</updated><id>http://localhost:4000/writing/Allison-SE0-Basics-Series-1</id><content type="html" xml:base="http://localhost:4000/writing/Allison-SE0-Basics-Series-1">&lt;h2 id=&quot;welcome-to-part-one-of-my-seo-basics-series&quot;&gt;Welcome to Part One of my SEO Basics series!&lt;/h2&gt;
 &lt;p&gt;I thought this would be one post, but then it got very long — so I’ve broken it up into four parts&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;How Hard will SEO be for your business?&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;On-Page SEO Optimization tips&lt;/strong&gt; [coming soon!]&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/writing/Allison-SEO-Basics-Pt-2-On-Page-SEO-Optimization&quot;&gt;On-Page SEO Optimization tips&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;How Content can drive SEO results&lt;/strong&gt; [coming soon!]&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;SEO Tools and How to use them&lt;/strong&gt; [coming soon!]&lt;/li&gt;
 &lt;/ol&gt;
@@ -798,49 +1025,4 @@ The second half of my 2018 has been marked by mindful work balance and growth. I
   &lt;li&gt;&lt;strong&gt;Focusing on my health, something I’ve never done before!&lt;/strong&gt; This is the first time in my life that I’ve kept up with a workout routine for longer than six months (bootcamp classes at &lt;a href=&quot;http://totaltrainingcenter.com/&quot;&gt;Total Training Center&lt;/a&gt;). I’ve also started hot yoga again at &lt;a href=&quot;http://www.fuelhotyoga.com/&quot;&gt;Fuel Hot Yoga&lt;/a&gt; after a 3 year hiatus. My body is sore all the time — it feels like I’m achingly growing a new body.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Learning new ways to cook in a kitchen I love.&lt;/strong&gt; After renovating the a-frame, we have an incredible kitchen and it’s been so much fun tackling new recipes.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Becoming more environmentally friendly.&lt;/strong&gt; This year I really started to notice the waste around me, and how I contribute to it. Once you really see it, it’s shocking. I’ve become a lot better at using reusable cups and bags. I try to make most of my food from whole, bulk ingredients instead of food that comes in disposable packaging. Less meat or meat that’s local/ethically produced. And more…continuing to learn a lot more on how I can reduce my impact.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Allison Skinner</name></author><category term="2018" /><category term="Review" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/writing/18-12-08/2018-review.jpg" /></entry><entry><title type="html">Do you need a website? Here’s how to prepare for it.</title><link href="http://localhost:4000/writing/when-is-it-time-to-get-a-website" rel="alternate" type="text/html" title="Do you need a website? Here's how to prepare for it." /><published>2017-08-01T00:00:00-04:00</published><updated>2017-08-01T00:00:00-04:00</updated><id>http://localhost:4000/writing/when-is-it-time-to-get-a-website</id><content type="html" xml:base="http://localhost:4000/writing/when-is-it-time-to-get-a-website">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/17-09-01/website_cover.jpg&quot; alt=&quot;graphic for 'When is it time to get a website?'&quot; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;There are two questions you may be asking yourself: When is it a good time to get a website for my business? or I have a website, but it’s outdated. When should I get a website redesign?
-My answer to both of those questions is: &lt;strong&gt;Now&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To be a legitimate business you don’t need a storefront or employees (I have neither), but you do need a website. A website makes you credible. A website proves that you’ve got it together.&lt;/p&gt;
-
-&lt;p&gt;Also, when you have a website you are opening your business to the world, not just your nearby community. You will have more opportunity to gain customers, clients, fans, etc. when you put yourself online.&lt;/p&gt;
-
-&lt;p&gt;In my Freelancing Series , I talked about the &lt;a href=&quot;https://kk.org/thetechnium/1000-true-fans/&quot;&gt;1,000 True Fans theory&lt;/a&gt;. Essentially, you can make a decent living if you have 1,000 people who will always buy your products because they love what you do.&lt;/p&gt;
-
-&lt;p&gt;Will it be harder to get those true fans within a 15 mile radius or a 25,000 mile radius? (That’s the size of the Earth btw).
-Also, social media and search engines are truly the vehicles of success today. If you don’t have a website, less people will find you with a google search. You can make a business profile on social media, but you have limited to no control over the SEO, design and functionality. Not having a website for your business caps off your opportunity for success.&lt;/p&gt;
-
-&lt;p&gt;So, now we are all agreed. You need a website. What’s Next?
-If you have someone specific in mind to make your website, give that person or team a heads up that you are putting a website plan together.&lt;/p&gt;
-
-&lt;p&gt;I am typically booking projects 1-3 months in advance, so if you give me a heads up that you are wanting a website in the near future, I can likely save you spot on the list. Sometimes, I get phone calls from people that need someone to start on their website right now, and I’m just too busy to take it on.&lt;/p&gt;
-
-&lt;p&gt;Freelancers and small teams can quickly get booked up, so start communication early!&lt;/p&gt;
-&lt;h2 id=&quot;now-its-time-to-start-putting-together-your-website-plan&quot;&gt;Now, it’s time to start putting together your website plan.&lt;/h2&gt;
-&lt;p&gt;A designer/developer can’t provide a quote for your website unless you have a basic plan for your website. There’s been countless times that someone has contacted me about a website, and then I ask them a few standard questions, and within minutes they realize that they don’t even know what they want for their website, or maybe they don’t even know what they want out of their business.&lt;/p&gt;
-
-&lt;p&gt;It’s important to have a clear idea of what you want for your website, before you contact a designer/developer or an agency for the job. When you have a clear idea of what you want, we can provide a quote to you. If you just want something that’s “simple, not too many pages, but looks modern and clean” that could mean something different to each person. I think a small website is no more than four pages. Others might think a small website is no more than ten pages.&lt;/p&gt;
-
-&lt;h2 id=&quot;heres-your-homework-before-you-start-a-website&quot;&gt;Here’s your homework before you start a website:&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;Do you have the domain or hosting for your website?&lt;/li&gt;
-  &lt;li&gt;How many pages will your website have?&lt;/li&gt;
-  &lt;li&gt;How many of those pages will have static content and how many pages will have regularly updated content? I.e: blog posts, events, products for sale, staff members, etc.&lt;/li&gt;
-  &lt;li&gt;Do you have a desired deadline?&lt;/li&gt;
-  &lt;li&gt;Do you know your competition? Who, out of your competition, has a great website?&lt;/li&gt;
-  &lt;li&gt;What is the purpose of people visiting your site? What action do you want them to take? I.e. contact you for a quote or buy a product.&lt;/li&gt;
-  &lt;li&gt;Have you considered SEO (search engine optimization)? What are some keywords that you’d like your website to rank for?&lt;/li&gt;
-  &lt;li&gt;Do you have images and/or videography for your website?&lt;/li&gt;
-  &lt;li&gt;Do you have a logo?&lt;/li&gt;
-  &lt;li&gt;Do you have copy for website? I.e. about page, staff bios, etc.
-Once you’ve done your homework, now it’s time to reconnect with the person or team that you first contacted about a website and ask for a quote.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;If you have a website plan, it’s easier for me to provide a quote and it’s easier for me to start work on the website.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion:&lt;/h2&gt;
-&lt;p&gt;Making a website is work, not only for me, but also for you, the client. When you hire someone to make your website, you’re not completely off the hook. No one knows your business better than you do, so you want to be involved! A website forces you to get all your ducks in a row — photography, copy, contact information, products ready to be sold.
-It proves that you are capable and credible to run a business—to yourself and the world.&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="websites" /><category term="website redesign" /><summary type="html">There are two questions you may be asking yourself: When is it a good time to get a website for my business? or I have a website, but it’s outdated. When should I get a website redesign? My answer to both of those questions is: Now.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/writing/17-09-01/website_cover.jpg" /></entry></feed>
+&lt;/ul&gt;</content><author><name>Allison Skinner</name></author><category term="2018" /><category term="Review" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/writing/18-12-08/2018-review.jpg" /></entry></feed>

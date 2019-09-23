@@ -14,7 +14,7 @@ description: Some businesses can put in minimal effort and they will rank at the
 I thought this would be one post, but then it got very long — so I’ve broken it up into four parts
 
 1. **How Hard will SEO be for your business?**
-2. **On-Page SEO Optimization tips** [coming soon!]
+2. **[On-Page SEO Optimization tips](/writing/Allison-SEO-Basics-Pt-2-On-Page-SEO-Optimization)** 
 3. **How Content can drive SEO results** [coming soon!]
 4. **SEO Tools and How to use them** [coming soon!]
 
