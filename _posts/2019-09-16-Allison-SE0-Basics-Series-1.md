@@ -8,13 +8,14 @@ tags: [SEO]
 permalink: /writing/:title
 image: "assets/img/writing/seo1/seocover-1.jpg"
 description: Some businesses can put in minimal effort and they will rank at the top of the first page in Google. Other businesses have to put in consistent, valuable effort to be able to rank as well.
+comments: true
 ---
 
 ## Welcome to Part One of my SEO Basics series!
 I thought this would be one post, but then it got very long — so I’ve broken it up into four parts
 
 1. **How Hard will SEO be for your business?**
-2. **[On-Page SEO Optimization tips](/writing/Allison-SEO-Basics-Pt-2-On-Page-SEO-Optimization)** 
+2. **[On-Page SEO Optimization tips](/writing/Allison-SEO-Basics-Pt-2-On-Page-SEO-Optimization)**
 3. **How Content can drive SEO results** [coming soon!]
 4. **SEO Tools and How to use them** [coming soon!]
 

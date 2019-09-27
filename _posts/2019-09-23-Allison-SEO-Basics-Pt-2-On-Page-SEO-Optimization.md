@@ -8,6 +8,7 @@ tags: [SEO]
 permalink: /writing/:title
 image: "assets/img/writing/seo2/seo2-cover.jpg"
 description: Some businesses can put in minimal effort and they will rank at the top of the first page in Google. Other businesses have to put in consistent, valuable effort to be able to rank as well.
+comments: true
 ---
 ## Welcome to Part ✌️of my four part SEO Series.
 

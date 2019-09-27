@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-23T09:18:34-04:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
-</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">Allison’s SEO Basics Series: Pt 2. On-page SEO Optimization</title><link href="http://localhost:4000/writing/Allison-SEO-Basics-Pt-2-On-Page-SEO-Optimization" rel="alternate" type="text/html" title="Allison’s SEO Basics Series: Pt 2. On-page SEO Optimization" /><published>2019-09-23T00:00:00-04:00</published><updated>2019-09-23T00:00:00-04:00</updated><id>http://localhost:4000/writing/Allison-SEO-Basics-Pt-2-On-Page-SEO-Optimization</id><content type="html" xml:base="http://localhost:4000/writing/Allison-SEO-Basics-Pt-2-On-Page-SEO-Optimization">&lt;h2 id=&quot;welcome-to-part-️of-my-four-part-seo-series&quot;&gt;Welcome to Part ✌️of my four part SEO Series.&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-27T09:43:57-04:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
+</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">How To: overlapping sections on scroll</title><link href="http://localhost:4000/writing/overlapping-sections" rel="alternate" type="text/html" title="How To: overlapping sections on scroll" /><published>2019-09-27T00:00:00-04:00</published><updated>2019-09-27T00:00:00-04:00</updated><id>http://localhost:4000/writing/overlapping-sections</id><content type="html" xml:base="http://localhost:4000/writing/overlapping-sections">&lt;p&gt;Hello 👋!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/writing/overlap-scroll/overlap-scroll.gif&quot; alt=&quot;gif of me scrolling through the mobile version of my website. Each section overlaps the other on scroll&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Today I wanted to share how you can create on-scroll overlapping sections with some basic CSS.
+When building my portfolio website, I wanted the homepage to have a special on-scroll feature that felt unique but not overwhelming.
+I found what I was looking for on &lt;a href=&quot;https://www.superhi.com/video/parallax-overlapping-sections-using-sticky-positioning&quot;&gt;SuperHi’s tutorial: “Parallax overlapping sections using sticky positioning”&lt;/a&gt;. It was easy, elegant – just what I was looking for.&lt;/p&gt;
+
+&lt;p&gt;You can also view the code I used to do this on codepen 👇&lt;/p&gt;
+&lt;iframe height=&quot;500&quot; style=&quot;width: 100%;&quot; scrolling=&quot;no&quot; title=&quot;Overlapping sections with position sticky&quot; src=&quot;https://codepen.io/adskinner/embed/NWKeLZW?height=265&amp;amp;theme-id=light&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
+  See the Pen &lt;a href=&quot;https://codepen.io/adskinner/pen/NWKeLZW&quot;&gt;Overlapping sections with position sticky&lt;/a&gt; by Allison Skinner
+  (&lt;a href=&quot;https://codepen.io/adskinner&quot;&gt;@adskinner&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Organize your content into sections.&lt;/strong&gt; In my codepen example, I organized my content sections using the &amp;lt;section&amp;gt;&amp;lt;/section&amp;gt;html tag.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Add the following CSS to each section.&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;section&lt;/strong&gt; {&lt;br /&gt;
+  position: sticky;&lt;br /&gt;
+  position: -webkit-sticky;&lt;br /&gt;
+  top: 0;&lt;br /&gt;
+}&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Allison Skinner</name></author><summary type="html">Hello 👋!</summary></entry><entry><title type="html">Allison’s SEO Basics Series: Pt 2. On-page SEO Optimization</title><link href="http://localhost:4000/writing/Allison-SEO-Basics-Pt-2-On-Page-SEO-Optimization" rel="alternate" type="text/html" title="Allison’s SEO Basics Series: Pt 2. On-page SEO Optimization" /><published>2019-09-23T00:00:00-04:00</published><updated>2019-09-23T00:00:00-04:00</updated><id>http://localhost:4000/writing/Allison-SEO-Basics-Pt-2-On-Page-SEO-Optimization</id><content type="html" xml:base="http://localhost:4000/writing/Allison-SEO-Basics-Pt-2-On-Page-SEO-Optimization">&lt;h2 id=&quot;welcome-to-part-️of-my-four-part-seo-series&quot;&gt;Welcome to Part ✌️of my four part SEO Series.&lt;/h2&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;'/writing/Allison-SE0-Basics-Series-1'&quot;&gt;How hard will SEO be for your business?&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
@@ -835,194 +861,4 @@ Here’s what you’ll be seeing from Allison Skinner Web Design &amp;amp; Devel
 I already have a trip to Asheville in Feburary planned with my family. Spending two nights at the Grove Park Inn with Jeff for spa &amp;amp; relaxation and then we’re heading to downtown Asheville for two nights with our family for lots of beer and food.&lt;/p&gt;
 &lt;h2 id=&quot;3-grow-an-incredible-vegetable-garden&quot;&gt;3. Grow an Incredible Vegetable Garden&lt;/h2&gt;
 
-&lt;p&gt;Last year, I tried out gardening for the first time with two raised vegetable beds and I had a lot of success (with a few failures). I want to take full advantage of Georgia’s blessedly long growing seasons and expand my gardening. My dream is to possibly stop spending a fortune at the grocery store because I grow so much on my own! The biggest revelation I had about gardening is that you can buy an 80 cent pack of salad green seeds and have overflowing amounts of salad greens for months. Whereas at the grocery store you can spend $4 on a small handful of greens!&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="2019" /><category term="goals" /><summary type="html">2019 What’s to Come It’s December 2018 and it’s cold and wet in Georgia, which is as close as it’ll ever get to a wintry wonderland. With the year winding down, I’m thinking of what’s ahead. My only short term goal is to finish what I can and then relax with friends and family. After thanksgiving, I don’t take on new work. My only goal is to finish it! The best thing about a new year is that it’s a chance to start fresh. You can look back on what you did and didn’t accomplish in 2018 and then make new goals for 2019. Check out my 2018 Year in Review post here. Here’s what you’ll be seeing from Allison Skinner Web Design &amp;amp; Development in 2019.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/writing/18-12-10/2019.jpg" /></entry><entry><title type="html">2018: A Year in Review</title><link href="http://localhost:4000/writing/2018-A-Year-In-Review" rel="alternate" type="text/html" title="2018: A Year in Review" /><published>2018-12-08T00:00:00-05:00</published><updated>2018-12-08T00:00:00-05:00</updated><id>http://localhost:4000/writing/2018-A-Year-In-Review</id><content type="html" xml:base="http://localhost:4000/writing/2018-A-Year-In-Review">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/2018-review.jpg&quot; alt=&quot;2018 Year in Review&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;2018-a-year-in-review&quot;&gt;2018: A Year in review&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;2018 marks the year where I really got used to running a business. I’m now 2.5 years in, and it feels normal. I wake up, make coffee, walk the dogs and then sit down at my desk to start work. When I started my business, everything felt novel — working in my pajamas, having no boss, walking over to my couch for an afternoon nap. It felt like I was breaking the rules at a real career. Now, a few years later and still making it, this is what I do and it feels right. I’m not going anywhere!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;january&quot;&gt;January&lt;/h2&gt;
-
-&lt;p&gt;My year begin at full-speed. I had a client list as long as my arm and everyone wanted their website built and launched yesterday. Five months earlier I overbooked myself and I still wasn’t caught up.&lt;/p&gt;
-
-&lt;h3 id=&quot;launched-botanologos-school-of-herbal-studies-at-wildhealingherbscom&quot;&gt;Launched Botanologos School of Herbal Studies at &lt;a href=&quot;https://wildhealingherbs.com&quot;&gt;wildhealingherbs.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;../assets/img/portfolio/botanologos/botano-home.jpg&quot; alt=&quot;Botanologos School of Herbal Studies&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Botanologos School of Herbal Studies is an  herbalism program located in the Appalachian Mountains. The launch of the website celebrates their 25th year in operation. The new website features an interactive calendar, online shop and resources for herbal students.&lt;/p&gt;
-
-&lt;h3 id=&quot;launched-wow-fitness-at-wowfitnessandwellnesscom&quot;&gt;Launched WOW Fitness at &lt;a href=&quot;http://wowfitnessandwellness.com&quot;&gt;wowfitnessandwellness.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/wow-fitness.png&quot; alt=&quot;Wow Fitness and Wellness&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kevin Bailey became the new owner of WOW Fitness and wanted an updated website. This website features a calendar and online registration for the bootcamp.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What I Read:
-&lt;a href=&quot;https://www.avidbookshop.com/book/9780375703867&quot;&gt;White Teeth by Zadie Smith&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;feburary&quot;&gt;Feburary&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Did I even lift up my head for breath this month? I don’t think so. I launched FIVE websites this month. I never want to do that again lol.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;02012018---my-25th-birthday&quot;&gt;02/01/2018 - My 25th Birthday!&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/birthday.jpeg&quot; alt=&quot;Allison and friends enjoying birthday drinks at Seabear&quot; /&gt;
-&lt;em&gt;Birthday drinks with friends at Seabear in Athens, GA&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Also on my birthday led a lunch &amp;amp; learn with Jordan Burke on Website Fundamentals for the &lt;a href=&quot;http://downtownathensga.org/&quot;&gt;Athens Downtown Development Authority&lt;/a&gt;. After the lunch &amp;amp; learn I had celebratory cocktails at Seabear with friends (pictured above).&lt;/p&gt;
-
-&lt;h3 id=&quot;launched-lamar-dodd-school-art-at-artugaedu&quot;&gt;Launched Lamar Dodd School Art at &lt;a href=&quot;https://art.uga.edu&quot;&gt;art.uga.edu&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/lamar-dodd.jpg&quot; alt=&quot;Lamar Dodd School of Art&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This goes down as my biggest launch to date. We started the conversation of re-doing the School of Art’s website back in August 2015 and two years later we launched it. Does it take me two years to build a website? No. Can it take that long for the wheels of bureaucracy to allow it? Yes.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/nmi-dbb.jpeg&quot; alt=&quot;Thank you notes after NMI's DBB class&quot; /&gt;
-&lt;em&gt;Thank you notes after speaking NMI’s Digital Brown Bag class&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;02112018---spoke-to-new-media-institutes-digital-brown-bag-class-on-freelancing&quot;&gt;02/11/2018 - Spoke to New Media Institute’s Digital Brown Bag class on freelancing!&lt;/h3&gt;
-&lt;p&gt;This was so much fun. Got to tell a theater of students that freelancing is a real career path and that I love it. Met a lot of talented students from this talk. Still get messages from students today about it!&lt;/p&gt;
-
-&lt;h3 id=&quot;launched-greeline-rates-at-greenlineratescom&quot;&gt;Launched Greeline Rates at &lt;a href=&quot;https://greenlinerates.com&quot;&gt;greenlinerates.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;../assets/img/portfolio/greenline/homepage.jpg&quot; alt=&quot;Greenline Rates&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Building and launching this website was smooth sailing. The client loved the design, got me content quickly and, before I knew it, we launched the site! If only every launch could go like this one.&lt;/p&gt;
-
-&lt;h3 id=&quot;launched-inkwood-books-at-inkwoodbookscom-and-inkwoodbooksnjcom&quot;&gt;Launched Inkwood Books at &lt;a href=&quot;https://inkwoodbooks.com&quot;&gt;inkwoodbooks.com&lt;/a&gt; and &lt;a href=&quot;https://inkwoodbooksnj.com&quot;&gt;inkwoodbooksnj.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/inkwood-books.jpg&quot; alt=&quot;Inkwood Books&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I love that bookstore websites have become my niche. Inkwood Books has a location in Tampa, Florida and Haddonfield, New Jersey and they are run by two sisters! It was great working with them.&lt;/p&gt;
-
-&lt;h3 id=&quot;launched-velveteen-pink-at-velveteen-pinkcom&quot;&gt;Launched Velveteen Pink at &lt;a href=&quot;http://velveteen-pink.com&quot;&gt;velveteen-pink.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/vp.jpg&quot; alt=&quot;Velveteen Pink&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This website is different and weird. I loved making this site for one of my favorite Athens bands.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What I read: &lt;a href=&quot;https://www.avidbookshop.com/book/9780345803788&quot;&gt;Crazy Rich Asians by Kevin Kwan&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;march&quot;&gt;March&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;I thought I was going to finally catch up and get a break this month LOL&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;launched-winterville-station-at-wintervillestationcom&quot;&gt;Launched Winterville Station at &lt;a href=&quot;https://wintervillestation.com&quot;&gt;wintervillestation.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/winterville-station.jpg&quot; alt=&quot;Winterville Station&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This got me started on real estate websites, which I love making because it combines my hobby of house hunting and website building together. I really admire the genius of JW York Homes for seeing the potential for incredible, fairly priced homes in Winterville, GA.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Joined the gym and started a 2x a week bootcamp class. We lived at my parents for half of 2017 during house renovations and a wonderfully stocked fridge took it’s toll!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Planted my first vegetable garden (with lots of help from my Grandma!)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://d2mxuefqeaa7sj.cloudfront.net/s_44E17ACDC3F9B94235E168640DCF1C03353A6BC6F07E6E6534DE13C246498A63_1544247140874_2018-04-09+13.59.59-1.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;em&gt;The first seedlings coming up in my raised vegetable garden&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9780399184529&quot;&gt;The Mothers by Brit Bennett&lt;/a&gt;, &lt;a href=&quot;https://www.avidbookshop.com/book/9780307455925&quot;&gt;Americanah by Chimamanda Ngozi Adichie&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;april&quot;&gt;April&lt;/h2&gt;
-
-&lt;h3 id=&quot;launched-athentic-brewing-company-at-athenticbrewingcom&quot;&gt;Launched Athentic Brewing Company at &lt;a href=&quot;https://athenticbrewing.com&quot;&gt;athenticbrewing.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/athentic.jpg&quot; alt=&quot;Athentic Brewing Company&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;My dad and his business partner Mark are opening a brewery (expected opening June 2019) and of course I made the website because I’m the kid that makes websites in the family. I loved being able to do something for my dad after everything he’s done for me growing up!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9781101970348&quot;&gt;The Nix by Nathan Hill&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;may&quot;&gt;May&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Fired my first client.&lt;/strong&gt; This was a big learning experience for me. I really liked my client as a person, loved her business and admired her as a business owner. However, the work environment was toxic and stressful with no end in sight. The money was good, but my days were horrible. When I got the website launched, I ended work with that client.&lt;/p&gt;
-
-&lt;p&gt;Trip to New York City with 8 women in my family 😮 that’s a lot of us, I know, but we had so much fun.
-&lt;img src=&quot;../assets/img/writing/18-12-08/nyc.jpeg&quot; alt=&quot;New York City trip&quot; /&gt;
-&lt;em&gt;In New York City with my mother, May 2018&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;launched-uga-performing-arts-center-website-at-pacugaedu&quot;&gt;Launched UGA Performing Arts Center website at &lt;a href=&quot;https://pac.uga.edu&quot;&gt;pac.uga.edu&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/pac.jpeg&quot; alt=&quot;UGA Performing Art's Center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This was my second UGA website and my second biggest launch (which I did while I was in NYC with my family!) When I was approached for this website, I immediately knew how I wanted it to look and feel. It all came together and I’m really proud of this site.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9780143111641&quot;&gt;Swing Time by Zadie Smith&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;june&quot;&gt;June&lt;/h2&gt;
-
-&lt;h3 id=&quot;launched-saturn-booksellers-at-saturnbooksellerscom&quot;&gt;Launched Saturn Booksellers at &lt;a href=&quot;https://saturnbooksellers.com&quot;&gt;saturnbooksellers.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/saturn.jpg&quot; alt=&quot;Saturn Booksellers&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Saturn Booksellers, located in Gaylord, MI, won a small business contest and received funding for them to use as they wished — and they wanted a new website! After seeing my work with &lt;a href=&quot;https://avidbookshop.com&quot;&gt;Avid Bookshop&lt;/a&gt; and &lt;a href=&quot;https://inkwoodbooks.com&quot;&gt;Inkwood Books&lt;/a&gt;, they contacted me to update their site.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Went to Charleston for five days with my best friend Dani to dogsit my brother’s dog. I will drop anything at anytime to dogsit in Charleston — who wouldn’t??&lt;/strong&gt;
-&lt;img src=&quot;../assets/img/writing/18-12-08/charleston.jpg&quot; alt=&quot;Charleston trip with Dani&quot; /&gt;
-&lt;em&gt;In Charleston with my friend Dani. My brother’s dog Georgia on the right&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;july&quot;&gt;July&lt;/h2&gt;
-
-&lt;h3 id=&quot;finally-finally-caught-up-with-work-and-no-longer-overbooked&quot;&gt;Finally FINALLY caught up with work and no longer overbooked.&lt;/h3&gt;
-&lt;p&gt;I got overbooked in early August 2017 and it took an entire year of full-throttle working to get everything done. I made good money but I didn’t have the quality of life I wanted. I found that my whole thinking brain was consumed by work. July marked the beginning of my second half of 2018 — where I slowed things down, relaxed and was mindful to not get overbooked again.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Added a second pug to our family, Cooper, a 3 year old pug from the Rescue Ranch.&lt;/strong&gt;
-&lt;img src=&quot;../assets/img/writing/18-12-08/cooper.jpg&quot; alt=&quot;Cooper the pug&quot; /&gt;
-&lt;em&gt;Look at this cute pug named cooper!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;His original owners wanted to use him as a stud for breeding, but when that didn’t work out they surrendered him. Jeff and I are so lucky Cooper is in our lives. We love him (and Daisy!) so so much.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9780345803313&quot;&gt;The People in the Trees by Hanya Yanagihara&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;august&quot;&gt;August&lt;/h2&gt;
-
-&lt;p&gt;Started my new portfolio site. I finally had time to work on this!&lt;/p&gt;
-
-&lt;p&gt;Went to Iowa with my family for the Iowa State Fair. Brought my boyfriend Jeff along! Introduced him to the farmer life.
-&lt;img src=&quot;../assets/img/writing/18-12-08/iowa.jpg&quot; alt=&quot;Iowa trip with family&quot; /&gt;
-&lt;em&gt;Jeff and I at the Iowa State fair eating meat on a stick. Also Jeff and I touring my family’s corn farms.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9780735224292&quot;&gt;Little Fires Everywhere by Celeste Ng&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;september&quot;&gt;September&lt;/h2&gt;
-
-&lt;p&gt;Worked picked back up this month by signing on two new clients — Demmie Hicks and the World of Pearl (websites launching soon!). I also started a new Drupal 8 redesign of the &lt;a href=&quot;https://art.uga.edu&quot;&gt;Lamar Dodd website&lt;/a&gt;. Yes, I the site launched only six months prior but I’ve always got new ideas for Lamar Dodd.&lt;/p&gt;
-
-&lt;p&gt;Started an 8 week pottery wheel class. I wanted to start a hobby that was far from the computer. Turns out I’m pretty terrible at pottery, but I’m glad I took the class!
-&lt;img src=&quot;../assets/img/writing/18-12-08/pottery.jpeg&quot; alt=&quot;pottery class&quot; /&gt;
-&lt;em&gt;I made this in pottery class!!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9781501126079&quot;&gt;Sing Unburied Sing, by Jesamyn Ward&lt;/a&gt;, &lt;a href=&quot;https://www.avidbookshop.com/book/9781328745538&quot;&gt;The Wangs vs. The World by Jade Chang&lt;/a&gt;, &lt;a href=&quot;https://www.avidbookshop.com/book/9781101971062&quot;&gt;Homegoing by Yaa Gyasi&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;october&quot;&gt;October&lt;/h2&gt;
-
-&lt;h3 id=&quot;launched-the-georgia-club-real-estate-company-at-georgiclubrealestatecom&quot;&gt;Launched the Georgia Club Real Estate Company at &lt;a href=&quot;georgiclubrealestate.com&quot;&gt;georgiclubrealestate.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/tgcr.jpg&quot; alt=&quot;Georgia Club Real Estate&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The Georgia Club Real Estate Company has been operating for years through The Georgia Club, but  2018 marked the year they stepped out on their own. They needed an elegant website for their elegant homes, and that’s what I made for them!&lt;/p&gt;
-
-&lt;h2 id=&quot;november&quot;&gt;November&lt;/h2&gt;
-
-&lt;p&gt;Started hot yoga again after not going for 3 years. Began to combine 2-3 bootcamp classes a week with 2-3 yoga classes. Health has become a new focus of 2018.
-&lt;img src=&quot;../assets/img/writing/18-12-08/health.jpeg&quot; alt=&quot;Allison post-workout&quot; /&gt;
-&lt;em&gt;Proof of workout&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9780679745587&quot;&gt;In Cold Blood by Truman Capote&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;december&quot;&gt;December&lt;/h2&gt;
-
-&lt;h3 id=&quot;launched-jw-york-homes-at-jwyorkhomescom&quot;&gt;Launched JW York Homes at &lt;a href=&quot;https://jwyorkhomes.com&quot;&gt;jwyorkhomes.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/jwy.jpg&quot; alt=&quot;JW York Homes&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I built this website back in June, but it took awhile for all the content to come together for the site’s launch. By December, we were determined to launch the site, so we wrapped up the final tweaks and launched it!&lt;/p&gt;
-
-&lt;h3 id=&quot;launched-the-world-of-pearl-at-theworldofpearlcom&quot;&gt;Launched The World of Pearl at &lt;a href=&quot;https://theworldpofpearl.com&quot;&gt;theworldofpearl.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-08/wop.jpg&quot; alt=&quot;World of Pearl&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The World of Pearl is a niche website that focuses on the international pearl travels of India Rows, The Pearl Girls founder &amp;amp; CEO. It’s been really interesting to learn more about pearls and how India started a successful online pearl jewelry business. My work on The World of Pearl led to work on their main ecommerce site &lt;a href=&quot;https://thepearlgirls.com&quot;&gt;The Pearl Girls&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Read: &lt;a href=&quot;https://www.avidbookshop.com/book/9781594634482&quot;&gt;Fates &amp;amp; Furies by Lauren Groff&lt;/a&gt;, &lt;a href=&quot;https://www.avidbookshop.com/book/9781451621174&quot;&gt;Catch-22 by Joseph Heller&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;2018-had-two-distinct-halves&quot;&gt;2018 had two distinct halves.&lt;/h2&gt;
-&lt;p&gt;The first half was a flurry of work and site launches. I got an incredible amount of work done and I’m really proud of myself. However, the consequence was I got burnt out and needed a complete reset.
-The second half of my 2018 has been marked by mindful work balance and growth. I’ve kept going with work, but I have time to make dinner, see friends, work out. I can take my dogs on a walk and think about absolutely nothing — mind clear. I’m in a really good place!&lt;/p&gt;
-
-&lt;h3 id=&quot;other-things-im-really-proud-of-in-2018&quot;&gt;Other things I’m really proud of in 2018.&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Focusing on my health, something I’ve never done before!&lt;/strong&gt; This is the first time in my life that I’ve kept up with a workout routine for longer than six months (bootcamp classes at &lt;a href=&quot;http://totaltrainingcenter.com/&quot;&gt;Total Training Center&lt;/a&gt;). I’ve also started hot yoga again at &lt;a href=&quot;http://www.fuelhotyoga.com/&quot;&gt;Fuel Hot Yoga&lt;/a&gt; after a 3 year hiatus. My body is sore all the time — it feels like I’m achingly growing a new body.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Learning new ways to cook in a kitchen I love.&lt;/strong&gt; After renovating the a-frame, we have an incredible kitchen and it’s been so much fun tackling new recipes.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Becoming more environmentally friendly.&lt;/strong&gt; This year I really started to notice the waste around me, and how I contribute to it. Once you really see it, it’s shocking. I’ve become a lot better at using reusable cups and bags. I try to make most of my food from whole, bulk ingredients instead of food that comes in disposable packaging. Less meat or meat that’s local/ethically produced. And more…continuing to learn a lot more on how I can reduce my impact.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Allison Skinner</name></author><category term="2018" /><category term="Review" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/writing/18-12-08/2018-review.jpg" /></entry></feed>
+&lt;p&gt;Last year, I tried out gardening for the first time with two raised vegetable beds and I had a lot of success (with a few failures). I want to take full advantage of Georgia’s blessedly long growing seasons and expand my gardening. My dream is to possibly stop spending a fortune at the grocery store because I grow so much on my own! The biggest revelation I had about gardening is that you can buy an 80 cent pack of salad green seeds and have overflowing amounts of salad greens for months. Whereas at the grocery store you can spend $4 on a small handful of greens!&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="2019" /><category term="goals" /><summary type="html">2019 What’s to Come It’s December 2018 and it’s cold and wet in Georgia, which is as close as it’ll ever get to a wintry wonderland. With the year winding down, I’m thinking of what’s ahead. My only short term goal is to finish what I can and then relax with friends and family. After thanksgiving, I don’t take on new work. My only goal is to finish it! The best thing about a new year is that it’s a chance to start fresh. You can look back on what you did and didn’t accomplish in 2018 and then make new goals for 2019. Check out my 2018 Year in Review post here. Here’s what you’ll be seeing from Allison Skinner Web Design &amp;amp; Development in 2019.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/writing/18-12-10/2019.jpg" /></entry></feed>
