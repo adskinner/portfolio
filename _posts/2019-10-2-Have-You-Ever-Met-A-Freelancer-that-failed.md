@@ -7,7 +7,7 @@ categories:
 tags: [freelancing]
 permalink: /writing/:title
 image: "assets/img/writing/freelance-fail/freelance-fail.jpg"
-description: A student asked me this question last month.
+description: A student asked me this question last month. I was struck by the word "fail" because it means that you tried. I don't see freelancers that fail but I have seen freelancers that don't make it. 
 comments: true
 ---
 
