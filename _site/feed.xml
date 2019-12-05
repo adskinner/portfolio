@@ -1,5 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-02T11:29:56-04:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
-</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">Have you ever met a freelancer that failed?</title><link href="http://localhost:4000/writing/Have-You-Ever-Met-A-Freelancer-that-failed" rel="alternate" type="text/html" title="Have you ever met a freelancer that failed?" /><published>2019-10-02T00:00:00-04:00</published><updated>2019-10-02T00:00:00-04:00</updated><id>http://localhost:4000/writing/Have-You-Ever-Met-A-Freelancer-that-failed</id><content type="html" xml:base="http://localhost:4000/writing/Have-You-Ever-Met-A-Freelancer-that-failed">&lt;h2 id=&quot;have-you-ever-met-a-freelancer-that-failed&quot;&gt;Have you ever met a freelancer that failed?&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-04T21:54:16-05:00</updated><id>http://localhost:4000/</id><title type="html">Allison Skinner Web Design and Development</title><subtitle>Allison Skinner provides custom web design, web development and web maintenance for a variety of businesses in the Athens, Georgia and Atlanta, Georgia area.
+</subtitle><author><name>Allison Skinner</name></author><entry><title type="html">Here’s a 3D rotating book because I started a book club 📚</title><link href="http://localhost:4000/writing/3D-rotating-book" rel="alternate" type="text/html" title="Here's a 3D rotating book because I started a book club 📚" /><published>2019-10-07T00:00:00-04:00</published><updated>2019-10-07T00:00:00-04:00</updated><id>http://localhost:4000/writing/I-Started-a-book-club</id><content type="html" xml:base="http://localhost:4000/writing/3D-rotating-book">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/rotating-book/rotating-book.gif&quot; alt=&quot;gif of rotating 3D book. The book is STATION ELEVEN by Emily St.John Mandel&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Last month I posted on instagram, “What if we started a book club?” and to my surprise a lot of people were very interested (close friends, friends I don’t see as often and a few that I don’t know too well yet).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I think a lot of us in our adult lives lose touch with reading. When we are young, reading is encouraged and enforced with compulsory literature classes, summer reading assignments and standardized testing. A lot of this early reading can feel like a chore but every so often magic strikes, and you fall into a book and the book devours you, changes you. It’s an incredible experience.&lt;/p&gt;
+
+&lt;p&gt;As adults, there is no compulsory reading and really no encouragement either. I feel like we’re pushed to be on our phones all day and compare ourselves to everyone else. We are reading all day but how much of it is valuable, how much of it holds our attention longer than seven seconds?
+To put down your phone and pick up a book can feel like a revolutionary act.&lt;/p&gt;
+
+&lt;p&gt;That’s a big reason why so many wanted to join the book club. They used to have a love for reading, but somehow that love hasn’t followed them into their adult life.&lt;/p&gt;
+
+&lt;p&gt;My hope for the book club is that people find their love for reading again. I’m personally excited to talk about books, read books that I usually wouldn’t pick out and have a reason to spend time with others.&lt;/p&gt;
+
+&lt;p&gt;For our first month, I said I would pick the book and I’d host book club at my home. I didn’t expect picking the book would be so stressful!
+My criteria for the book was the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;available in paperback&lt;/li&gt;
+  &lt;li&gt;spooky in some way (because October)&lt;/li&gt;
+  &lt;li&gt;under 400 pages&lt;/li&gt;
+  &lt;li&gt;page-turner but has depth&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After reading many book reviews, I landed on &lt;a href=&quot;https://www.indiebound.org/book/9780804172448&quot;&gt;Station Eleven&lt;/a&gt; by Emily St. John Mandel. It’s about a traveling theatre group in post-apocalyptic America.
+As I’m writing this, I have not started the book yet. I’ll be starting the book tonight!
+Of course, starting a book club made me also want to code a rotating 3D book because why not.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you are interested in what else I’ve read, I post book reviews in my &lt;a href=&quot;https://www.instagram.com/a.l.l.is.on/&quot;&gt;Instagram story highlights&lt;/a&gt; and I also post my reading on &lt;a href=&quot;https://www.goodreads.com/user/show/61939896-allison-skinner.&quot;&gt;GoodReads&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;about-the-3d-rotating-book-i-coded&quot;&gt;About the 3D Rotating Book I coded…&lt;/h2&gt;
+
+&lt;p&gt;I followed SuperHi’s tutorial &lt;a href=&quot;https://www.superhi.com/video/how-to-make-an-interactive-rotating-3d-cube-with-css-and-javascript&quot;&gt;How to make an interactive rotating 3d cube with CSS and Javascript&lt;/a&gt;. You can view my codepen below or &lt;a href=&quot;https://codepen.io/adskinner/pen/PoowERX&quot;&gt;here&lt;/a&gt; for the full HTML, CSS and JavaScript.&lt;/p&gt;
+
+&lt;iframe height=&quot;680&quot; style=&quot;width: 100%;&quot; scrolling=&quot;no&quot; title=&quot;3D Rotating Book&quot; src=&quot;https://codepen.io/adskinner/embed/PoowERX?height=680&amp;amp;theme-id=light&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
+  See the Pen &lt;a href=&quot;https://codepen.io/adskinner/pen/PoowERX&quot;&gt;3D Rotating Book&lt;/a&gt; by Allison Skinner
+  (&lt;a href=&quot;https://codepen.io/adskinner&quot;&gt;@adskinner&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;</content><author><name>Allison Skinner</name></author><category term="book club" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/writing/rotating-book/rotating-book.gif" /></entry><entry><title type="html">Have you ever met a freelancer that failed?</title><link href="http://localhost:4000/writing/Have-You-Ever-Met-A-Freelancer-that-failed" rel="alternate" type="text/html" title="Have you ever met a freelancer that failed?" /><published>2019-10-02T00:00:00-04:00</published><updated>2019-10-02T00:00:00-04:00</updated><id>http://localhost:4000/writing/Have-You-Ever-Met-A-Freelancer-that-failed</id><content type="html" xml:base="http://localhost:4000/writing/Have-You-Ever-Met-A-Freelancer-that-failed">&lt;h2 id=&quot;have-you-ever-met-a-freelancer-that-failed&quot;&gt;Have you ever met a freelancer that failed?&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;I was asked this question by a student when I spoke to one of Lamar Dodd School of Art’s classes this Fall of 2019. [side note &lt;a href=&quot;/work/lamar-dodd-school-of-art&quot;&gt;Lamar Dodd School of Art&lt;/a&gt; is one of my clients!] We were discussing running a business as an artist.&lt;/p&gt;
@@ -836,37 +874,4 @@ However, I do have the technical experience to update/edit my personal website w
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Would a Jekyll website be a good fit for your business? Read my post that breaks down the pros and cons of Jekyll websites [COMING SOON].&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="Jekyll" /><category term="Portfolio Website" /><category term="Static Sites" /><category term="Github Pages" /><summary type="html">1. Why didn’t I build my website in Wordpress or Drupal? (Because that’s what I build most of my client websites with) For my clients, I primarily build websites on Wordpress, Drupal or Shopify. I love working on these platforms because it gives my clients with limited technical expertise the ability to update and manage their own websites. However, I do have the technical experience to update/edit my personal website without any admin interface or user dashboard. I wanted a lean publishing platform that would allow for me push changes and manage a blog with ease – that’s why I chose Jekyll!</summary></entry><entry><title type="html">Why I wanted to redesign my portfolio website</title><link href="http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site" rel="alternate" type="text/html" title="Why I wanted to redesign my portfolio website" /><published>2018-12-29T00:00:00-05:00</published><updated>2018-12-29T00:00:00-05:00</updated><id>http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site</id><content type="html" xml:base="http://localhost:4000/writing/why-i-wanted-to-redesign-my-portfolio-site">&lt;p&gt;&lt;img src=&quot;../assets/img/writing/18-12-29/old-allison-homepage.jpg&quot; alt=&quot;Homepage of 2016 version of Allison Skinner Web Design and Development website&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In August 2016, I launched &lt;a href=&quot;https://allisondskinner.com&quot;&gt;allisondskinner.com&lt;/a&gt;. At the time, I thought it was going to be a basic portfolio site that would garner a few freelance clients to supplement my full-time job income. However, two days after launching my portfolio site, I didn’t have a full-time job anymore and now my portfolio website represented my full-time business.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(If you want to learn more about my origin story, &lt;a href=&quot;/writing/One-Year-Full-Time-Freelancing-What-Ive-Learned-Pt-1&quot;&gt;keep reading here&lt;/a&gt;.) I’m proud of my 2016 portfolio because it brought me solid, recurring business for over two years, but there were some flaws with the site.
-By 2018, I wanted to redo my portfolio site because my business had evolved in so many ways and because the site was such a pain to update.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-following-were-the-main-issues-i-had-with-my-2016-portfolio-website&quot;&gt;The following were the main issues I had with my 2016 portfolio website:&lt;/h2&gt;
-
-&lt;h3 id=&quot;1-i-bought-a-premium-html-theme-for-my-portfolio-website&quot;&gt;1. I bought a premium HTML theme for my portfolio website&lt;/h3&gt;
-&lt;p&gt;Which means, I didn’t truly design my portfolio website and I didn’t write all the code. Here’s the &lt;a href=&quot;https://themeforest.net/item/sartre-creative-multipurpose-html-template/13912008&quot;&gt;theme&lt;/a&gt; I bought, if you’re interested! This was the best choice for my skill level at the time, but two years later it was an internal embarrassment. I design and build custom themes for all my clients, so my portfolio should reflect that level of craftsmanship.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-being-a-raw-html-website-there-was-nothing-dynamic-about-the-website-and-it-was-tedious-to-manage-a-blog&quot;&gt;2. Being a raw HTML website, there was nothing dynamic about the website and it was tedious to manage a blog.&lt;/h3&gt;
-&lt;p&gt;If I wanted to publish a blog post, not only did I have to hand code the post, but then I had to hand code it into my blog feed, the mini blog feed on my homepage and on the ‘recent posts’ sidebar on every past blog post. With a little PHP (or liquid or twig) that could all be done dynamically.&lt;/p&gt;
-
-&lt;h3 id=&quot;3-i-cater-to-everyone-in-how-i-market-and-describe-my-business&quot;&gt;3. I cater to everyone in how I market and describe my business&lt;/h3&gt;
-&lt;p&gt;When I launched my business, I was available and interested in any web project — any budget, any industry, any deadline. This is a good business plan if you need a lot of business asap, but it’s not very good if you want to become an expert in any niche type of website design or development. Now, I want my portfolio website to appeal to my dream clients – which are creative, hard-working businesses that need a website to work hard for them!&lt;/p&gt;
-
-&lt;h2 id=&quot;my-main-goals-for-my-new-2019-portfolio-site-are-the-following&quot;&gt;My main goals for my new 2019 portfolio site are the following:&lt;/h2&gt;
-
-&lt;h3 id=&quot;1-a-unique-experimental-design-that-i-usually-dont-have-the-opportunity-to-designbuild-for-a-client&quot;&gt;1. A unique, experimental design that I usually don’t have the opportunity to design/build for a client&lt;/h3&gt;
-&lt;p&gt;My 2016 portfolio design is mostly based off the HTML theme I purchased, for my new 2019 portfolio website I wanted it to be 100% Allison through and through. Bright colors, split page navigation, bold typography. I wanted my portfolio website to appeal to creative businesses that don’t want a cookie-cutter website.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-an-easier-way-to-write-and-share-blog-posts&quot;&gt;2. An easier way to write and share blog posts&lt;/h3&gt;
-&lt;p&gt;When writing for my old portfolio site, it was so tedious to publish anything — think raw html, copying and pasting the same blocks of code over and over again from page to page. For my new portfolio website, I didn’t want a bloated CMS but I knew I had to have some kind of platform that I could manage a blog easily from.&lt;/p&gt;
-
-&lt;h3 id=&quot;3-keep-my-high-seo-rankings-and-fast-page-load-times&quot;&gt;3. Keep my high SEO rankings and fast page load times.&lt;/h3&gt;
-&lt;p&gt;The two big things that worked on my portfolio website was that it ranked well on google search results and that it loaded really fast. I can attribute this to having a raw HTML website with no heavy CMS or database to load. It was clean, lean code and google rewarded me for it. And I want to keep it that way!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;After reviewing my goals for my next portfolio site, the path was clear for me — I wanted to build a static site with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and host it on &lt;a href=&quot;https://pages.github.com/&quot;&gt;github pages&lt;/a&gt;. What is Jekyll and why am I using it for my portfolio website? What does it mean to host with github pages? Keep reading in my &lt;a href=&quot;/writing/Why-I-chose-to-build-my-portfolio-site-on-jekyll&quot;&gt;next post&lt;/a&gt;!&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Allison Skinner</name></author><category term="Portfolio Website" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/writing/18-12-29/old-allison-homepage.jpg" /></entry></feed>
+&lt;p&gt;Would a Jekyll website be a good fit for your business? Read my post that breaks down the pros and cons of Jekyll websites [COMING SOON].&lt;/p&gt;</content><author><name>Allison Skinner</name></author><category term="Jekyll" /><category term="Portfolio Website" /><category term="Static Sites" /><category term="Github Pages" /><summary type="html">1. Why didn’t I build my website in Wordpress or Drupal? (Because that’s what I build most of my client websites with) For my clients, I primarily build websites on Wordpress, Drupal or Shopify. I love working on these platforms because it gives my clients with limited technical expertise the ability to update and manage their own websites. However, I do have the technical experience to update/edit my personal website without any admin interface or user dashboard. I wanted a lean publishing platform that would allow for me push changes and manage a blog with ease – that’s why I chose Jekyll!</summary></entry></feed>
