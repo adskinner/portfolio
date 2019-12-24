@@ -5,6 +5,7 @@ published: "November 2019"
 website: "awblove.com"
 image: "portfolio/awb/awb-front.jpg"
 description: Ashley Woodson Bailey is an artist that is defined fully and completely by flowers. Ash arranges flowers into intimate creations that are made "forever" through prints, wallpaper, fabrics and other limited collections. Ash wanted a "dark and moody" website to showcase her flowers and I was thrilled to deliver just that.
+permalink: /work/awb
 ---
 ![AWB homepage with Dewalt wallpaper slide][1]
 
