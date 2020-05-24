@@ -4,7 +4,7 @@ title: "Richard B Russell Library for Political and Research Studies"
 published: "May 2020"
 website: "libs.uga.edu/russell-library"
 image: "portfolio/russell-library/russell-front.jpg"
-description: Richard B. Russell Library for Policiatl and Research Studies is located in the Special Collections Libraries on the University of Georgia campus.
+description: Richard B. Russell Library for Political and Research Studies is located in the Special Collections Libraries on the University of Georgia campus. I gave the Russell Library website a modern redesign that follows UGA Brand guidelines and a website rebuild on the Drupal 8 platform. 
 permalink: /work/russell-Library
 ---
 
